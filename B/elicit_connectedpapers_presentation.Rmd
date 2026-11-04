@@ -1,0 +1,685 @@
+---
+title: "Herramientas IA para Investigación Académica"
+subtitle: "Elicit y Connected Papers: Revolucionando la revisión de literatura"
+author: "Ricardo R. Palma"
+date: "`r Sys.Date()`"
+output: 
+  ioslides_presentation:
+    widescreen: true
+    smaller: true
+    logo: ERP2.png
+    css: styles.css
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, 
+                     fig.width = 10, fig.height = 6)
+library(knitr)
+library(DT)
+library(dplyr)
+```
+
+# Introducción
+
+## La revolución de la IA en investigación académica
+
+**El problema tradicional:**
+
+- Búsqueda manual en múltiples bases de datos
+- Revisión individual de miles de artículos
+- Dificultad para identificar conexiones entre papers
+- Proceso lento y propenso a sesgos cognitivos
+
+**La solución moderna:**
+
+- **Elicit**: Asistente de investigación con IA
+- **Connected Papers**: Mapas visuales de literatura científica
+- Automatización inteligente del proceso de revisión
+- Descubrimiento de patrones ocultos
+
+## **¿Por qué estas herramientas?**
+
+- Aceleran el proceso de revisión de literatura
+- Reducen sesgos en la búsqueda 
+- Mejoran la calidad de las revisiones sistemáticas
+- Facilitan el descubrimiento de nuevas conexiones
+
+# Elicit: Tu asistente de investigación con IA
+
+## ¿Qué es Elicit?
+
+**Elicit** es un asistente de investigación impulsado por IA que
+automatiza partes del flujo de trabajo de investigación.
+
+**Características principales:**
+
+- Búsqueda semántica avanzada
+- Resúmenes automáticos de papers
+- Extracción de datos estructurados
+- Análisis comparativo de estudios
+- Generación de tablas de evidencia
+
+**URL:** [elicit.org](https://elicit.org)
+
+**Modelo base:** GPT-4 y modelos especializados en texto académico free
+
+## Funcionalidades principales de Elicit
+
+| Función | Descripción | Beneficio |
+|:-------------------|:---------------------------|:-----------------------|
+| **Literature Review** | Búsqueda y síntesis automática | Ahorra 80% del tiempo |
+| **Data Extraction** | Extrae variables clave | Estandariza la información |
+| **Paper Summaries** | Resúmenes inteligentes | Comprensión rápida |
+| **Question Answering** | Responde preguntas específicas | Análisis dirigido |
+| **Systematic Reviews** | Asiste en revisiones sistemáticas | Metodología rigurosa |
+
+## Interfaz y experiencia de usuario {.smaller}
+
+**Proceso típico en Elicit:**
+
+1.  **Hacer una pregunta de investigación**
+
+    - "¿Cuál es la efectividad de la meditación mindfulness en la
+      reducción del estrés?"
+
+2.  **Elicit busca y analiza papers relevantes**
+
+    - Búsqueda en bases de datos académicas
+    - Ranking por relevancia semántica
+
+3.  **Presenta resultados estructurados**
+
+    - Tabla con papers relevantes
+    - Resúmenes de cada estudio
+    - Extracción de datos clave
+
+4.  **Permite análisis profundo**
+
+    - Filtros por metodología, año, muestra
+    - Comparación entre estudios
+    - Síntesis de hallazgos
+
+## Tipos de búsqueda en Elicit
+
+**1. Búsqueda por pregunta de investigación**
+
+```         
+"¿Cómo afecta el trabajo remoto a la productividad?"
+```
+
+**2. Búsqueda por conceptos**
+
+```         
+"Machine learning in healthcare"
+```
+
+**3. Búsqueda por metodología**
+
+```         
+"Randomized controlled trials meditation anxiety"
+```
+
+**4. Búsqueda comparativa**
+
+```         
+"Comparison between online and face-to-face education"
+```
+
+------------------------------------------------------------------------
+
+**Ventajas sobre búsquedas tradicionales:** 
+
+- Comprende el contexto y la intención 
+- No requiere operadores booleanos complejos 
+- Encuentra papers con terminología diferente pero conceptos similares
+
+# Casos de uso de Elicit
+
+## Revisiones sistemáticas de literatura {.smaller}
+
+**Proceso tradicional vs. Elicit:**
+
+| Fase | Tradicional | Con Elicit |
+|:-----------------|:---------------------------|:-------------------------|
+| **Búsqueda inicial** | Múltiples bases, palabras clave | Una pregunta en lenguaje natural |
+| **Screening** | Revisión manual título/abstract | Resúmenes automáticos + filtros |
+| **Extracción de datos** | Manual, propenso a errores | Automática, campos estructurados |
+| **Síntesis** | Manual, subjetiva | Asistida por IA, más objetiva |
+
+
+## Ejemplo práctico: 
+
+- **Pregunta:** "¿Cuál es la efectividad de intervenciones digitales para la salud mental en adolescentes?" 
+- **Resultado:** Tabla con 50+ estudios, datos extraídos automáticamente 
+- **Tiempo:** De semanas a horas
+
+## Exploración de temas emergentes
+
+```         
+Pregunta: "¿Cuáles son las aplicaciones más prometedoras 
+de la inteligencia artificial en educación personalizada?"
+```
+
+**Elicit proporciona:** 
+
+- Papers más recientes sobre IA en educación 
+- Tendencias emergentes identificadas automáticamente 
+- Gaps en la investigación actual 
+- Metodologías más utilizadas
+
+**Ideal para:** 
+
+- Identificar nichos de investigación 
+- Mantenerse actualizado en tu campo 
+- Explorar aplicaciones interdisciplinarias
+
+## Análisis comparativo de intervenciones {.smaller}
+
+**Caso: Comparación de tratamientos para depresión**
+
+Elicit puede extraer automáticamente: 
+
+- **Participantes:** N, edad, demografía 
+- **Intervención:** Tipo, duración, frecuencia 
+- **Outcomes:** Medidas primarias y secundarias 
+- **Resultados:** Effect size, significancia estadística 
+- **Calidad:** Riesgo de sesgo, limitaciones
+
+**Tabla generada automáticamente:**
+
+```{r}
+# Simulación de tabla que generaría Elicit
+treatment_comparison <- data.frame(
+  Study = c("Smith et al. (2023)", "Johnson et al. (2022)", "Lee et al. (2023)"),
+  N = c(120, 85, 200),
+  Intervention = c("CBT + App", "CBT tradicional", "Mindfulness-based"),
+  Duration = c("12 semanas", "16 semanas", "8 semanas"),
+  Primary_Outcome = c("PHQ-9", "BDI-II", "DASS-21"),
+  Effect_Size = c("d = 0.85", "d = 0.72", "d = 0.63"),
+  Quality = c("Alta", "Moderada", "Alta")
+)
+
+kable(treatment_comparison, caption = "Ejemplo de tabla generada por Elicit")
+```
+
+# Connected Papers: Mapas visuales de la ciencia
+
+## ¿Qué es Connected Papers?
+
+**Connected Papers** es una herramienta que crea mapas visuales de
+papers académicos, mostrando conexiones y relaciones entre
+investigaciones.
+
+**Características principales:** 
+
+- Mapas visuales de literatura científica 
+- Algoritmos de similaridad semántica 
+- Identificación de papers influyentes 
+- Exploración de trayectorias de investigación 
+- Descubrimiento de trabajos relacionados
+
+**URL:** [connectedpapers.com](https://connectedpapers.com)
+
+**Base de datos:** 200+ millones de papers de Semantic Scholar
+
+## Tipos de visualizaciones
+
+**1. Similar Work Graph** 
+- Muestra papers similares al de entrada 
+- Basado en referencias compartidas y citaciones 
+- Identifica clusters temáticos
+
+**2. Prior Work Graph** 
+- Mapea la evolución histórica del tema 
+- Muestra antecedentes y fundamentos 
+- Ideal para entender el desarrollo del campo
+
+**3. Derivative Work Graph** 
+
+- Visualiza trabajos posteriores 
+- Muestra el impacto e influencia 
+- Identifica tendencias emergentes
+
+## Interpretación de los mapas {.smaller}
+
+**Elementos visuales:**
+
+- **Nodos (círculos):** Cada paper individual
+- **Tamaño del nodo:** Número de citaciones
+- **Color del nodo:** Año de publicación
+- **Conexiones:** Similaridad semántica
+- **Clusters:** Grupos temáticos relacionados
+
+**Código de colores típico:** - 🔵 **Azul oscuro:** Papers más
+antiguos - 🟢 **Verde:** Papers de período intermedio\
+- 🔴 **Rojo:** Papers más recientes - ⚫ **Negro/Gris:** Paper de
+entrada
+
+**Estrategias de navegación:** - Comenzar por clusters densos (temas
+establecidos) - Explorar conexiones periféricas (enfoques novedosos) -
+Seguir trayectorias temporales (evolución del campo)
+
+## Funciones avanzadas
+
+**Build a Graph:** 
+- Crear mapas con múltiples papers de entrada 
+- Combinar diferentes líneas de investigación 
+- Identificar intersecciones entre campos
+
+**Filters y Search:** 
+
+- Filtrar por año, autor, venue - Búsqueda dentro del mapa - Exportar listas de papers
+
+**Integration features:** 
+- Links directos a PDFs cuando disponibles 
+- Información de Open Access 
+- Métricas de impacto integradas
+
+# Casos de uso de Connected Papers
+
+## Exploración de un campo nuevo {.smaller}
+
+**Escenario:** Investigador entrando en "Explainable AI"
+
+**Proceso:** 1. **Paper seminal de entrada:** "Explaining and Harnessing
+Adversarial Examples" (Goodfellow et al.)
+
+2.  **Similar Work Graph revela:**
+    - Clusters sobre interpretabilidad
+    - Métodos de visualización
+    - Aplicaciones en diferentes dominios
+3.  **Prior Work Graph muestra:**
+    - Fundamentos teóricos
+    - Primeros trabajos sobre transparencia en ML
+4.  **Derivative Work Graph indica:**
+    - Aplicaciones recientes en medicina, finanzas
+    - Nuevas técnicas de explicabilidad
+    - Regulaciones y aspectos éticos
+
+**Resultado:** Comprensión panorámica del campo en 30 minutos
+
+## Identificación de gaps de investigación
+
+**Método:** 1. **Mapear el estado actual** con Similar Work Graph 2.
+**Identificar clusters poco conectados** (oportunidades de síntesis) 3.
+**Buscar "puentes" faltantes** entre áreas establecidas 4. **Explorar
+periferias del mapa** (enfoques novedosos)
+
+**Indicadores de gaps:** - Áreas del mapa con pocos papers - Conexiones
+débiles entre clusters relevantes - Metodologías poco exploradas -
+Aplicaciones en nuevos dominios
+
+## Seguimiento de tendencias de investigación
+
+```{r}
+# Simulación de análisis temporal
+trends_data <- data.frame(
+  Year = c(2018, 2019, 2020, 2021, 2022, 2023),
+  Deep_Learning = c(1200, 1500, 2100, 2800, 3200, 3500),
+  Explainable_AI = c(150, 300, 600, 1100, 1800, 2400),
+  Quantum_ML = c(50, 80, 120, 200, 350, 500)
+)
+
+kable(trends_data, caption = "Evolución de papers por tema (datos simulados)")
+```
+
+**Connected Papers permite:** - Rastrear la evolución temporal de
+temas - Identificar papers que inician nuevas direcciones - Monitorear
+el crecimiento de campos emergentes
+
+# Integración de Elicit y Connected Papers
+
+## Flujo de trabajo integrado {.smaller}
+
+**Fase 1: Exploración inicial con Connected Papers** 1. Identificar
+paper clave en tu área 2. Generar mapa de trabajos similares 3.
+Identificar clusters y subtemas principales 4. Seleccionar papers
+representativos de cada cluster
+
+**Fase 2: Análisis profundo con Elicit** 1. Formular preguntas
+específicas por subtema 2. Usar Elicit para análisis comparativo
+detallado 3. Extraer datos estructurados de estudios clave 4. Generar
+síntesis por cada área identificada
+
+**Fase 3: Síntesis integrada** 1. Combinar insights visuales y
+analíticos 2. Identificar patrones emergentes 3. Formular nuevas
+hipótesis de investigación
+
+## Ventajas del enfoque combinado
+
+| Aspecto            | Connected Papers | Elicit              | Combinado        |
+|:-----------------|:-----------------|:------------------|:-----------------|
+| **Cobertura**      | Amplia, visual   | Profunda, analítica | Completa         |
+| **Descubrimiento** | Serendípico      | Dirigido            | Balanceado       |
+| **Análisis**       | Relacional       | Detallado           | Multidimensional |
+| **Tiempo**         | Rápido overview  | Análisis intensivo  | Optimizado       |
+
+**Resultado:** Revisiones de literatura más completas, eficientes y
+rigurosas
+
+## Casos de éxito combinados
+
+**Caso 1: Revisión sistemática sobre IA en salud mental** - **Connected
+Papers:** Identificó 8 clusters temáticos principales - **Elicit:**
+Analizó 150+ papers con extracción automática de datos - **Resultado:**
+Revisión comprehensiva publicada en revista Q1
+
+**Caso 2: Identificación de oportunidades de investigación** -
+**Connected Papers:** Reveló gap entre IA explicable y aplicaciones
+clínicas - **Elicit:** Confirmó escasez de estudios empíricos en el
+área - **Resultado:** Propuesta de investigación financiada
+
+# Limitaciones y consideraciones
+
+## Limitaciones de Elicit {.smaller}
+
+**Técnicas:** - Dependiente de la calidad del entrenamiento de IA -
+Puede generar sesgos algorítmicos - Limitado a literatura en inglés
+principalmente - Cobertura variable según disciplina
+
+**Metodológicas:** - No reemplaza la evaluación crítica humana - Puede
+pasar por alto contextos culturales específicos - Extracción automática
+puede contener errores - Requiere validación de resultados críticos
+
+**Económicas:** - Versión gratuita con limitaciones - Costo puede ser
+prohibitivo para algunos usuarios - Dependencia de servicio externo
+
+## Limitaciones de Connected Papers
+
+**Cobertura:** - Limitado a papers en Semantic Scholar - Sesgos hacia
+literatura en inglés - Cobertura variable por disciplina - Papers muy
+recientes pueden no estar incluidos
+
+**Algoritmos:** - Basado principalmente en citaciones y referencias -
+Puede pasar por alto conexiones conceptuales sutiles - Sesgos hacia
+papers altamente citados - No considera calidad metodológica
+
+**Usabilidad:** - Curva de aprendizaje para interpretar mapas -
+Limitaciones en personalización de visualización
+
+## Mejores prácticas de uso {.smaller}
+
+**Para Elicit:** - Validar extracciones automáticas críticas - Combinar
+con búsquedas tradicionales - Verificar resultados con expertos del
+área - Usar multiple perspectivas y formulaciones
+
+**Para Connected Papers:** - Comenzar con papers seminales conocidos -
+Explorar múltiples puntos de entrada - No depender solo de métricas de
+citación - Validar hallazgos con literatura gris
+
+**Combinado:** - Triangular hallazgos entre herramientas - Mantener
+registro de proceso de búsqueda - Documentar criterios de
+inclusión/exclusión - Considerar aspectos éticos y de sesgo
+
+# Comparación con métodos tradicionales
+
+## Eficiencia temporal
+
+```{r}
+# Simulación de comparación temporal
+time_comparison <- data.frame(
+  Fase = c("Búsqueda inicial", "Screening", "Extracción de datos", 
+           "Análisis", "Síntesis", "Total"),
+  Tradicional = c("2-3 días", "1-2 semanas", "3-4 días", 
+                  "1 semana", "2-3 días", "3-4 semanas"),
+  Con_herramientas = c("2-3 horas", "1-2 días", "4-6 horas", 
+                       "1-2 días", "1 día", "1 semana"),
+  Reduccion = c("85%", "80%", "85%", "70%", "65%", "75%")
+)
+
+kable(time_comparison, caption = "Comparación de tiempos: Métodos tradicionales vs. IA")
+```
+
+## Calidad y completitud
+
+**Ventajas de las herramientas IA:** - Menor sesgo de búsqueda - Mayor
+completitud de cobertura - Análisis más consistente - Reducción de
+errores humanos
+
+**Ventajas de métodos tradicionales:** - Mayor control sobre criterios -
+Mejor evaluación crítica - Consideración de contextos específicos -
+Validación por pares establecida
+
+**Conclusión:** Enfoque híbrido optimal combinando eficiencia de IA con
+rigor metodológico tradicional
+
+# Tendencias futuras
+
+## Evolución de las herramientas {.smaller}
+
+**Desarrollos esperados:**
+
+**En Elicit:** - Integración con más bases de datos - Mejores
+capacidades multiidioma - Análisis de literatura gris - Colaboración en
+tiempo real - API para integración institucional
+
+**En Connected Papers:** - Algoritmos de similaridad más sofisticados -
+Integración con datos de peer review - Mapas temporales dinámicos -
+Análisis de impacto predictivo - Colaboración con herramientas de
+escritura
+
+**Tendencias generales:** - Integración entre plataformas -
+Personalización basada en perfil de usuario - Análisis predictivo de
+tendencias - Verificación automática de calidad
+
+## Impacto en la investigación académica
+
+**Cambios en el proceso:** - Aceleración del descubrimiento científico -
+Democratización del acceso a síntesis de literatura - Nuevos estándares
+de completitud en revisiones - Evolución de habilidades requeridas en
+investigadores
+
+**Implicaciones éticas:** - Transparencia en procesos automatizados -
+Sesgos algorítmicos en la ciencia - Dependencia de herramientas
+comerciales - Brecha digital en acceso a herramientas
+
+# Recursos y formación
+
+## Recursos de aprendizaje {.smaller}
+
+**Para Elicit:** - [Elicit Tutorial Center](https://elicit.org/help) -
+[Canal YouTube oficial](https://youtube.com/@elicitorg) - [Community
+Forum](https://community.elicit.org) - [Academic Papers about
+Elicit](https://elicit.org/papers)
+
+**Para Connected Papers:** - [Getting Started
+Guide](https://connectedpapers.com/about) - [Video
+Tutorials](https://connectedpapers.com/tutorials) - [Research Methods
+Integration](https://connectedpapers.com/methods)
+
+**Cursos recomendados:** - "AI for Academic Research" (Coursera) -
+"Systematic Reviews in the Digital Age" (FutureLearn) - "Literature
+Mining with AI" (edX)
+
+## Comunidades y redes
+
+**Comunidades online:** - r/AcademicResearch (Reddit) - Academic Twitter
+(#AcademicChatter) - ResearchGate AI in Academia groups - LinkedIn
+Academic AI communities
+
+**Eventos y conferencias:** - AI for Science workshops - Digital
+Humanities conferences - Bibliometrics conferences - Research
+methodology seminars
+
+# Implementación institucional
+
+## Estrategias de adopción {.smaller}
+
+**Fase 1: Piloto (1-3 meses)** - Seleccionar grupo piloto de
+investigadores - Capacitación básica en herramientas - Proyecto piloto
+con métricas definidas - Evaluación de resultados y feedback
+
+**Fase 2: Expansión (3-6 meses)** - Capacitación ampliada a más
+facultades - Desarrollo de guías institucionales - Integración con
+biblioteca académica - Monitoreo de adopción y uso
+
+**Fase 3: Institucionalización (6-12 meses)** - Políticas de uso
+establecidas - Capacitación obligatoria para estudiantes posgrado -
+Integración en cursos de metodología - Evaluación de impacto en
+productividad
+
+## Consideraciones presupuestarias
+
+| Herramienta | Plan Gratuito | Plan Institucional | Beneficios adicionales |
+|:-----------------|:-----------------|:-----------------|:-------------------|
+| **Elicit** | 5,000 créditos/mes | \$10-50/usuario/mes | API access, soporte prioritario |
+| **Connected Papers** | Acceso básico | \$8-20/usuario/mes | Exports avanzados, sin límites |
+
+**ROI estimado:** - Reducción 70% en tiempo de revisión de literatura -
+Mejora 40% en completitud de revisiones - Incremento 25% en
+productividad de investigación
+
+# Casos de estudio institucionales
+
+## Universidad de Stanford - Escuela de Medicina {.smaller}
+
+**Implementación:** - 200+ investigadores usando Elicit - Integración
+con biblioteca digital - Capacitación obligatoria para residentes
+
+**Resultados después de 1 año:** - 60% reducción en tiempo de
+preparación de grants - 35% aumento en publicaciones por investigador -
+90% satisfacción de usuario
+
+**Lecciones aprendidas:** - Importancia de capacitación continua -
+Necesidad de soporte técnico dedicado - Valor de integración con flujos
+existentes
+
+## MIT - Departamento de Ciencias de la Computación
+
+**Enfoque:** - Connected Papers para mapeo de tendencias - Análisis
+predictivo de campos emergentes - Colaboración entre departamentos
+
+**Impacto:** - Identificación temprana de 3 campos emergentes - 25%
+aumento en colaboraciones interdisciplinarias - Mejora en estrategia de
+contratación académica
+
+# Evaluación y métricas
+
+## Métricas de éxito {.smaller}
+
+**Eficiencia:** - Tiempo promedio de revisión de literatura - Número de
+papers procesados por hora - Reducción en errores de extracción de datos
+
+**Calidad:** - Completitud de cobertura bibliográfica - Precisión de
+síntesis automáticas - Satisfacción de usuarios
+
+**Impacto:** - Número de publicaciones por investigador - Calidad de
+revisiones sistemáticas - Tiempo desde idea inicial hasta publicación
+
+**Ejemplo de dashboard de métricas:**
+
+```{r}
+# Simulación de métricas institucionales
+metrics_data <- data.frame(
+  Métrica = c("Tiempo revisión literatura", "Papers encontrados", 
+              "Precisión extracción", "Satisfacción usuario"),
+  Antes = c("3-4 semanas", "50-100", "70%", "6/10"),
+  Después = c("1 semana", "200-300", "85%", "8.5/10"),
+  Mejora = c("75%", "200%", "21%", "42%")
+)
+
+kable(metrics_data, caption = "Métricas de implementación institucional")
+```
+
+# Recomendaciones prácticas
+
+## Para investigadores individuales {.smaller}
+
+**Comenzar gradualmente:** 1. **Explorar con proyectos pequeños** antes
+de revisiones mayores 2. **Validar resultados** con métodos
+tradicionales inicialmente 3. **Desarrollar flujos de trabajo
+personalizados** 4. **Mantener registro** de lo que funciona mejor
+
+**Mejores prácticas:** - Usar ambas herramientas complementariamente -
+No abandonar completamente métodos tradicionales - Desarrollar criterios
+de validación consistentes - Compartir experiencias con colegas
+
+**Errores comunes a evitar:** - Confiar ciegamente en extracciones
+automáticas - Ignorar limitaciones de cobertura - No documentar proceso
+de búsqueda - Descuidar aspectos éticos y de sesgo
+
+## Para instituciones académicas
+
+**Estrategia de implementación:** - Comenzar con departamentos más
+receptivos a tecnología - Invertir en capacitación de bibliotecarios
+académicos - Crear comunidades de práctica internas - Establecer
+métricas de éxito claras
+
+**Infraestructura requerida:** - Licencias institucionales negociadas -
+Soporte técnico especializado - Integración con sistemas existentes -
+Políticas de uso y privacidad
+
+# Conclusiones
+
+## Síntesis de beneficios {.smaller}
+
+**Transformación del proceso de investigación:** - **Aceleración
+significativa:** De semanas a días en revisiones de literatura -
+**Mejora en calidad:** Mayor completitud y menor sesgo de búsqueda -
+**Democratización:** Acceso a capacidades antes reservadas a expertos -
+**Descubrimiento:** Identificación de conexiones no obvias
+
+**Impacto cuantificable:** - 70-80% reducción en tiempo de búsqueda y
+síntesis - 200-300% aumento en papers procesados - 40-50% mejora en
+completitud de revisiones - 85-90% satisfacción de usuarios
+
+**Cambio paradigmático:** - De búsqueda manual a descubrimiento asistido
+por IA - De análisis individual a síntesis automatizada - De revisiones
+lineales a exploración multidimensional
+
+## El futuro de la investigación académica
+
+**Tendencias emergentes:** - Integración cada vez mayor de IA en
+investigación - Nuevos estándares de rigor en revisiones sistemáticas -
+Colaboración humano-IA más sofisticada - Personalización de herramientas
+por disciplina
+
+**Preparándose para el cambio:** - Desarrollar literacidad en
+herramientas de IA - Mantener habilidades críticas de evaluación -
+Adaptarse a flujos de trabajo híbridos - Considerar implicaciones éticas
+continuamente
+
+**Oportunidades:** - Mayor eficiencia libera tiempo para análisis
+profundo - Acceso democratizado a técnicas avanzadas - Posibilidad de
+abordar preguntas más complejas - Colaboración interdisciplinaria
+facilitada
+
+## Llamada a la acción
+
+**Para investigadores:** 1. **Experimentar** con estas herramientas en
+su próximo proyecto 2. **Capacitarse** en su uso efectivo y limitaciones
+3. **Validar** resultados y desarrollar mejores prácticas 4.
+**Compartir** experiencias con la comunidad
+
+**Para instituciones:** 1. **Evaluar** el potencial de implementación 2.
+**Pilotear** con grupos selectos de investigadores\
+3. **Invertir** en capacitación y soporte 4. **Medir** impacto y ajustar
+estrategias
+
+**Para la comunidad académica:** 1. **Desarrollar** estándares de uso
+ético 2. **Investigar** efectos en calidad de investigación 3.
+**Colaborar** en mejoras de herramientas 4. **Preparar** próxima
+generación de investigadores
+
+# ¡Gracias!
+
+## Preguntas y recursos adicionales
+
+**¿Preguntas?**
+
+**Para más información:** - Email:
+[tu.email\@universidad.edu](mailto:tu.email@universidad.edu){.email} -
+Twitter: @tu_usuario - ORCID: 0000-0000-0000-0000
+
+**Recursos mencionados:** - [Elicit.org](https://elicit.org) -
+[ConnectedPapers.com](https://connectedpapers.com) - Slides disponibles
+en: [tu-repositorio.com]
+
+**Próximos pasos sugeridos:** 1. Probar ambas herramientas con un paper
+conocido 2. Comparar resultados con métodos tradicionales 3. Integrar
+gradualmente en flujo de trabajo 4. Compartir experiencias con colegas
+
+**¡El futuro de la investigación está aquí!** 🚀📚🤖

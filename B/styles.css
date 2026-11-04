@@ -1,0 +1,48 @@
+* CSS Personalizado para Presentaciones ioslides en RMarkdown */
+
+/* 1. Fondo de diapositiva blanco y cuerpo de texto negro */
+slides > slide {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+}
+
+/* Encabezados en negro */
+h1, h2, h3, h4, h5, h6 {
+  color: #000000 !important;
+}
+
+/* Texto del párrafo y elementos de lista en negro */
+p, li {
+  color: #000000 !important;
+}
+
+/* 2. Estilos para Tablas con Fondo Celeste */
+table {
+  border-collapse: collapse !important;
+  width: 100% !important;
+  background-color: #e6f2ff !important; /* Celeste claro */
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
+}
+
+/* Encabezado de la tabla */
+table th {
+  background-color: #b3d8ff !important; /* Celeste un poco más oscuro para destacar */
+  color: #000000 !important;
+  font-weight: bold !important;
+  padding: 10px !important;
+  border: 1px solid #99ccff !important;
+}
+
+/* Celdas de la tabla */
+table td {
+  background-color: #e6f2ff !important;
+  color: #000000 !important;
+  padding: 8px 12px !important;
+  border: 1px solid #b3d8ff !important;
+}
+
+/* Filas alternadas (opcional, celeste suave para lectura limpia) */
+table tbody tr:nth-child(even) td {
+  background-color: #dbeeff !important;
+}

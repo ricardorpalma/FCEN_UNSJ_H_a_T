@@ -1,0 +1,141 @@
+---
+title: "Monitoreo de Impactos Climáticos en la Cadena de Suministro"
+subtitle: "Análisis Integrado con R, Google Trends y 'El Niño'"
+author: "Investigación en Ciencias de la Computación & Logística"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
+    highlight: tango
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = TRUE,
+  warning = FALSE,
+  message = FALSE,
+  fig.width = 9,
+  fig.height = 5
+)
+```
+
+## 1. Introducción y Marco Teórico
+
+El fenómeno meteorológico de **El Niño (ENSO)** provoca severas distorsiones climáticas en el Cono Sur, como intensas precipitaciones, deslizamientos de tierra o cerradas prolongadas de pasos fronterizos de alta montaña. En el campo de la **Gestión de Cadenas de Suministro (Supply Chain Management)**, anticipar estos eventos es crítico para reconfigurar rutas, gestionar inventarios de seguridad y mitigar sobrecostos operativos.
+
+La **Ciencia de la Computación** permite capturar señales no estructuradas de la web en tiempo real. En este estudio, utilizamos **Google Trends** como un indicador temprano (Early Warning Indicator) para medir la percepción de riesgo y la disrupción logística a partir de las búsquedas web de la población.
+
+---
+
+## 2. Preparación del Entorno en R
+
+Cargamos las librerías necesarias para la extracción de datos (`gtrendsR`), manipulación de datos (`tidyverse`), y visualización avanzada (`ggplot2`).
+
+```{r librerias}
+# Carga de paquetes necesarios
+library(gtrendsR)
+library(tidyverse)
+library(ggplot2)
+library(scales)
+```
+
+---
+
+## 3. Extracción de Datos mediante API (`gtrendsR`)
+
+Definimos los términos de búsqueda que vinculan el evento climático con los efectos en la cadena de suministro en Argentina (AR).
+
+```{r extraccion-datos}
+# Definición de términos clave (Límite sugerido por consulta: 3-5 términos)
+terminos <- c("Fenomeno del Nino", "paso libertadores", "retraso transporte")
+
+# Consulta a la API de Google Trends para el último año en Argentina
+datos_trends <- gtrends(
+  keyword = terminos, 
+  geo = "AR", 
+  time = "today 12-m", 
+  gprop = "web"
+)
+
+# Extracción de la serie temporal
+df_raw <- datos_trends$interest_over_time
+head(df_raw)
+```
+
+---
+
+## 4. Procesamiento y Limpieza de Datos
+
+Desde la perspectiva de la Ciencia de Datos, los datos crudos de Google Trends requieren transformación: el volumen de búsqueda relativo (`hits`) puede incluir caracteres como `"<1"` que deben convertirse a valores numéricos continuos.
+
+```{r procesamiento-datos}
+df_limpio <- df_raw %>%
+  mutate(
+    date = as.Date(date),
+    # Convertir caracteres '<1' a 0 y asegurar tipo numérico
+    hits = as.numeric(ifelse(hits == "<1", "0", hits))
+  ) %>%
+  select(date, hits, keyword, geo)
+
+# Resumen estadístico por término
+df_limpio %>%
+  group_by(keyword) %>%
+  summarise(
+    Media = mean(hits, na.rm = TRUE),
+    Maximo = max(hits, na.rm = TRUE),
+    Desv_Estandar = sd(hits, na.rm = TRUE)
+  )
+```
+
+---
+
+## 5. Visualización Analítica
+
+Generamos una visualización que compara el volumen de búsqueda a lo largo del tiempo, incluyendo un suavizado no paramétrico (*LOESS*) para identificar la tendencia general.
+
+```{r visualizacion}
+ggplot(df_limpio, aes(x = date, y = hits, color = keyword)) +
+  geom_line(linewidth = 0.8, alpha = 0.8) +
+  geom_smooth(method = "loess", se = FALSE, linetype = "dashed", linewidth = 0.6) +
+  scale_color_manual(values = c("#D95F02", "#1B9E77", "#7570B3")) +
+  scale_x_date(date_breaks = "1 month", date_labels = "%b %Y") +
+  theme_minimal(base_size = 11) +
+  labs(
+    title = "Monitoreo de Alerta Temprana: Clima vs. Logística",
+    subtitle = "Volumen de búsqueda relativo (RSV) en Argentina",
+    x = "Fecha",
+    y = "Interés Relativo (0 - 100)",
+    color = "Concepto"
+  ) +
+  theme(
+    legend.position = "bottom",
+    plot.title = element_text(face = "bold", size = 13),
+    axis.text.x = element_text(angle = 45, hjust = 1)
+  )
+```
+
+---
+
+## 6. Integración Sistémica: Arquitectura del Sistema
+
+Para convertir este análisis dinámico en una herramienta de soporte a decisiones en un entorno de producción, se propone la siguiente arquitectura computacional:
+
+```
+[ Fuente de Datos: Google Trends API ]
+                 │
+                 ▼
+[ Extracción y Limpieza en R (Cron Job / Worker) ]
+                 │
+                 ▼
+[ Detección de Anomalías / Changepoint Detection ]
+                 │
+                 ▼
+[ Alerta Temprana a la Red de Cadena de Suministro (Dashboard Shiny / API REST) ]
+```
+
+### Principales Desafíos Computacionales:
+1. **Límites de Cuota (Rate Limits):** Implementación de reintentos exponenciales (*exponential backoff*) en R para evitar bloqueos por parte de la API de Google.
+2. **Normalización Normalizada Continuada:** Dado que las búsquedas cambian de escala según la ventana de tiempo elegida, se debe normalizar el valor `hits` con un término de anclaje invariable si se analizan múltiples años.
+3. **Modelado Predictivo:** Incorporar la serie temporal de Google Trends como una covariable exógena en modelos **ARIMAX** o **Prophet** para predecir cuellos de botella logísticos con días de anticipación.

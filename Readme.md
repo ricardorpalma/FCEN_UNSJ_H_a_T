@@ -3,7 +3,7 @@
 ## Universidad Nacional de San Juan
 ## Curso **De la Hipótesis a la Tesis**
 
-Docente : Ricardo R. Palma (PhD)
+Docente : Ricardo R. Palma (PhD) <ricardo.rpalma@gmail.com>
 
 <hr>
 
