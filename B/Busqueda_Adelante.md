@@ -14,9 +14,10 @@ A diferencia de bases de datos dedicadas como Google Scholar o Semantic Scholar 
 Copia y adapta alguna de estas instrucciones según lo que necesites descubrir sobre la evolución del tema:
 
 • Para obtener una lista general de artículos que lo citan:
-'''
+
+```
 "Busca artículos científicos publicados después de [Año del artículo original] que citen el trabajo '[Título exacto del artículo]' de [Apellido del autor]. Lista los más relevantes con su título, autores, año y un breve resumen de cómo utilizan o mencionan este estudio."
-'''
+``` 
 
 • Para encontrar avances o refutaciones recientes:
 ´´´
