@@ -6,7 +6,7 @@ a)- Subir el PDF del artículo clave o indicar su título/DOI
 
 b)- EnfoqueAcadémico activado y pedirle que analice su bibliografía. 
 
-b) Esto te permite identificar los estudios fundacionales en los que se basó el autor.
+c) Esto te permite identificar los estudios fundacionales en los que se basó el autor.
 
 **Paso 1:** Configura el entorno de búsqueda
 
