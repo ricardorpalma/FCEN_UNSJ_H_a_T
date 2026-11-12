@@ -38,5 +38,8 @@ Copia y adapta alguna de estas instrucciones según lo que necesites descubrir s
 **Paso 3: Verifica y amplía los resultados**
 
 • Revisa las fuentes enlazadas. Haz clic en los números de cita que entrega Perplexity para confirmar que el artículo encontrado realmente incluye al paper original en su bibliografía y no solo trata sobre un tema parecido.
+
 • Combina con herramientas especializadas si buscas exhaustividad. Perplexity es muy útil para resumir cómo y por qué citan un artículo, pero no siempre indexa el 100 % de las citas existentes. Si necesitas el conteo total exacto, puedes cruzar los resultados con el botón "Citado por" de Google Scholar o herramientas gratuitas de mapeo como Connected Papers o Litmaps.
 Si quieres, pásame el título del artículo (y su año o autor) y te armo el prompt listo para copiar y pegar en Perplexity, o puedo ayudarte a buscar directamente qué investigaciones recientes lo citan.
+
+
