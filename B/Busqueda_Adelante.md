@@ -21,16 +21,18 @@ Copia y adapta alguna de estas instrucciones según lo que necesites descubrir s
 
 • Para encontrar avances o refutaciones recientes:
 
-```
+``` 
 "Encuentra investigaciones posteriores a [Año] que citen el paper '[Título exacto]' (DOI: [número DOI]) y que hayan ampliado, replicado o cuestionado sus resultados principales."
-```
+``` 
 
 
 • Para filtrar citas por un subtema o período específico:
 
-´´´
+``` 
 "Busca estudios publicados entre [Año inicial] y [Año final] que citen a [Autor, Año] ('[Título exacto]') específicamente en relación con [subtema o metodología]."
-´´´
+```
+
+
 
 
 **Paso 3: Verifica y amplía los resultados**
