@@ -17,7 +17,7 @@ c) Esto te permite identificar los estudios fundacionales en los que se basó el
 
 Una vez adjuntado el PDF (o indicando el título exacto y autor si es un paper de acceso abierto), pídele que extraiga y clasifique las fuentes previas según tu objetivo:
 
-• Para encontrar los estudios base más importantes:
+• Para encontrar los estudios base más importantes usa estos prompts:
 ```
       "Analiza la sección de referencias bibliográficas de este artículo. Identifica los 5 estudios más antiguos o fundacionales en los que se basa su marco teórico y resume brevemente qué aporta cada uno."
 ```
