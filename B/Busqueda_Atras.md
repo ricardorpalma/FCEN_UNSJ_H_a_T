@@ -1,4 +1,4 @@
-# Búsquda hacua atrás
+# Búsquda hacia atrás
 
 Para hacer una búsqueda hacia atrás (backward snowballing o rastreo retrospectivo de citas) en Perplexity, debes:
 
