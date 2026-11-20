@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Cómo realizar una Revisión Sistemática de la Literatura (SLR) con PRISMA</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="Basado en Carrera-Rivera, Ochoa, Larrinaga y Lasa (MethodsX, 2022)" />
+    <meta name="date" content="2026-11-20" />
+    <script src="libs/header-attrs/header-attrs.js"></script>
+    <link href="libs/remark-css/default.css" rel="stylesheet" />
+    <link href="libs/remark-css/default-fonts.css" rel="stylesheet" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+.title[
+# Cómo realizar una Revisión Sistemática de la Literatura (SLR) con PRISMA
+]
+.subtitle[
+## Guía rápida para investigación en Ciencias de la Computación
+]
+.author[
+### Basado en Carrera-Rivera, Ochoa, Larrinaga y Lasa (MethodsX, 2022)
+]
+.date[
+### 2026-11-20
+]
+
+---
+
+
+
+
+
+## Introducción y Propósito del Artículo
+
+.pull-left[
+* **Artículo base:** *How-to conduct a systematic literature review: A quick guide for computer science research* (*MethodsX*, 2022)[cite: 1].
+
+* **SLR:** Procedimiento sistemático y replicable para recopilar, identificar y analizar críticamente literatura existente[cite: 2].
+
+* **Público objetivo:** Investigadores y, en particular, doctorandos o investigadores iniciales en Ciencias de la Computación e Ingeniería de Software[cite: 1, 2, 10].
+]
+
+.pull-right[
+* **Aporte central:** Estrategias claras y un método algorítmico paso a paso[cite: 1].
+
+* **Punto de partida:** Partir de una *Idea Inicial* y realizar una búsqueda exploratoria para delimitar el alcance antes de formalizar el protocolo[cite: 2].
+
+* **Dos grandes fases:**
+
+  1. **Planificación** (*Planning*)[cite: 2].
+  
+  2. **Ejecución** (*Conducting*)[cite: 2, 5].
+]
+
+
+&gt; Destacar que una revisión exploratoria inicial evita abarcar un tema demasiado amplio para el tiempo disponible y ayuda a formular preguntas precisas[cite: 2].
+
+---
+
+## Fase 1: Planificación (El Protocolo)
+
+El protocolo establece los pasos del estudio, promueve la **replicabilidad** y conviene validarlo con pares[cite: 2].
+
+1. **Definir criterios PICOC y sinónimos**[cite: 2]
+
+2. **Formular preguntas de investigación (RQ)**[cite: 3]
+
+3. **Seleccionar bibliotecas digitales**[cite: 3]
+
+4. **Definir criterios de inclusión y exclusión**[cite: 3]
+
+
+5. **Definir lista de verificación de Evaluación de Calidad (QA)**[cite: 4]
+
+6. **Definir formulario de Extracción de Datos**[cite: 4]
+
+---
+
+## Pasos 1 y 2: Criterios PICOC y Preguntas (RQ)
+
+| Elemento | Rol en la revisión | Ejemplo de términos / sinónimos |
+| :--- | :--- | :--- |
+| **P**opulation | Rol, área de aplicación o industria[cite: 2] | *Smart Factory*, *Smart Manufacturing*, *Digital Factory*[cite: 2] |
+| **I**ntervention | Metodología, herramienta o tecnología[cite: 2] | *Semantic Web*, *Ontology*, *Machine Learning*[cite: 2] |
+| **C**omparison | Tecnología de referencia (si aplica)[cite: 2] | *Supervised* vs. *Unsupervised Learning*[cite: 2] |
+| **O**utcome | Resultados o factores clave para la práctica[cite: 2] | *Context-Awareness*, *Context-Reasoning*[cite: 2] |
+| **C**ontext | Entorno o contexto del estudio (opcional)[cite: 2] | *Business Process Management*, *BPM*[cite: 2] |
+
+&gt; **Ejemplo de RQ:** *"¿Cuáles son los desafíos actuales de los sistemas conscientes del contexto que apoyan la toma de decisiones en procesos de negocio dentro de la manufactura inteligente?"*[cite: 3]
+
+---
+
+## Pasos 3 y 4: Fuentes y Criterios de Selección
+
+.pull-left[
+
+### Bibliotecas digitales
+* **Multidisciplinarias:** Scopus (la de mayor cobertura) y Web of Science (WoS)[cite: 3].
+
+* **Computación e Ingeniería:** IEEE Xplore, ACM Digital Library y EI Compendex[cite: 3].
+]
+
+.pull-right[
+### Criterios de inclusión y exclusión
+Definirlos de antemano reduce el sesgo[cite: 3]:
+
+* **Periodo** (ej. 2015–2021) e **idioma** (ej. solo inglés)[cite: 4].
+
+* **Tipo de literatura y fuente:** priorizar artículos de *journals* o conferencias; excluir literatura gris o libros[cite: 4].
+
+* **Calidad/impacto y relevancia:** cuartiles (ej. Q1, Q2) y pertinencia frente a las RQ[cite: 4].
+]
+
+---
+
+## Pasos 5 y 6: Calidad (QA) y Extracción de Datos
+
+.pull-left[
+### Evaluación de Calidad (QA)
+
+* Evalúa **Reporte, Rigor, Credibilidad y Relevancia**[cite: 4].
+
+* Usa una escala numérica uniforme (ej. *Sí = 1*, *Parcialmente = 0.5*, *No = 0*, o Likert) con un umbral mínimo (*cut-off*)[cite: 4, 6].
+]
+
+.pull-right[
+### Formulario de Extracción de Datos
+* Conecta directamente cada dato extraído con las RQ[cite: 5].
+
+* Registra: tipo de investigación (teórica/empírica), fases de proceso (ej. MAPE-K), tecnologías/plataformas, dominio, brechas (*gaps*), desafíos y métodos de evaluación[cite: 5].
+]
+
+---
+
+## Fase 2: Ejecución (Conducting)
+
+1. **Cadenas de búsqueda (*Search strings*):** combinar sinónimos con `OR` y bloques PICOC con `AND`[cite: 6].
+
+   * *Ejemplo:* `("Smart Manufacturing" OR "Smart Factory") AND ("BPM" OR "BPMN") AND ("Semantic Web" OR "Ontology")`[cite: 6].
+   
+2. **Recolección:** exportar metadatos en **CSV** o **BibTeX** desde búsquedas avanzadas (`TITLE-ABS-KEY`)[cite: 6].
+
+3. **Selección y refinamiento:**
+   * Eliminar duplicados (Excel, Python o Parsif.al)[cite: 5, 6].
+   
+   * Filtrar por título y resumen según criterios de selección[cite: 3, 6].
+   
+   * Aplicar el *checklist* de QA mediante una revisión ligera del texto completo[cite: 6].
+4. **Extracción:** leer en profundidad los estudios seleccionados y completar el formulario[cite: 6, 8].
+
+---
+
+## Análisis y Reporte de Resultados
+
+.pull-left[
+### 1. Análisis Bibliométrico (BA)
+* Años de publicación, revistas/conferencias clave, países o afiliaciones, autores destacados y citas[cite: 8, 9].
+
+* Mapas de clústeres y co-ocurrencia de palabras clave con **VOSviewer** o gráficos en Python[cite: 8, 9].
+]
+
+.pull-right[
+### 2. Respuesta a las RQ y Reporte
+
+* **Cuantitativo:** frecuencias y porcentajes sobre categorías codificadas[cite: 9, 10].
+
+* **Cualitativo:** síntesis narrativa, brechas abiertas y trabajo futuro[cite: 10, 11].
+
+* **Transparencia:** incluir protocolo, criterios, QA y flujograma de selección[cite: 10, 11].
+]
+
+---
+
+## Síntesis y Herramientas Recomendadas
+
+* El núcleo de toda la SLR es **responder las preguntas de investigación** de forma trazable y replicable[cite: 10].
+
+* **Herramientas citadas en el artículo:**
+  * **Gestión de la SLR:** [Parsif.al](https://parsif.al/) (importación BibTeX, duplicados, selección, QA, extracción y reportes)[cite: 1, 5].
+  
+  * **Análisis bibliométrico:** [Bibliometrix](https://www.bibliometrix.org/)[cite: 1, 9].
+  
+  * **Gestores bibliográficos:** Zotero, Mendeley, EndNote y JabRef[cite: 6].
+  
+  * **Análisis y gráficos:** RStudio, Google Sheets y Python[cite: 5, 6, 8].
+  
+  
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+  "highlightStyle": "github",
+  "highlightLines": true,
+  "countIncrementalSlides": false,
+  "ratio": "16:9"
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+// add `data-at-shortcutkeys` attribute to <body> to resolve conflicts with JAWS
+// screen reader (see PR #262)
+(function(d) {
+  let res = {};
+  d.querySelectorAll('.remark-help-content table tr').forEach(tr => {
+    const t = tr.querySelector('td:nth-child(2)').innerText;
+    tr.querySelectorAll('td:first-child .key').forEach(key => {
+      const k = key.innerText;
+      if (/^[a-z]$/.test(k)) res[k] = t;  // must be a single letter (key)
+    });
+  });
+  d.body.setAttribute('data-at-shortcutkeys', JSON.stringify(res));
+})(document);
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>

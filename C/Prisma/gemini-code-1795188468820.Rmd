@@ -1,0 +1,19 @@
+---
+title: "Cómo realizar una Revisión Sistemática de la Literatura (SLR)"
+subtitle: "Guía rápida para investigación en Ciencias de la Computación"
+author: "Basado en Carrera-Rivera, Ochoa, Larrinaga y Lasa (MethodsX, 2022)"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+# Requiere: install.packages("fontawesome")
+library(fontawesome)

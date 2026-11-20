@@ -1,0 +1,162 @@
+---
+title: "Cómo realizar una Revisión Sistemática de la Literatura (SLR) con PRISMA"
+subtitle: "Una guía rápida para la investigación en Ciencias de la Computación"
+author: "Basado en Carrera-Rivera, Ochoa, Larrinaga y Lasa (MethodsX, 2022)"
+date: "`r Sys.Date()`"
+output: 
+  ioslides_presentation:
+    widescreen: true
+    smaller: true
+---
+
+## Introducción y Objetivo del Artículo
+
+* **Referencia:** *How-to conduct a systematic literature review: A quick guide for computer science research* (*MethodsX*, 2022)[cite: 1].
+
+* **¿Qué es una SLR?** Una metodología rigurosa para recopilar, identificar y analizar críticamente estudios disponibles mediante un procedimiento sistemático y replicable[cite: 2].
+
+* **Objetivo de la guía:** Proveer un método algorítmico paso a paso, diseñado especialmente para investigadores en etapas iniciales (doctorandos) en Ciencias de la Computación e Ingeniería de Software[cite: 1, 2, 10].
+
+* **Estructura de la metodología:**
+  1. **Paso previo:** Definir una "Idea Inicial" y hacer una búsqueda exploratoria para acotar el alcance[cite: 2].
+  
+  2. **Fase 1:** Planificación (*Planning*)[cite: 2].
+  
+  3. **Fase 2:** Ejecución (*Conducting*)[cite: 2, 5].
+
+---
+
+## Fase 1: Planificación (Definición del Protocolo)
+
+El protocolo describe los procedimientos a seguir, asegura la **replicabilidad** del estudio y requiere revisión por pares para garantizar validez[cite: 2]. Se compone de **6 pasos**:
+
+1. **Definir criterios PICOC y sinónimos**[cite: 2]
+
+2. **Formular preguntas de investigación (RQ)**[cite: 3]
+
+3. **Seleccionar bibliotecas digitales**[cite: 3]
+
+4. **Definir criterios de inclusión y exclusión**[cite: 3]
+
+5. **Definir lista de verificación de Evaluación de Calidad (QA)**[cite: 4]
+
+6. **Definir el formulario de Extracción de Datos**[cite: 4]
+
+---
+
+## Paso 1 y 2: Criterios PICOC y Preguntas (RQ)
+
+Los criterios **PICOC** descomponen los objetivos en palabras clave buscables y sirven de base para formular las Preguntas de Investigación[cite: 2, 3]:
+
+| Elemento | Descripción | Ejemplo (Palabras clave y sinónimos) |
+| :--- | :--- | :--- |
+| **P**opulation | Rol, área de aplicación o industria[cite: 2] | *Smart Factory*, *Smart Manufacturing*, *Digital Factory*[cite: 2] |
+| **I**ntervention | Metodología, herramienta o tecnología[cite: 2] | *Semantic Web*, *Ontology*, *Machine Learning*[cite: 2] |
+| **C**omparison | Tecnología con la que se compara (si aplica)[cite: 2] | *Supervised* vs. *Unsupervised Learning*[cite: 2] |
+| **O**utcome | Factores relevantes o resultados esperados[cite: 2] | *Context-Awareness*, *Context-Reasoning*[cite: 2] |
+| **C**ontext | Entorno donde ocurre (opcional)[cite: 2] | *Business Process Management*, *BPM*[cite: 2] |
+
+> **Ejemplo de RQ:** *¿Cuáles son los desafíos actuales de los sistemas conscientes del contexto que apoyan la toma de decisiones en procesos de negocio dentro de la manufactura inteligente?*[cite: 3]
+
+---
+
+## Paso 3 y 4: Fuentes y Criterios de Selección
+
+**Bibliotecas Digitales recomendadas en Computación:**
+
+* **Multidisciplinarias:** Scopus (la más amplia) y Web of Science (WoS)[cite: 3].
+
+* **Específicas de Ingeniería/Computación:** IEEE Xplore, ACM Digital Library y EI Compendex[cite: 3].
+
+**Criterios de Inclusión y Exclusión (evitan sesgos):**
+* **Periodo:** Rango de años (ej. 2015–2021)[cite: 4].
+
+* **Idioma:** Generalmente inglés[cite: 4].
+
+* **Tipo de literatura/fuente:** Incluir artículos de revistas (*journals*) y conferencias; excluir literatura gris (informes, boletines, documentos gubernamentales) o libros[cite: 4].
+
+* **Impacto y relevancia:** Cuartiles (ej. Q1, Q2) y relevancia directa para responder al menos a $n$ preguntas de investigación[cite: 4].
+
+---
+
+## Paso 5 y 6: Calidad (QA) y Extracción de Datos
+
+**Evaluación de Calidad (QA Checklist):**
+
+* Evalúa cuatro dimensiones: **Reporte, Rigor, Credibilidad y Relevancia**[cite: 4].
+
+* Utiliza escalas numéricas uniformes (ej. *Sí = 1*, *Parcialmente = 0.5*, *No = 0*; o escala Likert) y define una puntuación mínima de corte (*cut-off*)[cite: 4, 6].
+
+**Formulario de Extracción de Datos:**
+
+* Diseñado para responder directamente a las RQ[cite: 5].
+
+* **Campos clave:** Tipo de investigación (teórica vs. empírica), fases del proceso (ej. ciclo MAPE-K), tecnologías/plataformas usadas, dominio de aplicación, brechas (*gaps*), desafíos y métodos de evaluación (casos de estudio, experimentos)[cite: 5].
+
+---
+
+## Fase 2: Ejecución (Conducting)
+
+Una vez aprobado el protocolo, se ejecuta la revisión apoyándose en herramientas como **Parsif.al**, hojas de cálculo y gestores bibliográficos (Zotero, Mendeley, JabRef)[cite: 5, 6]:
+
+1. **Construcción de cadenas de búsqueda (*Search strings*):**
+
+   * Unir sinónimos con `OR` y bloques PICOC con `AND`[cite: 6].
+   
+   * *Ejemplo:* `("Smart Manufacturing" OR "Smart Factory") AND ("BPM" OR "BPMN") AND ("Semantic Web" OR "Ontology")`[cite: 6].
+   
+2. **Recopilación de estudios:** Exportar metadatos en formato **CSV** o **BibTeX** desde las búsquedas avanzadas (`TITLE-ABS-KEY`)[cite: 6].
+
+3. **Selección y Refinamiento:**
+
+   * Eliminar duplicados (Excel, Python o Parsif.al)[cite: 5, 6].
+   
+   * Filtrar por título y resumen aplicando criterios de inclusión/exclusión[cite: 3, 6].
+   
+   * Aplicar el *checklist* de QA mediante lectura ligera del texto completo[cite: 6].
+   
+4. **Extracción de datos:** Lectura crítica y profunda de los artículos aprobados para rellenar el formulario[cite: 6, 8].
+
+---
+
+## Análisis y Reporte de Resultados
+
+El análisis persigue dos objetivos principales[cite: 8]:
+
+**1. Análisis Bibliométrico (BA):**
+
+* Examina el panorama general: evolución anual de publicaciones, revistas/conferencias líderes, países más influyentes, autores principales y citas[cite: 8, 9].
+
+* **Herramientas:** Python (*Matplotlib/Seaborn*) y **VOSviewer** (para mapas de clústeres y co-ocurrencia de palabras clave)[cite: 8, 9].
+
+**2. Respuesta a las Preguntas de Investigación (RQ):**
+
+* **Análisis Cuantitativo:** Análisis de frecuencias y distribución porcentual de las categorías extraídas (ej. % de uso de cada framework)[cite: 9, 10].
+
+* **Análisis Cualitativo:** Síntesis narrativa de hallazgos, discusión de brechas abiertas y líneas futuras de investigación[cite: 10, 11].
+
+* **Reporte:** Documentar todo el protocolo (criterios, QA y flujograma de selección) para garantizar la replicabilidad[cite: 10, 11].
+
+---
+
+## Conclusiones y Herramientas Clave
+
+* Aunque una SLR es un proceso exigente, ofrece una visión integral y estructurada del estado del arte[cite: 10].
+
+* Todo el diseño metodológico debe mantenerse alineado con el objetivo central:
+
+**responder las preguntas de investigación**[cite: 10].
+
+**Caja de herramientas recomendada por los autores:**
+
+* El núcleo de toda la SLR es **responder las preguntas de investigación** de forma trazable y replicable[cite: 10].
+
+* **Herramientas citadas en el artículo:**
+
+  * **Gestión de la SLR:** [Parsif.al](https://parsif.al/) (importación BibTeX, duplicados, selección, QA, extracción y reportes)[cite: 1, 5].
+  
+  * **Análisis bibliométrico:** [Bibliometrix](https://www.bibliometrix.org/)[cite: 1, 9].
+  * **Gestores bibliográficos:** Zotero o Mendeley, EndNote y JabRef[cite: 6].
+  
+  * **Análisis y gráficos:** RStudio, Google Sheets y Python[cite: 5, 6, 8].
+  

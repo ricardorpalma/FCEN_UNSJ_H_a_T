@@ -1,0 +1,446 @@
+---
+title: "Análisis Bibliométrico con bibliometrix"
+subtitle: "Una herramienta completa para investigación científica"
+author: "Tu Nombre"
+date: "`r Sys.Date()`"
+output: 
+  ioslides_presentation:
+    widescreen: true
+    smaller: true
+    logo: logo.png
+    css: styles.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE, 
+                     fig.width = 10, fig.height = 6)
+library(bibliometrix)
+library(dplyr)
+library(ggplot2)
+library(knitr)
+```
+
+# Introducción
+
+## ¿Qué es bibliometrix?
+
+**bibliometrix** es un paquete de R para análisis bibliométrico integral desarrollado por Massimo Aria y Corrado Cuccurullo.
+
+**Características principales:**
+- Importa datos desde múltiples bases de datos
+- Análisis descriptivo de datos bibliográficos
+- Mapas científicos y redes de colaboración
+- Análisis de tendencias temporales
+- Interfaz web interactiva con **biblioshiny**
+
+```{r eval=FALSE}
+# Instalación
+install.packages("bibliometrix")
+
+# Cargar paquete
+library(bibliometrix)
+```
+
+## Bases de datos compatibles
+
+| Base de datos | Formato | Descripción |
+|:--------------|:--------|:------------|
+| **Web of Science** | .txt, .bib | Principal base multidisciplinaria |
+| **Scopus** | .bib, .csv | Amplia cobertura internacional |
+| **PubMed** | .txt | Especializada en biomedicina |
+| **Cochrane Library** | .txt | Revisiones sistemáticas |
+| **Dimensions** | .csv | Base emergente con amplia cobertura |
+
+# Flujo de trabajo
+
+## Proceso típico de análisis
+
+```{r eval=FALSE, echo=TRUE}
+# 1. Importar datos
+M <- convert2df(file = "scopus.bib", dbsource = "scopus", format = "bibtex")
+
+# 2. Análisis descriptivo
+results <- biblioAnalysis(M, sep = ";")
+
+# 3. Resumen estadístico
+S <- summary(results, k = 10, pause = FALSE)
+
+# 4. Visualizaciones
+plot(results, k = 10, pause = FALSE)
+
+# 5. Redes de colaboración
+NetMatrix <- biblioNetwork(M, analysis = "collaboration", network = "authors")
+```
+
+## Estructura de datos
+
+Los datos se almacenan en un **data.frame** con columnas estandarizadas:
+
+- `AU`: Autores
+- `TI`: Título
+- `SO`: Fuente (revista)
+- `JI`: Abreviatura de revista
+- `DT`: Tipo de documento
+- `DE`: Palabras clave del autor
+- `ID`: Palabras clave Plus
+- `AB`: Resumen
+- `C1`: Afiliación
+- `CR`: Referencias citadas
+
+# Análisis descriptivo
+
+## Información básica del dataset
+
+```{r eval=FALSE}
+# Cargar datos de ejemplo (necesitas tus propios datos)
+# M <- convert2df(file = "data.bib", dbsource = "scopus", format = "bibtex")
+
+# Información general
+results <- biblioAnalysis(M, sep = ";")
+summary(results, k = 10, pause = FALSE)
+```
+
+**Información que obtienes:**
+- Número de documentos y autores
+- Período temporal cubierto
+- Tipos de documentos
+- Fuentes más productivas
+- Autores más citados
+- Países más productivos
+
+## Análisis temporal
+
+```{r eval=FALSE}
+# Producción anual
+Y <- table(M$PY)
+plot(Y, type = "l", main = "Producción científica anual", 
+     xlab = "Año", ylab = "Número de artículos")
+
+# Crecimiento anual
+CR <- localCitations(M, sep = ";")
+DF <- cbind(M, CR$Papers)
+annualGrowthRate <- biblioAnalysis(DF)$AnnualGrowthRate
+```
+
+# Visualizaciones principales
+
+## Gráficos de producción {.smaller}
+
+```{r eval=FALSE}
+# Autores más productivos
+results <- biblioAnalysis(M)
+plot(x = results, k = 10, pause = FALSE)
+
+# Países más productivos  
+M1 <- metaTagExtraction(M, Field = "AU_CO", sep = ";")
+results1 <- biblioAnalysis(M1)
+plot(x = results1, k = 15, pause = FALSE)
+
+# Revistas más utilizadas
+plot(x = results, k = 10, pause = FALSE, graph = "sources")
+```
+
+## Nubes de palabras
+
+```{r eval=FALSE}
+# Nube de palabras clave
+# Usando palabras clave del autor
+wordcloud(M$DE, max.words = 50, random.order = FALSE, 
+          colors = brewer.pal(8, "Dark2"))
+
+# Nube de palabras del título
+wordcloud(M$TI, max.words = 30, random.order = FALSE,
+          colors = brewer.pal(8, "Set1"))
+```
+
+# Mapas científicos
+
+## Redes de co-autoría
+
+```{r eval=FALSE}
+# Red de colaboración entre autores
+NetMatrix <- biblioNetwork(M, analysis = "collaboration", 
+                          network = "authors", sep = ";")
+
+# Visualización de red
+net <- networkPlot(NetMatrix, n = 30, Title = "Red de Colaboración", 
+                   type = "fruchterman", size = TRUE, 
+                   remove.multiple = FALSE, labelsize = 1)
+```
+
+## Redes de co-citación
+
+```{r eval=FALSE}
+# Red de co-citación de referencias
+NetMatrix <- biblioNetwork(M, analysis = "co-citation", 
+                          network = "references", sep = ";")
+
+net <- networkPlot(NetMatrix, n = 20, Title = "Red de Co-citación", 
+                   type = "auto", size = TRUE, labelsize = 0.8)
+```
+
+## Mapas conceptuales
+
+```{r eval=FALSE}
+# Mapa conceptual usando co-palabras
+CS <- conceptualStructure(M, field = "ID", method = "MDS", 
+                         minDegree = 4, clust = 5, stemming = FALSE, 
+                         labelsize = 10, documents = 10)
+
+# Análisis de correspondencia
+CS <- conceptualStructure(M, field = "ID", method = "CA", 
+                         minDegree = 4, clust = 5)
+```
+
+# Análisis avanzados
+
+## Análisis de impacto {.smaller}
+
+```{r eval=FALSE}
+# Índices de impacto por autor
+DF <- dominanceAnalysis(results, k = 10, pause = FALSE)
+
+# h-index por autor
+authors <- gsub(","," ",names(results$Authors)[1:10])
+indices <- Hindex(M, field = "author", elements = authors, sep = ";")
+indices$H
+
+# Factor de impacto de revistas
+IF <- aggregate(M$TC, by = list(M$SO), mean)
+names(IF) <- c("Source", "Impact_Factor")
+IF <- IF[order(-IF$Impact_Factor),]
+```
+
+## Análisis de acoplamiento
+
+```{r eval=FALSE}
+# Acoplamiento bibliográfico
+NetMatrix <- biblioNetwork(M, analysis = "coupling", 
+                          network = "references", sep = ";")
+
+S <- normalizeSimilarity(NetMatrix, type = "association")
+net <- networkPlot(S, n = 20, Title = "Acoplamiento Bibliográfico")
+
+# Acoplamiento por países
+M1 <- metaTagExtraction(M, Field = "AU_CO", sep = ";")
+NetMatrix <- biblioNetwork(M1, analysis = "coupling", 
+                          network = "countries", sep = ";")
+```
+
+# Análisis longitudinal
+
+## Evolución temática {.smaller}
+
+```{r eval=FALSE}
+# Dividir en períodos temporales
+years <- c(2010, 2015, 2020)
+nexus <- thematicEvolution(M, field = "ID", years = years, 
+                          n = 100, minFreq = 2)
+
+# Visualizar evolución
+plotThematicEvolution(nexus$Nodes, nexus$Edges)
+
+# Sankey diagram
+thematicEvolution(M, field = "ID", years = years, 
+                 n = 100, minFreq = 2, graph = TRUE)
+```
+
+## Análisis de tendencias
+
+```{r eval=FALSE}
+# Detección de temas emergentes
+fieldByYear(M, field = "ID", timespan = c(2015,2023), 
+           min.freq = 5, n.labels = 5, graph = TRUE)
+
+# Palabras con mayor crecimiento
+topKW <- KeywordGrowth(M, Tag = "ID", sep = ";", top = 10, 
+                      cdf = TRUE)
+```
+
+# Interfaz web: biblioshiny
+
+## ¿Qué es biblioshiny? {.smaller}
+
+**biblioshiny** es la interfaz web interactiva de bibliometrix.
+
+**Características:**
+- No requiere conocimiento de programación en R
+- Interfaz intuitiva tipo "point-and-click"
+- Todos los análisis de bibliometrix disponibles
+- Exportación de resultados y gráficos
+- Reportes automáticos
+
+```{r eval=FALSE}
+# Iniciar biblioshiny
+biblioshiny()
+```
+
+**Ventajas:**
+- Accesible para usuarios sin experiencia en R
+- Visualizaciones interactivas
+- Fácil exportación de resultados
+
+# Casos de uso prácticos
+
+## Revisión sistemática de literatura {.smaller}
+
+```{r eval=FALSE}
+# 1. Análisis descriptivo inicial
+results <- biblioAnalysis(M)
+summary(results, k = 15)
+
+# 2. Identificar autores clave
+topAU <- results$Authors[1:20]
+
+# 3. Identificar revistas principales  
+topSO <- results$Sources[1:15]
+
+# 4. Análisis temporal
+plot(results, k = 10, pause = FALSE)
+
+# 5. Mapa conceptual para identificar temas
+CS <- conceptualStructure(M, field = "ID", method = "MDS", 
+                         minDegree = 5, clust = 4)
+```
+
+## Análisis de productividad institucional
+
+```{r eval=FALSE}
+# Extraer afiliaciones
+M1 <- metaTagExtraction(M, Field = "AU_UN", sep = ";")
+
+# Análisis por instituciones
+results1 <- biblioAnalysis(M1)
+plot(results1, k = 15, pause = FALSE)
+
+# Red de colaboración institucional
+NetMatrix <- biblioNetwork(M1, analysis = "collaboration", 
+                          network = "universities", sep = ";")
+net <- networkPlot(NetMatrix, n = 20, Title = "Colaboración Institucional")
+```
+
+# Reportes y exportación
+
+## Generación de reportes {.smaller}
+
+```{r eval=FALSE}
+# Reporte completo en HTML
+results <- biblioAnalysis(M)
+biblioReport <- summary(results, k = 10, pause = FALSE, 
+                       width = 130, verbose = FALSE)
+
+# Exportar tabla de datos principales
+write.csv(results$Authors, "top_authors.csv")
+write.csv(results$Sources, "top_sources.csv")
+write.csv(results$Countries, "top_countries.csv")
+
+# Métricas de impacto
+citations <- citations(M, field = "author", sep = ";")
+write.csv(citations$Cited, "author_citations.csv")
+```
+
+## Exportación de redes
+
+```{r eval=FALSE}
+# Exportar matrices de red para otros software
+NetMatrix <- biblioNetwork(M, analysis = "co-occurrence", 
+                          network = "keywords", sep = ";")
+
+# Para Gephi
+networkPlot(NetMatrix, n = 50, Title = "Red Keywords", 
+           type = "fruchterman", size = TRUE, 
+           label.cex = TRUE, export = "gephi")
+
+# Para Pajek
+write.pajek(NetMatrix, "network.net")
+```
+
+# Mejores prácticas
+
+## Preparación de datos {.smaller}
+
+**Antes del análisis:**
+
+1. **Limpiar duplicados**
+   ```{r eval=FALSE}
+   M <- duplicatedMatching(M, Field = "TI", tol = 0.95)
+   ```
+
+2. **Estandarizar nombres de autores**
+   ```{r eval=FALSE}
+   M <- mergeDbSources(M1, M2, remove.duplicated = TRUE)
+   ```
+
+3. **Extraer información adicional**
+   ```{r eval=FALSE}
+   M <- metaTagExtraction(M, Field = "AU_CO", sep = ";")
+   M <- metaTagExtraction(M, Field = "AU_UN", sep = ";")
+   ```
+
+## Interpretación de resultados {.smaller}
+
+**Consideraciones importantes:**
+
+- **Calidad de datos**: Verificar completitud de campos clave
+- **Períodos temporales**: Considerar sesgos de cobertura temporal  
+- **Normalización**: Usar métricas normalizadas para comparaciones
+- **Contexto disciplinario**: Los patrones varían entre disciplinas
+- **Limitaciones de bases**: Cada BD tiene sesgos de cobertura
+
+**Validación:**
+- Triangular resultados con múltiples bases de datos
+- Validar hallazgos principales con expertos del área
+- Considerar análisis cualitativos complementarios
+
+# Recursos adicionales
+
+## Documentación y comunidad {.smaller}
+
+**Recursos oficiales:**
+- [Sitio web oficial](https://www.bibliometrix.org/)
+- [Manual de usuario](https://www.bibliometrix.org/documents/bibliometrix_Report.html)
+- [Artículo original](https://doi.org/10.1016/j.joi.2017.08.007)
+
+**Tutoriales:**
+- [Bibliometrix Tutorial](https://bibliometrix.org/tutorials.html)
+- [Canal YouTube](https://www.youtube.com/channel/UCg5VgSzq-e7GzHFq6IdzNhQ)
+
+**Comunidad:**
+- [GitHub](https://github.com/massimoaria/bibliometrix)
+- [Forum de usuarios](https://github.com/massimoaria/bibliometrix/discussions)
+
+## Paquetes complementarios {.smaller}
+
+```{r eval=FALSE}
+# Visualización avanzada
+library(igraph)        # Análisis de redes
+library(ggplot2)       # Gráficos avanzados
+library(plotly)        # Gráficos interactivos
+
+# Análisis de texto
+library(tm)            # Text mining
+library(wordcloud)     # Nubes de palabras
+library(RColorBrewer)  # Paletas de colores
+
+# Manipulación de datos
+library(dplyr)         # Manipulación de datos
+library(stringr)       # Manipulación de strings
+```
+
+# ¡Gracias!
+
+## Preguntas y contacto
+
+**¿Preguntas?**
+
+- Email: tu.email@universidad.edu
+- Twitter: @tu_usuario
+- ResearchGate: Tu Perfil
+
+**Próximos pasos:**
+1. Descargar datos de tu área de interés
+2. Probar con biblioshiny primero
+3. Explorar análisis avanzados en R
+4. Validar resultados con expertos
+
+**¡Happy bibliometrics!** 📊📚

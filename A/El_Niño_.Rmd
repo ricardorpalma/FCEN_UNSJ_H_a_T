@@ -27,7 +27,7 @@ El fenómeno meteorológico de **El Niño (ENSO)** provoca severas distorsiones 
 
 La **Ciencia de la Computación** permite capturar señales no estructuradas de la web en tiempo real. En este estudio, utilizamos **Google Trends** como un indicador temprano (Early Warning Indicator) para medir la percepción de riesgo y la disrupción logística a partir de las búsquedas web de la población.
 
----
+------------------------------------------------------------------------
 
 ## 2. Preparación del Entorno en R
 
@@ -41,7 +41,7 @@ library(ggplot2)
 library(scales)
 ```
 
----
+------------------------------------------------------------------------
 
 ## 3. Extracción de Datos mediante API (`gtrendsR`)
 
@@ -64,7 +64,7 @@ df_raw <- datos_trends$interest_over_time
 head(df_raw)
 ```
 
----
+------------------------------------------------------------------------
 
 ## 4. Procesamiento y Limpieza de Datos
 
@@ -89,7 +89,7 @@ df_limpio %>%
   )
 ```
 
----
+------------------------------------------------------------------------
 
 ## 5. Visualización Analítica
 
@@ -116,13 +116,13 @@ ggplot(df_limpio, aes(x = date, y = hits, color = keyword)) +
   )
 ```
 
----
+------------------------------------------------------------------------
 
 ## 6. Integración Sistémica: Arquitectura del Sistema
 
 Para convertir este análisis dinámico en una herramienta de soporte a decisiones en un entorno de producción, se propone la siguiente arquitectura computacional:
 
-```
+```         
 [ Fuente de Datos: Google Trends API ]
                  │
                  ▼
@@ -136,6 +136,7 @@ Para convertir este análisis dinámico en una herramienta de soporte a decision
 ```
 
 ### Principales Desafíos Computacionales:
-1. **Límites de Cuota (Rate Limits):** Implementación de reintentos exponenciales (*exponential backoff*) en R para evitar bloqueos por parte de la API de Google.
-2. **Normalización Normalizada Continuada:** Dado que las búsquedas cambian de escala según la ventana de tiempo elegida, se debe normalizar el valor `hits` con un término de anclaje invariable si se analizan múltiples años.
-3. **Modelado Predictivo:** Incorporar la serie temporal de Google Trends como una covariable exógena en modelos **ARIMAX** o **Prophet** para predecir cuellos de botella logísticos con días de anticipación.
+
+1.  **Límites de Cuota (Rate Limits):** Implementación de reintentos exponenciales (*exponential backoff*) en R para evitar bloqueos por parte de la API de Google.
+2.  **Normalización Normalizada Continuada:** Dado que las búsquedas cambian de escala según la ventana de tiempo elegida, se debe normalizar el valor `hits` con un término de anclaje invariable si se analizan múltiples años.
+3.  **Modelado Predictivo:** Incorporar la serie temporal de Google Trends como una covariable exógena en modelos **ARIMAX** o **Prophet** para predecir cuellos de botella logísticos con días de anticipación.
