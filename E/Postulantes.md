@@ -26,8 +26,8 @@
 |cctinf@gmail.com	| Ferrarini Oliver	|Cintia| | |
 |villavana7@gmail.com	| Villafañe	|Cristian|  |
 |silvina.migani@unsj-cuim.edu.ar	| ~~Migani~~	|Silvina|
-|gemaroyon@unsj-cuim.edu.ar	|Royon	| Gema Carolina|
-|balmaceda.silvina@gmail.com	| Balmaceda	|Silvina Gema|
+|gemaroyon@unsj-cuim.edu.ar	|Royon	| Gema Carolina| |
+|balmaceda.silvina@gmail.com	| Balmaceda	|Silvina Gema| |
 |arandaromera@gmail.com	| ~~ARANDA ROMERA~~	|JUAN ANTONIO|
-|gunzaga@fio.unicen.edu.ar	|Unzaga	|Gabriela Alicia|
-|mmartinez16577@gmail.com	|MARTINEZ	|MARCELA LILIANA|
+|gunzaga@fio.unicen.edu.ar	|Unzaga	|Gabriela Alicia|  https://github.com/unzagagabriela-svg/Maestria- | 
+|mmartinez16577@gmail.com	|MARTINEZ	|MARCELA LILIANA| https://github.com/Marcela842 |
