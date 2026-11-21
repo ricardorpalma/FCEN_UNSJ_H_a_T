@@ -14,7 +14,7 @@
 |tomasagustinvida@gmail.com	|Vida	|Tomás| https://github.com/TavvOgia/Vida_Tomas_Curso_H_a_T  | 
 |malcober@unsj-cuim.edu.ar	|~~Alcober~~	|Agustina| |
 |jazminpavetti@gmail.com	| ~~Pavetti~~	|Jazmín| |
-|gabicmairesse12@gmail.com	|Caballero Mairesse	|Gabriela Giuliana| Pendiente | 
+|gabicmairesse12@gmail.com	|Caballero Mairesse	|Gabriela Giuliana| https://github.com/gabicmairesse12 | 
 |lolguinunsj@gmail.com	| ~~Olguin~~	|Luis| | 
 |ing.nicolastrigo@gmail.com	| ~~Trigo~~	|Nicolás|  | 
 |francisalcaras.1008@gmail.com	| ~~Alcaras Bustos~~	|Francis Gabriela Janet|  |
@@ -23,7 +23,7 @@
 |sergio.zapata.diaz@gmail.com	|Zapata	|Sergio| Pendiente |
 |claudiofuentesbravo@gmail.com	|Fuentes	|Claudio| Pendeinte |
 |sebasgarciafontana@gmail.com	| **Duplicado**   García Fontana	|Sebastián José| | 
-|cctinf@gmail.com	| Ferrarini Oliver	|Cintia| | |
+|cctinf@gmail.com	| Ferrarini Oliver	|Cintia| https://github.com/ferrarinicintia/EvaluacionCursoHaT |
 |villavana7@gmail.com	| Villafañe	|Cristian|  |
 |silvina.migani@unsj-cuim.edu.ar	| ~~Migani~~	|Silvina|
 |gemaroyon@unsj-cuim.edu.ar	|Royon	| Gema Carolina| |
