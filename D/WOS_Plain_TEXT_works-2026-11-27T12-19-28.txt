@@ -1,0 +1,5075 @@
+FN OpenAlex
+VR 1.0
+PT D
+AU Junda Chen
+AF Junda Chen
+TI AgriUnion: A Unified Multi-Source UAV Agricultural Dataset for Tiny Object Detection
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Junda Chen] Hubei University, CN
+C3 Hubei University, CN
+RP Junda Chen (corresponding author), Hubei University, CN
+RI Junda Chen/https://openalex.org/A5132683032
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD JUN
+PY 2026
+DI 10.5281/zenodo.20688283
+UT https://openalex.org/W7164823888
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Leon-Friedrich Thomas
+   Mikael Änäkkälä
+   Antti Lajunen
+AF Leon-Friedrich Thomas
+   Mikael Änäkkälä
+   Antti Lajunen
+TI UAV Multispectral Imagery of Agricultural Fields in Finland
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Leon-Friedrich Thomas] University of Helsinki, FI
+   [Mikael Änäkkälä] University of Helsinki, FI
+   [Antti Lajunen] University of Helsinki, FI
+C3 University of Helsinki, FI
+RI Leon-Friedrich Thomas/https://openalex.org/A5101454630; Mikael Änäkkälä/https://openalex.org/A5068344671; Antti Lajunen/https://openalex.org/A5057398865
+OI Leon-Friedrich Thomas/0009-0005-8194-5149; Mikael Änäkkälä/0000-0003-2599-1894; Antti Lajunen/0000-0002-2175-7833
+TC 1
+NR 0
+PU European Organization for Nuclear Research
+PD FEB
+PY 2026
+DI 10.5281/zenodo.18233334
+UT https://openalex.org/W7131212612
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Haris Ampas
+   Vasilios Liakopoulos
+   Konstantinos Karyotis
+   George C. Zalidis
+AF Haris Ampas
+   Vasilios Liakopoulos
+   Konstantinos Karyotis
+   George C. Zalidis
+TI Hyperspectral UAV imagery of Agricultural Fields
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Haris Ampas] University of Macedonia, GR
+   [Vasilios Liakopoulos] interBalkan Environment Center, GR
+   [Konstantinos Karyotis] Aristotle University of Thessaloniki, GR
+   [George C. Zalidis] Aristotle University of Thessaloniki, GR
+C3 University of Macedonia, GR; interBalkan Environment Center, GR; Aristotle University of Thessaloniki, GR
+RI Haris Ampas/https://openalex.org/A5118213680; Vasilios Liakopoulos/https://openalex.org/A5138160712; Konstantinos Karyotis/https://openalex.org/A5072034221; George C. Zalidis/https://openalex.org/A5005613465
+OI Haris Ampas/0009-0006-5099-5044; Konstantinos Karyotis/0000-0003-1190-5772; George C. Zalidis/0000-0001-8078-2601
+FU European Commission [101086355]
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD JUN
+PY 2026
+DI 10.5281/zenodo.20594064
+UT https://openalex.org/W7163903236
+OA green
+DA 2026-11-27
+ER
+
+PT D
+TI UAV Use in Agriculture: Practical, Legal, and Technological Considerations
+SO Grow: Plant Health Exchange
+LA English
+DT Dataset
+TC 0
+NR 0
+PD DEC
+PY 2016
+DI 10.1094/grow-cot-12-16-091
+UT https://openalex.org/W4254710876
+OA closed
+DA 2026-11-27
+ER
+
+PT D
+AU Hugo Marcus Fialho e Moraes
+   Marconi Ribeiro Furtado Júnior
+   Edney Leandro da Vitória
+   Rodrigo Nogueira Martins
+AF Hugo Marcus Fialho e Moraes
+   Marconi Ribeiro Furtado Júnior
+   Edney Leandro da Vitória
+   Rodrigo Nogueira Martins
+TI A bibliometric and scientometric analysis on the use of UAVs in agriculture, livestock and forestry
+SO Figshare
+LA English
+DT Dataset
+C1 [Hugo Marcus Fialho e Moraes]
+   [Marconi Ribeiro Furtado Júnior]
+   [Edney Leandro da Vitória]
+   [Rodrigo Nogueira Martins]
+RI Hugo Marcus Fialho e Moraes/https://openalex.org/A5050354175; Marconi Ribeiro Furtado Júnior/https://openalex.org/A5049039368; Edney Leandro da Vitória/https://openalex.org/A5044409885; Rodrigo Nogueira Martins/https://openalex.org/A5017980555
+OI Hugo Marcus Fialho e Moraes/0000-0001-5784-7438; Marconi Ribeiro Furtado Júnior/0000-0002-1491-3981; Edney Leandro da Vitória/0000-0002-2268-6037; Rodrigo Nogueira Martins/0000-0002-0265-0889
+TC 0
+NR 0
+PU Figshare (United Kingdom)
+PD JAN
+PY 2023
+DI 10.6084/m9.figshare.22187845
+UT https://openalex.org/W4394374562
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Weijia Li
+AF Weijia Li
+TI Litchi-UAV: A UAV-based Litchi Fruit Detection Dataset for Precision Agriculture
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Weijia Li]
+RP Weijia Li (corresponding author)
+RI Weijia Li/https://openalex.org/A5132630991
+TC 1
+NR 0
+PU European Organization for Nuclear Research
+PD APR
+PY 2026
+DI 10.5281/zenodo.19364013
+UT https://openalex.org/W7147518835
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Youness Hnida
+   Mohamed Adnane Mahraz
+   Ali Yahyaouy
+   Ali Achebour
+   Jamal Riffi
+   Hamid Tairi
+AF Youness Hnida
+   Mohamed Adnane Mahraz
+   Ali Yahyaouy
+   Ali Achebour
+   Jamal Riffi
+   Hamid Tairi
+TI High-Resolution UAV Datasets for Agricultural Computer Vision
+SO Mendeley Data
+LA English
+DT Dataset
+C1 [Youness Hnida]
+   [Mohamed Adnane Mahraz]
+   [Ali Yahyaouy]
+   [Ali Achebour]
+   [Jamal Riffi]
+   [Hamid Tairi]
+RI Youness Hnida/https://openalex.org/A5106490022; Mohamed Adnane Mahraz/https://openalex.org/A5051206962; Ali Yahyaouy/https://openalex.org/A5078495751; Ali Achebour/https://openalex.org/A5106399381; Jamal Riffi/https://openalex.org/A5090906662; Hamid Tairi/https://openalex.org/A5038331849
+OI Youness Hnida/0009-0004-4623-2074; Mohamed Adnane Mahraz/0000-0002-0966-9654; Ali Yahyaouy/0000-0003-1954-2734; Jamal Riffi/0000-0003-4697-8533; Hamid Tairi/0000-0002-5445-0037
+TC 0
+NR 0
+PD APR
+PY 2026
+DI 10.17632/r4w3b2mfnw
+UT https://openalex.org/W7155373646
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Xiaoxin Li
+AF Xiaoxin Li
+TI A multiphysics CFD–Lagrangian dataset for agricultural UAV spraying
+SO Mendeley Data
+LA English
+DT Dataset
+C1 [Xiaoxin Li]
+RP Xiaoxin Li (corresponding author)
+RI Xiaoxin Li/https://openalex.org/A5158859093
+TC 0
+NR 0
+PD OCT
+PY 2026
+DI 10.17632/y6d4bw7nzg
+UT https://openalex.org/W7222739887
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Jarosław Wątróbski
+AF Jarosław Wątróbski
+TI Dataset: Multi-criteria decision support system for the evaluation of UAV intelligent agricultural sensors
+SO Mendeley Data
+LA English
+DT Dataset
+C1 [Jarosław Wątróbski] University of Szczecin, PL
+C3 University of Szczecin, PL
+RP Jarosław Wątróbski (corresponding author), University of Szczecin, PL
+RI Jarosław Wątróbski/https://openalex.org/A5069226693
+OI Jarosław Wątróbski/0000-0002-4415-9414
+TC 0
+NR 0
+PD MAR
+PY 2026
+DI 10.17632/gzzk9tgzj2
+UT https://openalex.org/W7136598762
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Poli, Daniela
+   Imran, Hafiz Ali
+   Ceola, Giada
+   Moggio, Davide
+AF Poli, Daniela
+   Imran, Hafiz Ali
+   Ceola, Giada
+   Moggio, Davide
+TI HYGRI - UAV Hyperspectral and Thermal Data for Agriculture Monitoring - ICAERUS
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Poli, Daniela]
+   [Imran, Hafiz Ali]
+   [Ceola, Giada]
+   [Moggio, Davide]
+FU European Commission [101060643]
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD JUN
+PY 2025
+DI 10.5281/zenodo.17831607
+UT https://openalex.org/W7108961761
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Poli, Daniela
+   Ceola, Giada
+   Imran, Hafiz Ali
+   Moggio, Davide
+AF Poli, Daniela
+   Ceola, Giada
+   Imran, Hafiz Ali
+   Moggio, Davide
+TI HYGRI - UAV Hyperspectral and Thermal Data for Agriculture Monitoring - ICAERUS
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Poli, Daniela]
+   [Ceola, Giada]
+   [Imran, Hafiz Ali]
+   [Moggio, Davide]
+FU European Commission [101060643]
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD JUN
+PY 2025
+DI 10.5281/zenodo.17863525
+UT https://openalex.org/W7114910116
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Chang Meng
+   Lei Shu
+   Leijing Bai
+AF Chang Meng
+   Lei Shu
+   Leijing Bai
+TI "Multi-Background UAV Spraying Behavior Recognition Dataset for Precision Agriculture"
+SO IEEE DataPort
+LA English
+DT Dataset
+C1 [Chang Meng]
+   [Lei Shu]
+   [Leijing Bai]
+TC 0
+NR 0
+PD NOV
+PY 2025
+DI 10.21227/dp61-fy61
+UT https://openalex.org/W7106122041
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU zhao xin miao
+   Dilixiati Dolikun
+   Xu Jin
+   Ansi
+AF zhao xin miao
+   Dilixiati Dolikun
+   Xu Jin
+   Ansi
+TI UAV Remote Sensing Image Dataset for Agricultural Residual Plastic Film Identification
+SO ScienceDB
+LA Chinese
+DT Dataset
+C1 [zhao xin miao] Xinjiang Agricultural University, CN
+   [Dilixiati Dolikun] Xinjiang Agricultural University, CN
+   [Xu Jin] Xinjiang Agricultural University, CN
+   [Ansi] Xinjiang Agricultural University, CN
+C3 Xinjiang Agricultural University, CN
+RI zhao xin miao/https://openalex.org/A5151901590; Dilixiati Dolikun/https://openalex.org/A5151902759; Ansi/https://openalex.org/A5151925245
+TC 0
+NR 0
+PD SEP
+PY 2026
+DI 10.57760/sciencedb.012mg
+UT https://openalex.org/W7213426097
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Jani Kuurasuo
+   Iiro Miettinen
+   Juha M. Suomalainen
+   Luis Alonso Chorda
+   Mengqi Cao
+   Sasu Tarkoma
+   Martha Arbayani Zaidan
+   Jon Atherton
+AF Jani Kuurasuo
+   Iiro Miettinen
+   Juha M. Suomalainen
+   Luis Alonso Chorda
+   Mengqi Cao
+   Sasu Tarkoma
+   Martha Arbayani Zaidan
+   Jon Atherton
+TI Data from: UAV-based reflectance estimation and multispectral-RGB image fusion for precision agriculture under variable illumination
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Jani Kuurasuo] University of Helsinki, FI
+   [Iiro Miettinen] University of Helsinki, FI
+   [Juha M. Suomalainen]
+   [Luis Alonso Chorda] University of Helsinki, FI
+   [Mengqi Cao] University of Helsinki, FI
+   [Sasu Tarkoma] University of Helsinki, FI
+   [Martha Arbayani Zaidan] University of Helsinki, FI
+   [Jon Atherton] University of Helsinki, FI
+C3 University of Helsinki, FI
+RI Jani Kuurasuo/https://openalex.org/A5127885057; Iiro Miettinen/https://openalex.org/A5070642022; Juha M. Suomalainen/https://openalex.org/A5014491014; Luis Alonso Chorda/https://openalex.org/A5127981631; Mengqi Cao/https://openalex.org/A5127881884; Sasu Tarkoma/https://openalex.org/A5054443906; Martha Arbayani Zaidan/https://openalex.org/A5077452142; Jon Atherton/https://openalex.org/A5079382678
+OI Iiro Miettinen/0009-0008-6171-0942; Juha M. Suomalainen/0000-0003-2029-8820; Luis Alonso Chorda/0000-0002-8221-5739; Sasu Tarkoma/0000-0003-4220-3650; Martha Arbayani Zaidan/0000-0002-6348-1230; Jon Atherton/0000-0002-7670-2928
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD MAR
+PY 2026
+DI 10.5281/zenodo.18839793
+UT https://openalex.org/W7133343891
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Kaya Taitano
+   Frank Lujan
+   R.F. King
+AF Kaya Taitano
+   Frank Lujan
+   R.F. King
+TI Post-Typhoon Mawar UAV Orthomosaic: UOG Ija Agricultural Research Station
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Kaya Taitano] University of Guam, GU
+   [Frank Lujan] University of Guam, GU
+   [R.F. King] University of Guam, GU
+C3 University of Guam, GU
+RI Kaya Taitano/https://openalex.org/A5094312185; Frank Lujan/https://openalex.org/A5094309577; R.F. King/https://openalex.org/A5011961152
+OI Kaya Taitano/0009-0007-7506-0066; Frank Lujan/0009-0001-2415-5969; R.F. King/0000-0002-1526-9200
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD JUL
+PY 2023
+DI 10.5281/zenodo.8191831
+UT https://openalex.org/W4393790629
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Kaya Taitano
+   Frank Lujan
+   R.F. King
+AF Kaya Taitano
+   Frank Lujan
+   R.F. King
+TI Post-Typhoon Mawar UAV Orthomosaic: UOG Inarajan Agricultural Research Station
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Kaya Taitano] University of Guam, GU
+   [Frank Lujan] University of Guam, GU
+   [R.F. King] University of Guam, GU
+C3 University of Guam, GU
+RI Kaya Taitano/https://openalex.org/A5094312185; Frank Lujan/https://openalex.org/A5094309577; R.F. King/https://openalex.org/A5011961152
+OI Kaya Taitano/0009-0007-7506-0066; Frank Lujan/0009-0001-2415-5969; R.F. King/0000-0002-1526-9200
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD JUL
+PY 2023
+DI 10.5281/zenodo.8191860
+UT https://openalex.org/W4394040985
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Kaya Taitano
+   Frank Lujan
+   R.F. King
+AF Kaya Taitano
+   Frank Lujan
+   R.F. King
+TI Post-Typhoon Mawar UAV Orthomosaic: UOG Yigo Agricultural Research and Education Center
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Kaya Taitano] University of Guam, GU
+   [Frank Lujan] University of Guam, GU
+   [R.F. King] University of Guam, GU
+C3 University of Guam, GU
+RI Kaya Taitano/https://openalex.org/A5094312185; Frank Lujan/https://openalex.org/A5094309577; R.F. King/https://openalex.org/A5011961152
+OI Kaya Taitano/0009-0007-7506-0066; Frank Lujan/0009-0001-2415-5969; R.F. King/0000-0002-1526-9200
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD JUL
+PY 2023
+DI 10.5281/zenodo.8191638
+UT https://openalex.org/W4393537463
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Shangxiao Wang
+   Shengjun Xiao
+   Y W Sun
+   Xiaonan Niu
+   Leli Zong
+   Ying Liu
+   Zhang Ming
+AF Shangxiao Wang
+   Shengjun Xiao
+   Y W Sun
+   Xiaonan Niu
+   Leli Zong
+   Ying Liu
+   Zhang Ming
+TI A Multi-Temporal UAV Multispectral Dataset for Land Cover Classification in a Heterogeneous Agricultural Landscape
+SO ScienceDB
+LA English
+DT Dataset
+C1 [Shangxiao Wang] China Institute of Geological Environmental Monitoring, CN
+   [Shengjun Xiao] China Geological Survey, CN
+   [Y W Sun] China Geological Survey, CN
+   [Xiaonan Niu] China Geological Survey, CN
+   [Leli Zong] China Geological Survey, CN
+   [Ying Liu] China Geological Survey, CN
+   [Zhang Ming] China Geological Survey, CN
+C3 China Institute of Geological Environmental Monitoring, CN; China Geological Survey, CN
+RI Shangxiao Wang/https://openalex.org/A5001113049; Shengjun Xiao/https://openalex.org/A5035363499; Y W Sun/https://openalex.org/A5104344287; Xiaonan Niu/https://openalex.org/A5018249028; Leli Zong/https://openalex.org/A5081568872; Ying Liu/https://openalex.org/A5100644814; Zhang Ming/https://openalex.org/A5143397776
+OI Shangxiao Wang/0000-0002-2005-2081; Y W Sun/0000-0002-4420-5708; Xiaonan Niu/0000-0001-9019-0597; Leli Zong/0000-0002-9460-941X; Ying Liu/0000-0002-1312-0146
+TC 0
+NR 0
+PD JUL
+PY 2026
+DI 10.57760/sciencedb.ecodb.00334
+UT https://openalex.org/W7170087184
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Christina Kallimani
+   Ramin Heidarian Dehkordi
+   F.K. van Evert
+   Lammert Kooistra
+   Bert Rijk
+AF Christina Kallimani
+   Ramin Heidarian Dehkordi
+   F.K. van Evert
+   Lammert Kooistra
+   Bert Rijk
+TI UAV-based Multispectral & Thermal dataset for exploring the diurnal variability, radiometric & geometric accuracy for precision agriculture
+SO Wageningen University & Research Publications
+LA English
+DT Dataset
+C1 [Christina Kallimani]
+   [Ramin Heidarian Dehkordi] University of Liège, BE
+   [F.K. van Evert] Wageningen University & Research, NL
+   [Lammert Kooistra] Wageningen University & Research, NL
+   [Bert Rijk]
+C3 University of Liège, BE; Wageningen University & Research, NL
+RI Christina Kallimani/https://openalex.org/A5050831924; Ramin Heidarian Dehkordi/https://openalex.org/A5053771643; F.K. van Evert/https://openalex.org/A5063645717; Lammert Kooistra/https://openalex.org/A5064235711; Bert Rijk/https://openalex.org/A5050330368
+OI Christina Kallimani/0000-0002-2989-3848; Ramin Heidarian Dehkordi/0000-0002-8636-4934; F.K. van Evert/0000-0003-0302-668X; Lammert Kooistra/0000-0001-5549-5993; Bert Rijk/0000-0001-5201-6395
+TC 2
+NR 0
+PU Wageningen University & Research
+PD JAN
+PY 2020
+DI 10.7910/dvn/rya2zq
+UT https://openalex.org/W4399003202
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Y. Zhang
+   Lei Shu
+   Kailiang Li
+   Ru Han
+   Tingting Hu
+AF Y. Zhang
+   Lei Shu
+   Kailiang Li
+   Ru Han
+   Tingting Hu
+TI Winter UAV Remote Sensing Dataset for Farmland Boundary Detection: A High-Resolution Multi-Terrain Agricultural Image Collection
+SO IEEE DataPort
+LA English
+DT Dataset
+C1 [Y. Zhang] Nanjing Agricultural University, CN
+   [Lei Shu] Nanjing Agricultural University, CN
+   [Kailiang Li] Nanjing Agricultural University, CN
+   [Ru Han] Nanjing Agricultural University, CN
+   [Tingting Hu] Nanjing Agricultural University, CN
+C3 Nanjing Agricultural University, CN
+RI Y. Zhang/https://openalex.org/A5113195522; Lei Shu/https://openalex.org/A5007723627; Kailiang Li/https://openalex.org/A5076475097; Ru Han/https://openalex.org/A5100751341; Tingting Hu/https://openalex.org/A5143714356
+OI Y. Zhang/0009-0000-8573-7172; Lei Shu/0000-0002-6700-9347; Kailiang Li/0009-0001-5659-1159; Ru Han/0009-0000-5128-1314
+TC 0
+NR 0
+PD MAR
+PY 2025
+DI 10.21227/ta8w-a151
+UT https://openalex.org/W7235048420
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Gholamreza Nikravesh
+   Raffaele Persico
+   Nicola Durighetto
+   Alfonso Senatore
+AF Gholamreza Nikravesh
+   Raffaele Persico
+   Nicola Durighetto
+   Alfonso Senatore
+TI Harmonizing Landsat, Sentinel and UAV imagery for local-scale agricultural drought monitoring at high spatial and temporal resolution
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Gholamreza Nikravesh] University of Calabria, IT
+   [Raffaele Persico] University of Calabria, IT
+   [Nicola Durighetto] University of Calabria, IT
+   [Alfonso Senatore] University of Calabria, IT
+C3 University of Calabria, IT
+RI Gholamreza Nikravesh/https://openalex.org/A5004372688; Raffaele Persico/https://openalex.org/A5025634937; Nicola Durighetto/https://openalex.org/A5033721272; Alfonso Senatore/https://openalex.org/A5043745299
+OI Gholamreza Nikravesh/0000-0002-8792-1720; Raffaele Persico/0000-0003-3213-2879; Nicola Durighetto/0000-0002-6081-1580; Alfonso Senatore/0000-0001-9716-3532
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD JAN
+PY 2026
+DI 10.5281/zenodo.18231736
+UT https://openalex.org/W7124164166
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Yong Wang
+AF Yong Wang
+TI DJI Smart Agriculture platform exports for a UAV multispectral survey of an oat breeding nursery, Gangu County, China (2026)
+SO Figshare
+LA English
+DT Dataset
+C1 [Yong Wang]
+RP Yong Wang (corresponding author)
+RI Yong Wang/https://openalex.org/A5159676099
+TC 0
+NR 0
+PU Figshare (United Kingdom)
+PD OCT
+PY 2026
+DI 10.6084/m9.figshare.34787814
+UT https://openalex.org/W7223679288
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Mahe Franck Marcel Guei
+   Hideo Hasegawa
+AF Mahe Franck Marcel Guei
+   Hideo Hasegawa
+TI Reproducibility package for "Beyond field edges: Human-validated boundary-signal representation for reference-blind UAV characterisation of fragmented agricultural landscapes"
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Mahe Franck Marcel Guei] Niigata University, JP
+   [Hideo Hasegawa] Niigata University, JP
+C3 Niigata University, JP
+RI Mahe Franck Marcel Guei/https://openalex.org/A5118992601; Hideo Hasegawa/https://openalex.org/A5049352867
+OI Mahe Franck Marcel Guei/0000-0003-0153-025X; Hideo Hasegawa/0000-0003-4888-9702
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD AUG
+PY 2026
+DI 10.5281/zenodo.22170107
+UT https://openalex.org/W7204687628
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Giuseppe Modica
+AF Giuseppe Modica
+TI Comparison and assessment of different object-based classifications using machine learning algorithms and UAVs multispectral imagery in the framework of precision agriculture
+SO Figshare
+LA English
+DT Dataset
+C1 [Giuseppe Modica] University of Reggio Calabria, IT
+C3 University of Reggio Calabria, IT
+RP Giuseppe Modica (corresponding author), University of Reggio Calabria, IT
+RI Giuseppe Modica/https://openalex.org/A5086386151
+OI Giuseppe Modica/0000-0002-0388-0256
+TC 0
+NR 0
+PU Figshare (United Kingdom)
+PD FEB
+PY 2021
+DI 10.5281/zenodo.4543441
+UT https://openalex.org/W4394042203
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Youbao Chang
+AF Youbao Chang
+TI Energy-Aware Multi-Monitoring Mission Planning for Agricultural UAVs in Hilly Terrain Using a Stage-Based Energy Model Coupled with an Improved GWO
+SO Figshare
+LA English
+DT Dataset
+C1 [Youbao Chang]
+RP Youbao Chang (corresponding author)
+RI Youbao Chang/https://openalex.org/A5150661687
+TC 0
+NR 0
+PU Figshare (United Kingdom)
+PD SEP
+PY 2026
+DI 10.6084/m9.figshare.33442999
+UT https://openalex.org/W7211913086
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Mainassara Zaman‐Allah
+   Mohammed Ismail
+   Zhe Guo
+   Soonho Kim
+   Julius B. Adewopo
+   Athanase Mukuralinda
+   Muhammad Nauman Ahmad
+   Abhi Rathore
+   Aniruddha Ghosh
+   Aidara Ousmane
+AF Mainassara Zaman‐Allah
+   Mohammed Ismail
+   Zhe Guo
+   Soonho Kim
+   Julius B. Adewopo
+   Athanase Mukuralinda
+   Muhammad Nauman Ahmad
+   Abhi Rathore
+   Aniruddha Ghosh
+   Aidara Ousmane
+TI UAV Multispectral Imagery in Zanzibar, Tanzania
+SO Figshare
+LA English
+DT Dataset
+C1 [Mainassara Zaman‐Allah]
+   [Mohammed Ismail]
+   [Zhe Guo]
+   [Soonho Kim]
+   [Julius B. Adewopo]
+   [Athanase Mukuralinda]
+   [Muhammad Nauman Ahmad]
+   [Abhi Rathore]
+   [Aniruddha Ghosh]
+   [Aidara Ousmane]
+RI Mainassara Zaman‐Allah/https://openalex.org/A5023682721; Mohammed Ismail/https://openalex.org/A5100551329; Zhe Guo/https://openalex.org/A5005198424; Soonho Kim/https://openalex.org/A5107947763; Julius B. Adewopo/https://openalex.org/A5005303769; Athanase Mukuralinda/https://openalex.org/A5014451201; Muhammad Nauman Ahmad/https://openalex.org/A5007545697; Abhi Rathore/https://openalex.org/A5111165888; Aniruddha Ghosh/https://openalex.org/A5049938283; Aidara Ousmane/https://openalex.org/A5036918225
+OI Mainassara Zaman‐Allah/0000-0002-8120-5125; Zhe Guo/0000-0002-5999-4009; Julius B. Adewopo/0000-0003-4831-2823; Muhammad Nauman Ahmad/0000-0002-5134-7704; Aniruddha Ghosh/0000-0003-3667-8019
+TC 0
+NR 0
+PU Figshare (United Kingdom)
+PD JAN
+PY 2019
+DI 10.6084/m9.figshare.7766789
+UT https://openalex.org/W4394257659
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Yaoyao Nie
+   Huimin Ma
+AF Yaoyao Nie
+   Huimin Ma
+TI UAV-WheatSeedling
+SO ScienceDB
+LA English
+DT Dataset
+C1 [Yaoyao Nie] Anhui Agricultural University, CN
+   [Huimin Ma] Anhui Agricultural University, CN
+C3 Anhui Agricultural University, CN
+RI Yaoyao Nie/https://openalex.org/A5133607405; Huimin Ma/https://openalex.org/A5133624129
+TC 0
+NR 0
+PD APR
+PY 2026
+DI 10.57760/sciencedb.33007
+UT https://openalex.org/W7154330785
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Muhammad Sarwar Jahan Morshed
+   Md. Nasim Adnan
+AF Muhammad Sarwar Jahan Morshed
+   Md. Nasim Adnan
+TI UAV based Tomato Dataset
+SO Mendeley Data
+LA English
+DT Dataset
+C1 [Muhammad Sarwar Jahan Morshed]
+   [Md. Nasim Adnan] Jashore University of Science and Technology, BD
+C3 Jashore University of Science and Technology, BD
+RI Muhammad Sarwar Jahan Morshed/https://openalex.org/A5103427381; Md. Nasim Adnan/https://openalex.org/A5072723223
+OI Md. Nasim Adnan/0000-0001-9210-2896
+TC 0
+NR 0
+PD JUN
+PY 2026
+DI 10.17632/9m2mnnkk42
+UT https://openalex.org/W7163029769
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Sara B. Tirado
+   Candice N. Hirsch
+   Nathan M. Springer
+AF Sara B. Tirado
+   Candice N. Hirsch
+   Nathan M. Springer
+TI Springer Lab UAV Maize Phenotyping Project at UMN StPaul: 2018 and 2019
+SO University of Minnesota Digital Conservancy (University of Minnesota)
+LA English
+DT Dataset
+C1 [Sara B. Tirado]
+   [Candice N. Hirsch]
+   [Nathan M. Springer]
+RI Sara B. Tirado/https://openalex.org/A5011139286; Candice N. Hirsch/https://openalex.org/A5063917020; Nathan M. Springer/https://openalex.org/A5023378154
+OI Sara B. Tirado/0000-0003-0432-091X; Candice N. Hirsch/0000-0002-8833-3023; Nathan M. Springer/0000-0002-7301-4759
+TC 0
+NR 0
+PU University of Minnesota
+PD MAY
+PY 2020
+DI 10.13020/j01t-wq81
+UT https://openalex.org/W3025724594
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Statsnet Research Team
+AF Statsnet Research Team
+TI Kazakhstan Agri-Drone Fleet Operators and UAV Service Providers 2026
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Statsnet Research Team]
+RP Statsnet Research Team (corresponding author)
+RI Statsnet Research Team/https://openalex.org/A5138232925
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD JUN
+PY 2026
+DI 10.5281/zenodo.20705881
+UT https://openalex.org/W7164849845
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Statsnet Research Team
+AF Statsnet Research Team
+TI Kazakhstan Agri-Drone Fleet Operators and UAV Service Providers 2026
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Statsnet Research Team]
+RP Statsnet Research Team (corresponding author)
+RI Statsnet Research Team/https://openalex.org/A5138232925
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD JUN
+PY 2026
+DI 10.5281/zenodo.20705923
+UT https://openalex.org/W7164852969
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Marketintelo
+AF Marketintelo
+TI UAV Payloads Market to Reach USD 18.7 Billion by 2032, Expanding at 12.4% CAGR
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Marketintelo]
+RP Marketintelo (corresponding author)
+RI Marketintelo/https://openalex.org/A5129713242
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD MAR
+PY 2026
+DI 10.5281/zenodo.18983011
+UT https://openalex.org/W7135045746
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Yuanliang Cheng
+AF Yuanliang Cheng
+TI UAV System Application Demonstration Dataset
+SO ScienceDB
+LA Chinese
+DT Dataset
+C1 [Yuanliang Cheng] Northeast Institute of Geography and Agroecology, CN
+C3 Northeast Institute of Geography and Agroecology, CN
+RP Yuanliang Cheng (corresponding author), Northeast Institute of Geography and Agroecology, CN
+RI Yuanliang Cheng/https://openalex.org/A5107792183
+OI Yuanliang Cheng/0009-0008-3654-4559
+TC 0
+NR 0
+PD MAY
+PY 2026
+DI 10.57760/sciencedb.iga.01466
+UT https://openalex.org/W7213283067
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Hamid Mokhtarzadeh
+   Todd Colten
+AF Hamid Mokhtarzadeh
+   Todd Colten
+TI Small UAV Position and Attitude, Raw Sensor, and Aerial Imagery Data Collected over Farm Field with Surveyed Markers
+SO University of Minnesota Digital Conservancy (University of Minnesota)
+LA English
+DT Dataset
+C1 [Hamid Mokhtarzadeh]
+   [Todd Colten]
+RI Hamid Mokhtarzadeh/https://openalex.org/A5109359043; Todd Colten/https://openalex.org/A5051569912
+TC 5
+NR 0
+PU University of Minnesota
+PD MAR
+PY 2015
+DI 10.13020/d6bc7z
+UT https://openalex.org/W1601229860
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Girma Tariku
+AF Girma Tariku
+TI RGB UAV plants imge dataset
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Girma Tariku] University of Brescia, IT
+C3 University of Brescia, IT
+RP Girma Tariku (corresponding author), University of Brescia, IT
+RI Girma Tariku/https://openalex.org/A5092936095
+OI Girma Tariku/0009-0003-1762-1903
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD SEP
+PY 2023
+DI 10.5281/zenodo.8297801
+UT https://openalex.org/W4393665574
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Zaryab Ahmad Khan
+   Irum Nigar wazir
+AF Zaryab Ahmad Khan
+   Irum Nigar wazir
+TI Lightweight UAV Explosion Detection Dataset
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Zaryab Ahmad Khan] Islamia College University, PK
+   [Irum Nigar wazir] The University of Agriculture, Peshawar, PK
+C3 Islamia College University, PK; The University of Agriculture, Peshawar, PK
+RI Zaryab Ahmad Khan/https://openalex.org/A5144393090; Irum Nigar wazir/https://openalex.org/A5144426408
+OI Zaryab Ahmad Khan/0009-0008-8117-936X
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD AUG
+PY 2026
+DI 10.5281/zenodo.21785790
+UT https://openalex.org/W7172500412
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU ATEC-3D
+   DAFNE Consortium
+   Fritz Kleinschroth
+AF ATEC-3D
+   DAFNE Consortium
+   Fritz Kleinschroth
+TI Drone-based aerial imagery of rivers, wetlands and agricultural systems in Zambia
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [ATEC-3D]
+   [DAFNE Consortium]
+   [Fritz Kleinschroth] ETH Zurich, CH
+C3 ETH Zurich, CH
+RI DAFNE Consortium/https://openalex.org/A5094326833; Fritz Kleinschroth/https://openalex.org/A5035887929
+OI Fritz Kleinschroth/0000-0002-7614-2123
+FU European Commission [690268]
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD DEC
+PY 2020
+DI 10.5281/zenodo.4338898
+UT https://openalex.org/W4393511746
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Halil İbrahim Uğurlu
+   Amir Ramezani Dooraki
+   Erdal Kayacan
+   Alexandros Iosifidis
+AF Halil İbrahim Uğurlu
+   Amir Ramezani Dooraki
+   Erdal Kayacan
+   Alexandros Iosifidis
+TI Multimodal Agricultural Aerial and Ground Robotics Simulation Dataset
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Halil İbrahim Uğurlu]
+   [Amir Ramezani Dooraki]
+   [Erdal Kayacan]
+   [Alexandros Iosifidis]
+RI Halil İbrahim Uğurlu/https://openalex.org/A5040495025; Amir Ramezani Dooraki/https://openalex.org/A5060612424; Erdal Kayacan/https://openalex.org/A5068099488; Alexandros Iosifidis/https://openalex.org/A5064535836
+OI Halil İbrahim Uğurlu/0000-0002-1609-5783; Amir Ramezani Dooraki/0000-0003-4294-7393; Erdal Kayacan/0000-0002-7143-8777; Alexandros Iosifidis/0000-0003-4807-1345
+FU European Commission [871449]
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD NOV
+PY 2023
+DI 10.5281/zenodo.10159038
+UT https://openalex.org/W4393558552
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Ashifur Rahman
+   M. M. Mahbubul Syeed
+   Razib Hayat Khan
+   Kaniz Fatema
+   Tarem Ahmed
+   Safiqul Islam
+AF Ashifur Rahman
+   M. M. Mahbubul Syeed
+   Razib Hayat Khan
+   Kaniz Fatema
+   Tarem Ahmed
+   Safiqul Islam
+TI UAV-Based Aquatic Plant Dataset for Segmentation and Classification
+SO Mendeley Data
+LA English
+DT Dataset
+C1 [Ashifur Rahman]
+   [M. M. Mahbubul Syeed] Independent University, Bangladesh, BD
+   [Razib Hayat Khan] Independent University, Bangladesh, BD
+   [Kaniz Fatema] Independent University, Bangladesh, BD
+   [Tarem Ahmed] Independent University, Bangladesh, BD
+   [Safiqul Islam] OsloMet – Oslo Metropolitan University, NO
+C3 Independent University, Bangladesh, BD; OsloMet – Oslo Metropolitan University, NO
+RI Ashifur Rahman/https://openalex.org/A5056055959; M. M. Mahbubul Syeed/https://openalex.org/A5035087845; Razib Hayat Khan/https://openalex.org/A5006031820; Kaniz Fatema/https://openalex.org/A5134712775; Tarem Ahmed/https://openalex.org/A5036203974; Safiqul Islam/https://openalex.org/A5050509391
+OI Ashifur Rahman/0000-0003-4308-8527; M. M. Mahbubul Syeed/0000-0003-1239-6156; Razib Hayat Khan/0000-0001-6718-9918; Kaniz Fatema/0009-0002-5565-1559; Tarem Ahmed/0000-0001-9924-0669; Safiqul Islam/0000-0003-4683-8792
+TC 1
+NR 0
+PD APR
+PY 2026
+DI 10.17632/sf49d949n3
+UT https://openalex.org/W7156363369
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Ioannis N. Rallis
+   Kyriakos Kempapidis
+   Panagiotis Raptis
+   Emmanuel K. Raptis
+   Athanasios Ch. Kapoutsis
+AF Ioannis N. Rallis
+   Kyriakos Kempapidis
+   Panagiotis Raptis
+   Emmanuel K. Raptis
+   Athanasios Ch. Kapoutsis
+TI CamelinaWeed: Annotated UAV Imagery Dataset for Camelina sativa
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Ioannis N. Rallis] Democritus University of Thrace, GR
+   [Kyriakos Kempapidis]
+   [Panagiotis Raptis] Information Technologies Institute, GR
+   [Emmanuel K. Raptis] Centre for Research and Technology Hellas, GR
+   [Athanasios Ch. Kapoutsis] Centre for Research and Technology Hellas, GR
+C3 Democritus University of Thrace, GR; Information Technologies Institute, GR; Centre for Research and Technology Hellas, GR
+RI Ioannis N. Rallis/https://openalex.org/A5136486497; Kyriakos Kempapidis/https://openalex.org/A5136471003; Panagiotis Raptis/https://openalex.org/A5136497934; Emmanuel K. Raptis/https://openalex.org/A5083940698; Athanasios Ch. Kapoutsis/https://openalex.org/A5046634751
+OI Ioannis N. Rallis/0009-0005-9144-4727; Panagiotis Raptis/0009-0006-2364-9357; Emmanuel K. Raptis/0000-0003-0033-7925; Athanasios Ch. Kapoutsis/0000-0002-1688-036X
+TC 1
+NR 0
+PU European Organization for Nuclear Research
+PD MAY
+PY 2026
+DI 10.5281/zenodo.20148696
+UT https://openalex.org/W7161749188
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Lucas Molz Lara
+   Luciano Gebler
+   Mirabor José Leite Júnior
+   Alencar Lucas Soares
+AF Lucas Molz Lara
+   Luciano Gebler
+   Mirabor José Leite Júnior
+   Alencar Lucas Soares
+TI Precision agriculture trends in fruit growing from 2016 to 2020
+SO Figshare
+LA English
+DT Dataset
+C1 [Lucas Molz Lara]
+   [Luciano Gebler]
+   [Mirabor José Leite Júnior]
+   [Alencar Lucas Soares]
+RI Lucas Molz Lara/https://openalex.org/A5051212482; Luciano Gebler/https://openalex.org/A5051352695; Mirabor José Leite Júnior/https://openalex.org/A5072754783; Alencar Lucas Soares/https://openalex.org/A5004580847
+OI Lucas Molz Lara/0000-0002-7279-7181; Luciano Gebler/0000-0001-9622-5578; Mirabor José Leite Júnior/0000-0003-3289-7687; Alencar Lucas Soares/0000-0003-2308-5724
+TC 0
+NR 0
+PU Figshare (United Kingdom)
+PD JAN
+PY 2022
+DI 10.6084/m9.figshare.19944821
+UT https://openalex.org/W4394148051
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Shengyang Li
+   Yilingfeng Song
+   Jiaochun Peng
+   Zhi Zhou
+   Meizhen Duan
+   Juwen Liang
+AF Shengyang Li
+   Yilingfeng Song
+   Jiaochun Peng
+   Zhi Zhou
+   Meizhen Duan
+   Juwen Liang
+TI Liuyang UAV Tobacco Crop-Weed Segmentation Dataset
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Shengyang Li]
+   [Yilingfeng Song]
+   [Jiaochun Peng]
+   [Zhi Zhou]
+   [Meizhen Duan]
+   [Juwen Liang]
+RI Shengyang Li/https://openalex.org/A5150030369; Yilingfeng Song/https://openalex.org/A5150029848; Jiaochun Peng/https://openalex.org/A5150029562; Zhi Zhou/https://openalex.org/A5150038706; Meizhen Duan/https://openalex.org/A5150047821; Juwen Liang/https://openalex.org/A5150039072
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD SEP
+PY 2026
+DI 10.5281/zenodo.22253841
+UT https://openalex.org/W7208710467
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Atreyo Hazra
+AF Atreyo Hazra
+TI Pomacea canaliculata Egg UAV Dataset for Microscopic Object Detection
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Atreyo Hazra] Manipal Academy of Higher Education, IN
+C3 Manipal Academy of Higher Education, IN
+RP Atreyo Hazra (corresponding author), Manipal Academy of Higher Education, IN
+RI Atreyo Hazra/https://openalex.org/A5157739474
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD OCT
+PY 2026
+DI 10.5281/zenodo.23181679
+UT https://openalex.org/W7220701073
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Karthik R P
+AF Karthik R P
+TI Mango Orchard UAV Image Dataset (RGB and Multispectral OCN)
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Karthik R P]
+RP Karthik R P (corresponding author)
+RI Karthik R P/https://openalex.org/A5124370095
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD JAN
+PY 2026
+DI 10.5281/zenodo.18424646
+UT https://openalex.org/W7126250000
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Ali Lotfi
+   Adam Carter
+   Mohammad Meysami
+   Thuan Ha
+   Kwabena Abrefa Nketia
+   Steve Shirtliffe
+AF Ali Lotfi
+   Adam Carter
+   Mohammad Meysami
+   Thuan Ha
+   Kwabena Abrefa Nketia
+   Steve Shirtliffe
+TI The Normalized Difference Layer: Sentinel-2 Kochia and UAV wheat archives
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Ali Lotfi] University of Saskatchewan, CA
+   [Adam Carter] University of Saskatchewan, CA
+   [Mohammad Meysami] University of Tulsa, US
+   [Thuan Ha] University of Saskatchewan, CA
+   [Kwabena Abrefa Nketia] University of Saskatchewan, CA
+   [Steve Shirtliffe] University of Saskatchewan, CA
+C3 University of Saskatchewan, CA; University of Tulsa, US
+RI Ali Lotfi/https://openalex.org/A5105789754; Adam Carter/https://openalex.org/A5121585081; Mohammad Meysami/https://openalex.org/A5020551936; Thuan Ha/https://openalex.org/A5147264482; Kwabena Abrefa Nketia/https://openalex.org/A5085482628; Steve Shirtliffe/https://openalex.org/A5147287248
+OI Ali Lotfi/0000-0003-1478-542X; Adam Carter/0009-0002-8135-5227; Mohammad Meysami/0000-0002-3322-5244; Kwabena Abrefa Nketia/0000-0002-2908-7969
+TC 1
+NR 1
+PU European Organization for Nuclear Research
+PD AUG
+PY 2026
+DI 10.5281/zenodo.21969438
+UT https://openalex.org/W7203585248
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Nisha Bao
+AF Nisha Bao
+TI "Hyperspectral Dataset of Camouflaged Targets via UAV in Natural Environments"
+SO IEEE DataPort
+LA English
+DT Dataset
+C1 [Nisha Bao]
+RP Nisha Bao (corresponding author)
+RI Nisha Bao/https://openalex.org/A5036673861
+OI Nisha Bao/0000-0001-8587-146X
+TC 0
+NR 0
+PD FEB
+PY 2026
+DI 10.21227/vfj0-6a65
+UT https://openalex.org/W7126384909
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Yaohui Liu
+   Yang Xinyue
+   Jiahe Li
+   Cheng Hao Cheng Hao
+   Xiwei Fan
+   Zhang Haoyu
+   Xiaoli Li
+   Qi Wenhua
+   Xiaoli Li
+   Gaozhong Nie
+   Xu Nan
+   Fu Bo Fu Bo
+   Yao Guobiao
+   YU Ming-yang
+   Jian Cui
+   Fei Meng
+   Jin Fengxiang Jin Fengxiang
+AF Yaohui Liu
+   Yang Xinyue
+   Jiahe Li
+   Cheng Hao Cheng Hao
+   Xiwei Fan
+   Zhang Haoyu
+   Xiaoli Li
+   Qi Wenhua
+   Xiaoli Li
+   Gaozhong Nie
+   Xu Nan
+   Fu Bo Fu Bo
+   Yao Guobiao
+   YU Ming-yang
+   Jian Cui
+   Fei Meng
+   Jin Fengxiang Jin Fengxiang
+TI Building sampling and labeling dataset of UAV images in rural China
+SO Science Data Bank Datasets
+LA English
+DT Dataset
+C1 [Yaohui Liu]
+   [Yang Xinyue]
+   [Jiahe Li]
+   [Cheng Hao Cheng Hao]
+   [Xiwei Fan]
+   [Zhang Haoyu]
+   [Xiaoli Li]
+   [Qi Wenhua]
+   [Xiaoli Li]
+   [Gaozhong Nie]
+   [Xu Nan]
+   [Fu Bo Fu Bo]
+   [Yao Guobiao]
+   [YU Ming-yang]
+   [Jian Cui]
+   [Fei Meng]
+   [Jin Fengxiang Jin Fengxiang]
+RI Yaohui Liu/https://openalex.org/A5100732105; Yang Xinyue/https://openalex.org/A5110918388; Jiahe Li/https://openalex.org/A5102928952; Cheng Hao Cheng Hao/https://openalex.org/A5063069981; Xiwei Fan/https://openalex.org/A5066876245; Xiaoli Li/https://openalex.org/A5101697738; Qi Wenhua/https://openalex.org/A5112840857; Xiaoli Li/https://openalex.org/A5100735624; Gaozhong Nie/https://openalex.org/A5112125714; Fu Bo Fu Bo/https://openalex.org/A5068639917; Yao Guobiao/https://openalex.org/A5038454265; YU Ming-yang/https://openalex.org/A5075508584; Jian Cui/https://openalex.org/A5100763245; Fei Meng/https://openalex.org/A5031155898; Jin Fengxiang Jin Fengxiang/https://openalex.org/A5108754688
+OI Yaohui Liu/0000-0002-3041-3557; Yang Xinyue/0009-0001-7724-9168; Jiahe Li/0009-0007-1812-1328; Xiwei Fan/0000-0002-5089-2380; Xiaoli Li/0000-0003-2134-3822; Xiaoli Li/0000-0002-1846-2030; Jian Cui/0000-0003-1371-4945; Fei Meng/0009-0009-8078-8435
+TC 1
+NR 0
+PD JUN
+PY 2022
+DI 10.11922/sciencedb.j00001.00226
+UT https://openalex.org/W4282830806
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Liu Yao Hui
+AF Liu Yao Hui
+TI Building sampling and labeling dataset of UAV images in rural China
+SO ScienceDB
+LA Chinese
+DT Dataset
+C1 [Liu Yao Hui] Shandong Jianzhu University, CN
+C3 Shandong Jianzhu University, CN
+RP Liu Yao Hui (corresponding author), Shandong Jianzhu University, CN
+RI Liu Yao Hui/https://openalex.org/A5100511592
+TC 0
+NR 0
+PD MAR
+PY 2026
+DI 10.57760/sciencedb.j00240.00101
+UT https://openalex.org/W7140285798
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Ye Mu
+   longyan Liu
+   Yanhong Yu
+   Zuoqi Wang
+   Yan Li
+   He Gong
+   Yu Bao
+AF Ye Mu
+   longyan Liu
+   Yanhong Yu
+   Zuoqi Wang
+   Yan Li
+   He Gong
+   Yu Bao
+TI UAV-Based RGB Image Dataset for Maize Growth Stage Classification
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Ye Mu]
+   [longyan Liu]
+   [Yanhong Yu]
+   [Zuoqi Wang]
+   [Yan Li]
+   [He Gong]
+   [Yu Bao]
+RI Ye Mu/https://openalex.org/A5123045247; longyan Liu/https://openalex.org/A5159439472; Yanhong Yu/https://openalex.org/A5151179760; Zuoqi Wang/https://openalex.org/A5069933128; Yan Li/https://openalex.org/A5160899753; He Gong/https://openalex.org/A5108650786; Yu Bao/https://openalex.org/A5160732212
+OI Zuoqi Wang/0000-0001-9115-8978
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD OCT
+PY 2026
+DI 10.5281/zenodo.23608716
+UT https://openalex.org/W7223460037
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Van Hoa Nguyen
+   Doan Cong Le
+   Mai-Phung Bui
+   T N P Nguyen
+   Huu-Hiep Nguyen-Bui
+   Thi Tuyet Anh Le
+AF Van Hoa Nguyen
+   Doan Cong Le
+   Mai-Phung Bui
+   T N P Nguyen
+   Huu-Hiep Nguyen-Bui
+   Thi Tuyet Anh Le
+TI A Multimodal UAV Dataset for Rice Yield Prediction in the Vietnam Mekong Delta
+SO Mendeley Data
+LA English
+DT Dataset
+C1 [Van Hoa Nguyen]
+   [Doan Cong Le] An Giang University, VN
+   [Mai-Phung Bui] An Giang University, VN
+   [T N P Nguyen] An Giang University, VN
+   [Huu-Hiep Nguyen-Bui] An Giang University, VN
+   [Thi Tuyet Anh Le] An Giang University, VN
+C3 An Giang University, VN
+RI Van Hoa Nguyen/https://openalex.org/A5101637382; Doan Cong Le/https://openalex.org/A5066378508; Mai-Phung Bui/https://openalex.org/A5139074643; T N P Nguyen/https://openalex.org/A5128700301; Huu-Hiep Nguyen-Bui/https://openalex.org/A5139120240; Thi Tuyet Anh Le/https://openalex.org/A5055029289
+OI Van Hoa Nguyen/0000-0003-0582-2129; Doan Cong Le/0000-0002-2229-413X; Mai-Phung Bui/0000-0002-0220-1952; T N P Nguyen/0009-0007-4393-6756; Huu-Hiep Nguyen-Bui/0009-0009-1007-6096; Thi Tuyet Anh Le/0000-0002-5089-5530
+FU Viet Nam National University Ho Chi Minh City
+TC 0
+NR 0
+PD JUN
+PY 2026
+DI 10.17632/j9v6bxbg7z
+UT https://openalex.org/W7165600044
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Fábio Marcelo Breunig
+   Eduardo Rieder
+AF Fábio Marcelo Breunig
+   Eduardo Rieder
+TI Unmanned Aerial Vehicle (UAV) data acquired over a subtropical forest area of the UFSM campus Frederico Westphalen, at February 18, 2021, Rio Grande do Sul, Brazil
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Fábio Marcelo Breunig] Universidade Federal de Santa Maria, BR
+   [Eduardo Rieder] Universidade Federal de Santa Maria, BR
+C3 Universidade Federal de Santa Maria, BR
+RI Fábio Marcelo Breunig/https://openalex.org/A5002401708; Eduardo Rieder/https://openalex.org/A5084528490
+OI Fábio Marcelo Breunig/0000-0002-0405-9603; Eduardo Rieder/0000-0003-3572-4941
+FU Conselho Nacional de Desenvolvimento Científico e Tecnológico [2018-0]; Conselho Nacional de Desenvolvimento Científico e Tecnológico [113769/2018-0]; Conselho Nacional de Desenvolvimento Científico e Tecnológico [2013-3]; Conselho Nacional de Desenvolvimento Científico e Tecnológico [23.830.388.22048.19092016]; Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul [23830.388.22048.19092016]; Conselho Nacional de Desenvolvimento Científico e Tecnológico [305084/2020-8]; Conselho Nacional de Desenvolvimento Científico e Tecnológico [2013-8]; Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul [478085/2013-3]; Conselho Nacional de Desenvolvimento Científico e Tecnológico [478085/2013-3]; Conselho Nacional de Desenvolvimento Científico e Tecnológico [312081/2013-8]
+TC 1
+NR 0
+PU European Organization for Nuclear Research
+PD FEB
+PY 2021
+DI 10.5281/zenodo.4557191
+UT https://openalex.org/W4393823968
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Filipe Beretta
+   H. Shibata
+   Cordova, Rodrigo
+   Rodrigo de Lemos Peroni
+   Jeremias Azambuja
+   João Felipe Coimbra Leite Costa
+AF Filipe Beretta
+   H. Shibata
+   Cordova, Rodrigo
+   Rodrigo de Lemos Peroni
+   Jeremias Azambuja
+   João Felipe Coimbra Leite Costa
+TI Topographic modelling using UAVs compared with traditional survey methods in mining
+SO Figshare
+LA English
+DT Dataset
+C1 [Filipe Beretta]
+   [H. Shibata]
+   [Cordova, Rodrigo]
+   [Rodrigo de Lemos Peroni]
+   [Jeremias Azambuja]
+   [João Felipe Coimbra Leite Costa]
+RI Filipe Beretta/https://openalex.org/A5050624322; H. Shibata/https://openalex.org/A5001387197; Rodrigo de Lemos Peroni/https://openalex.org/A5018218808; Jeremias Azambuja/https://openalex.org/A5079037358; João Felipe Coimbra Leite Costa/https://openalex.org/A5038689974
+OI Filipe Beretta/0000-0002-1846-0465; Rodrigo de Lemos Peroni/0000-0003-0131-5832; João Felipe Coimbra Leite Costa/0000-0003-4375-370X
+TC 0
+NR 0
+PU Figshare (United Kingdom)
+PD JAN
+PY 2018
+DI 10.6084/m9.figshare.7514840
+UT https://openalex.org/W4394523565
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Zhao, Jiangtao
+AF Zhao, Jiangtao
+TI UAV Visible-Light Imagery of Peanut Seedlings from Shandong, China (2022–2023)
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Zhao, Jiangtao]
+RP Zhao, Jiangtao (corresponding author)
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD DEC
+PY 2025
+DI 10.5281/zenodo.17850982
+UT https://openalex.org/W7111308875
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Adari Rama Sukanya
+   P. Jishnu Sai
+   Kota Moses
+   Rimalapudi Sarvendranath
+AF Adari Rama Sukanya
+   P. Jishnu Sai
+   Kota Moses
+   Rimalapudi Sarvendranath
+TI "A UAV-Based Multispectral and RGB Dataset for Multi-Stage Paddy Crop Monitoring"
+SO IEEE DataPort
+LA English
+DT Dataset
+C1 [Adari Rama Sukanya]
+   [P. Jishnu Sai]
+   [Kota Moses]
+   [Rimalapudi Sarvendranath]
+RI Adari Rama Sukanya/https://openalex.org/A5122016326; P. Jishnu Sai/https://openalex.org/A5061599880; Kota Moses/https://openalex.org/A5122053722; Rimalapudi Sarvendranath/https://openalex.org/A5037167315
+OI Adari Rama Sukanya/0009-0000-7668-526X; P. Jishnu Sai/0000-0002-9350-7518; Rimalapudi Sarvendranath/0000-0001-9708-0913
+TC 0
+NR 0
+PD JAN
+PY 2026
+DI 10.21227/475s-fq42
+UT https://openalex.org/W7118960511
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Matthias Diener
+   Lucilla Agostini
+   Francesco Argento
+   Else K. Bünemann
+   Achim Walter
+   Jochen Mayer
+   Frank Liebisch
+AF Matthias Diener
+   Lucilla Agostini
+   Francesco Argento
+   Else K. Bünemann
+   Achim Walter
+   Jochen Mayer
+   Frank Liebisch
+TI Linking organic fertilizer properties to in-season N dynamics using multispectral UAV imagery
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Matthias Diener] Agroscope, CH
+   [Lucilla Agostini] Forschungsinstitut für biologischen Landbau, DE
+   [Lucilla Agostini] Forschungsinstitut für Biologischen Landbau, CH
+   [Francesco Argento] Agroscope, CH
+   [Else K. Bünemann] Forschungsinstitut für Biologischen Landbau, CH
+   [Else K. Bünemann] Research Institute of Organic Agriculture, BE
+   [Achim Walter]
+   [Jochen Mayer] Agroscope, CH
+   [Frank Liebisch] Agroscope, CH
+C3 Agroscope, CH; Forschungsinstitut für biologischen Landbau, DE; Forschungsinstitut für Biologischen Landbau, CH; Research Institute of Organic Agriculture, BE
+RI Matthias Diener/https://openalex.org/A5139701045; Lucilla Agostini/https://openalex.org/A5098246915; Francesco Argento/https://openalex.org/A5080214058; Else K. Bünemann/https://openalex.org/A5087673799; Achim Walter/https://openalex.org/A5041969138; Jochen Mayer/https://openalex.org/A5029898804; Frank Liebisch/https://openalex.org/A5033593467
+OI Matthias Diener/0009-0003-5975-6638; Lucilla Agostini/0009-0000-5588-0680; Francesco Argento/0000-0003-3412-9745; Else K. Bünemann/0000-0003-4605-6125; Achim Walter/0000-0001-7753-9643; Jochen Mayer/0000-0002-1926-0211; Frank Liebisch/0000-0003-0000-7491
+FU Bundesamt für Landwirtschaft; Bundesamt für Umwelt; Bundesamt für Energie
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD JUL
+PY 2026
+DI 10.5281/zenodo.21100683
+UT https://openalex.org/W7167423356
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Patricio Alonso Hernandez Ludeña
+AF Patricio Alonso Hernandez Ludeña
+TI Multispectral UAV imagery and semantic segmentation data for weed detection in barley and rapeseed
+SO Mendeley Data
+LA English
+DT Dataset
+C1 [Patricio Alonso Hernandez Ludeña]
+RP Patricio Alonso Hernandez Ludeña (corresponding author)
+RI Patricio Alonso Hernandez Ludeña/https://openalex.org/A5116240864
+OI Patricio Alonso Hernandez Ludeña/0000-0002-9363-3696
+TC 0
+NR 0
+PD JUL
+PY 2026
+DI 10.17632/mb4jvxk9dk
+UT https://openalex.org/W7171669074
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Yijun Xiong
+AF Yijun Xiong
+TI Cabbage Yield Detection Based on UAV Remote Sensing and Deep Learning
+SO IEEE DataPort
+LA English
+DT Dataset
+C1 [Yijun Xiong]
+RP Yijun Xiong (corresponding author)
+RI Yijun Xiong/https://openalex.org/A5109168770
+TC 0
+NR 0
+PD NOV
+PY 2026
+DI 10.21227/dj0s-jp22
+UT https://openalex.org/W7239834792
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Tingxuan Wang
+   Qi Wang
+   Huibao Zhu
+   Long Li
+   Z W Hu
+   Zekun Zhang
+   Xuying Chen
+AF Tingxuan Wang
+   Qi Wang
+   Huibao Zhu
+   Long Li
+   Z W Hu
+   Zekun Zhang
+   Xuying Chen
+TI Soil salinity inversion based on UAV hyperspectral data and stacking ensemble learning
+SO Figshare
+LA English
+DT Dataset
+C1 [Tingxuan Wang]
+   [Qi Wang]
+   [Huibao Zhu]
+   [Long Li]
+   [Z W Hu]
+   [Zekun Zhang]
+   [Xuying Chen]
+RI Tingxuan Wang/https://openalex.org/A5139996764; Qi Wang/https://openalex.org/A5139946272; Huibao Zhu/https://openalex.org/A5140022085; Long Li/https://openalex.org/A5139974280; Z W Hu/https://openalex.org/A5104222024; Zekun Zhang/https://openalex.org/A5139955474; Xuying Chen/https://openalex.org/A5139988810
+OI Z W Hu/0009-0005-7788-4873
+TC 1
+NR 0
+PU Figshare (United Kingdom)
+PD JUL
+PY 2026
+DI 10.6084/m9.figshare.32896054
+UT https://openalex.org/W7167203316
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Jan F. Humplík
+AF Jan F. Humplík
+TI Dataset of point-clouds generated by UAV LiDAR scanning of barley field-plot trial.
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Jan F. Humplík] Palacký University Olomouc, CZ
+C3 Palacký University Olomouc, CZ
+RP Jan F. Humplík (corresponding author), Palacký University Olomouc, CZ
+RI Jan F. Humplík/https://openalex.org/A5010509017
+OI Jan F. Humplík/0000-0002-8915-4369
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD NOV
+PY 2023
+DI 10.5281/zenodo.10161951
+UT https://openalex.org/W4393762156
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Gustavo Di Chiacchio Faulin
+   Camila Pires Cremasco
+   Luís Roberto Almeida Gabriel Filho
+AF Gustavo Di Chiacchio Faulin
+   Camila Pires Cremasco
+   Luís Roberto Almeida Gabriel Filho
+TI Expert-defined fuzzy model parameters for UAV-based coffee canopy screening
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Gustavo Di Chiacchio Faulin] São Paulo State Technological College, BR
+   [Gustavo Di Chiacchio Faulin] Universidade Estadual Paulista (Unesp), BR
+   [Camila Pires Cremasco] Universidade Estadual Paulista (Unesp), BR
+   [Luís Roberto Almeida Gabriel Filho] Universidade Estadual Paulista (Unesp), BR
+C3 São Paulo State Technological College, BR; Universidade Estadual Paulista (Unesp), BR
+RI Gustavo Di Chiacchio Faulin/https://openalex.org/A5000523600; Camila Pires Cremasco/https://openalex.org/A5071662482; Luís Roberto Almeida Gabriel Filho/https://openalex.org/A5072473436
+OI Gustavo Di Chiacchio Faulin/0000-0002-8136-322X; Camila Pires Cremasco/0000-0003-2465-1361; Luís Roberto Almeida Gabriel Filho/0000-0002-7269-2806
+FU Conselho Nacional de Desenvolvimento Científico e Tecnológico
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD OCT
+PY 2026
+DI 10.5281/zenodo.23734333
+UT https://openalex.org/W7224080864
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Yunfan Zhang
+   Lei Shu
+   Kailiang Li
+   Ru Han
+   Tingting Hu
+AF Yunfan Zhang
+   Lei Shu
+   Kailiang Li
+   Ru Han
+   Tingting Hu
+TI "A Multi-Season and Multi-Altitude UAV Remote Sensing Dataset for Farmland Ridge Segmentation"
+SO IEEE DataPort
+LA English
+DT Dataset
+C1 [Yunfan Zhang]
+   [Lei Shu]
+   [Kailiang Li]
+   [Ru Han]
+   [Tingting Hu]
+RI Yunfan Zhang/https://openalex.org/A5143741617; Lei Shu/https://openalex.org/A5007723627; Kailiang Li/https://openalex.org/A5121301100; Ru Han/https://openalex.org/A5100751341; Tingting Hu/https://openalex.org/A5143714356
+OI Lei Shu/0000-0002-6700-9347; Ru Han/0009-0000-5128-1314
+TC 0
+NR 0
+PD JUL
+PY 2026
+DI 10.21227/aw9t-8204
+UT https://openalex.org/W7171430813
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Anıl Gürses
+   John Kesler
+   Mihail L. Sichitiu
+AF Anıl Gürses
+   John Kesler
+   Mihail L. Sichitiu
+TI Data and code from: AERPAW Air-to-Air channel sounding measurement with UAVs
+SO DRYAD
+LA English
+DT Dataset
+C1 [Anıl Gürses] North Carolina State University, US
+   [John Kesler] North Carolina State University, US
+   [Mihail L. Sichitiu] North Carolina State University, US
+C3 North Carolina State University, US
+RI Anıl Gürses/https://openalex.org/A5062279409; John Kesler/https://openalex.org/A5082834598; Mihail L. Sichitiu/https://openalex.org/A5048272917
+OI Anıl Gürses/0000-0002-8129-3583; Mihail L. Sichitiu/0000-0002-5186-842X
+FU Division of Computer and Network Systems [1939334]
+TC 0
+NR 0
+PD AUG
+PY 2026
+DI 10.5061/dryad.z34tmpgws
+UT https://openalex.org/W7204484319
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Ernesto Rossini
+   Milena Stefanova
+   Giovanni Giorgio Bazzocchi
+   Giuseppina Pennisi
+   Francesco Orsini
+   Giorgio Prosdocimi Gianquinto
+AF Ernesto Rossini
+   Milena Stefanova
+   Giovanni Giorgio Bazzocchi
+   Giuseppina Pennisi
+   Francesco Orsini
+   Giorgio Prosdocimi Gianquinto
+TI Dataset to: High-resolution insights into floral resources: a Systematic Review on Unmanned Aerial Vehicles use in ecology and agriculture
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Ernesto Rossini] National Agency for New Technologies, Energy and Sustainable Economic Development, IT
+   [Ernesto Rossini] University of Bologna, IT
+   [Milena Stefanova] National Agency for New Technologies, Energy and Sustainable Economic Development, IT
+   [Giovanni Giorgio Bazzocchi] University of Bologna, IT
+   [Giuseppina Pennisi] University of Bologna, IT
+   [Francesco Orsini] University of Bologna, IT
+   [Giorgio Prosdocimi Gianquinto] University of Bologna, IT
+C3 National Agency for New Technologies, Energy and Sustainable Economic Development, IT; University of Bologna, IT
+RI Ernesto Rossini/https://openalex.org/A5058923803; Milena Stefanova/https://openalex.org/A5116110419; Giovanni Giorgio Bazzocchi/https://openalex.org/A5090383106; Giuseppina Pennisi/https://openalex.org/A5003579416; Francesco Orsini/https://openalex.org/A5018056533; Giorgio Prosdocimi Gianquinto/https://openalex.org/A5045699456
+OI Ernesto Rossini/0009-0002-6662-277X; Milena Stefanova/0000-0002-9132-3299; Giovanni Giorgio Bazzocchi/0000-0002-6464-2059; Giuseppina Pennisi/0000-0001-9377-4811; Francesco Orsini/0000-0001-6956-7054; Giorgio Prosdocimi Gianquinto/0000-0002-6548-5526
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD SEP
+PY 2026
+DI 10.5281/zenodo.22765373
+UT https://openalex.org/W7213223238
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Guillem Boquet
+   Marc Codina
+   Borja Martinez Huerta
+   Xavier Vilajosana
+AF Guillem Boquet
+   Marc Codina
+   Borja Martinez Huerta
+   Xavier Vilajosana
+TI Multi-format GNSS observations from a drone and dual reference receivers at an agricultural site in Catalonia, Spain
+SO CORA.Repositori de Dades de Recerca
+LA English
+DT Dataset
+C1 [Guillem Boquet] Universitat Oberta de Catalunya, ES
+   [Marc Codina] Universitat Oberta de Catalunya, ES
+   [Borja Martinez Huerta] Universitat Oberta de Catalunya, ES
+   [Xavier Vilajosana] Universitat Oberta de Catalunya, ES
+C3 Universitat Oberta de Catalunya, ES
+RI Guillem Boquet/https://openalex.org/A5068432401; Marc Codina/https://openalex.org/A5083366718; Borja Martinez Huerta/https://openalex.org/A5067343845; Xavier Vilajosana/https://openalex.org/A5088534371
+OI Guillem Boquet/0000-0002-8683-0421; Marc Codina/0000-0002-8989-587X; Borja Martinez Huerta/0000-0002-8996-9058; Xavier Vilajosana/0000-0002-3020-427X
+TC 0
+NR 0
+PU Consorci de Serveis Universitaris de Catalunya
+PD OCT
+PY 2026
+DI 10.34810/data3817
+UT https://openalex.org/W7236229013
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU OpenTopography
+AF OpenTopography
+TI UAV Lidar Survey of Volcan Mountain Wilderness Preserve, CA 2024
+SO UC San Diego
+LA English
+DT Dataset
+C1 [OpenTopography] San Diego Supercomputer Center, US
+   [OpenTopography] University of California San Diego, US
+   [OpenTopography] OpenTopography, US
+C3 San Diego Supercomputer Center, US; University of California San Diego, US; OpenTopography, US
+RP OpenTopography (corresponding author), San Diego Supercomputer Center, US
+RI OpenTopography/https://openalex.org/A5143409718
+FU National Science Foundation
+TC 0
+NR 0
+PU University of California San Diego
+PD NOV
+PY 2026
+DI 10.5069/g99p2zv5
+UT https://openalex.org/W7154857477
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Almasbek Maulit
+   Aliya Nugumanova
+   Kurmash Apayev
+   Yerzhan Baiburin
+   Maxim Sutula
+AF Almasbek Maulit
+   Aliya Nugumanova
+   Kurmash Apayev
+   Yerzhan Baiburin
+   Maxim Sutula
+TI A multispectral UAV Imagery dataset of wheat, soybean, and barley crops in East Kazakhstan
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Almasbek Maulit] Sarsen Amanzholov East Kazakhstan University, KZ
+   [Aliya Nugumanova] Astana IT University, KZ
+   [Kurmash Apayev] D. Serikbayev East Kazakhstan State Technical University, KZ
+   [Yerzhan Baiburin] Sarsen Amanzholov East Kazakhstan University, KZ
+   [Maxim Sutula]
+C3 Sarsen Amanzholov East Kazakhstan University, KZ; Astana IT University, KZ; D. Serikbayev East Kazakhstan State Technical University, KZ
+RI Almasbek Maulit/https://openalex.org/A5065908478; Aliya Nugumanova/https://openalex.org/A5088617921; Kurmash Apayev/https://openalex.org/A5022867133; Yerzhan Baiburin/https://openalex.org/A5076371700; Maxim Sutula/https://openalex.org/A5082143979
+OI Almasbek Maulit/0000-0002-0519-3222; Aliya Nugumanova/0000-0001-5522-4421; Kurmash Apayev/0000-0001-9292-4785; Yerzhan Baiburin/0000-0002-1583-9912; Maxim Sutula/0000-0002-3153-6356
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD MAR
+PY 2023
+DI 10.5281/zenodo.7748780
+UT https://openalex.org/W4393448384
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Almasbek Maulit
+   Aliya Nugumanova
+   Kurmash Apayev
+   Yerzhan Baiburin
+   Maxim Sutula
+AF Almasbek Maulit
+   Aliya Nugumanova
+   Kurmash Apayev
+   Yerzhan Baiburin
+   Maxim Sutula
+TI A multispectral UAV Imagery dataset of wheat, soybean, and barley crops in East Kazakhstan
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Almasbek Maulit] Sarsen Amanzholov East Kazakhstan University, KZ
+   [Aliya Nugumanova] Astana IT University, KZ
+   [Kurmash Apayev] D. Serikbayev East Kazakhstan State Technical University, KZ
+   [Yerzhan Baiburin] Sarsen Amanzholov East Kazakhstan University, KZ
+   [Maxim Sutula]
+C3 Sarsen Amanzholov East Kazakhstan University, KZ; Astana IT University, KZ; D. Serikbayev East Kazakhstan State Technical University, KZ
+RI Almasbek Maulit/https://openalex.org/A5065908478; Aliya Nugumanova/https://openalex.org/A5088617921; Kurmash Apayev/https://openalex.org/A5022867133; Yerzhan Baiburin/https://openalex.org/A5076371700; Maxim Sutula/https://openalex.org/A5082143979
+OI Almasbek Maulit/0000-0002-0519-3222; Aliya Nugumanova/0000-0001-5522-4421; Kurmash Apayev/0000-0001-9292-4785; Yerzhan Baiburin/0000-0002-1583-9912; Maxim Sutula/0000-0002-3153-6356
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD MAR
+PY 2023
+DI 10.5281/zenodo.7747825
+UT https://openalex.org/W4393694522
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Almasbek Maulit
+   Aliya Nugumanova
+   Kurmash Apayev
+   Yerzhan Baiburin
+   Maxim Sutula
+AF Almasbek Maulit
+   Aliya Nugumanova
+   Kurmash Apayev
+   Yerzhan Baiburin
+   Maxim Sutula
+TI A multispectral UAV Imagery dataset of wheat, soybean, and barley crops in East Kazakhstan
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Almasbek Maulit] Sarsen Amanzholov East Kazakhstan University, KZ
+   [Aliya Nugumanova] Astana IT University, KZ
+   [Kurmash Apayev] D. Serikbayev East Kazakhstan State Technical University, KZ
+   [Yerzhan Baiburin] Sarsen Amanzholov East Kazakhstan University, KZ
+   [Maxim Sutula]
+C3 Sarsen Amanzholov East Kazakhstan University, KZ; Astana IT University, KZ; D. Serikbayev East Kazakhstan State Technical University, KZ
+RI Almasbek Maulit/https://openalex.org/A5065908478; Aliya Nugumanova/https://openalex.org/A5088617921; Kurmash Apayev/https://openalex.org/A5022867133; Yerzhan Baiburin/https://openalex.org/A5076371700; Maxim Sutula/https://openalex.org/A5082143979
+OI Almasbek Maulit/0000-0002-0519-3222; Aliya Nugumanova/0000-0001-5522-4421; Kurmash Apayev/0000-0001-9292-4785; Yerzhan Baiburin/0000-0002-1583-9912; Maxim Sutula/0000-0002-3153-6356
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD MAR
+PY 2023
+DI 10.5281/zenodo.7748273
+UT https://openalex.org/W4393751026
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Anton Wasson
+   Ryan Lagerstrom
+   T Collins
+   Gilbert Permalloo
+   Stuart D. Brown
+   Aswin Singaram Natarajan
+AF Anton Wasson
+   Ryan Lagerstrom
+   T Collins
+   Gilbert Permalloo
+   Stuart D. Brown
+   Aswin Singaram Natarajan
+TI Full-Spectrum UAV Hyperspectral Imagery (VNIR-SWIR) for Wheat Phenotyping and Breeding Research
+SO CSIRO
+LA English
+DT Dataset
+C1 [Anton Wasson] Commonwealth Scientific and Industrial Research Organisation, AU
+   [Ryan Lagerstrom] Commonwealth Scientific and Industrial Research Organisation, AU
+   [T Collins] Commonwealth Scientific and Industrial Research Organisation, AU
+   [Gilbert Permalloo] Commonwealth Scientific and Industrial Research Organisation, AU
+   [Stuart D. Brown] Commonwealth Scientific and Industrial Research Organisation, AU
+   [Aswin Singaram Natarajan] Commonwealth Scientific and Industrial Research Organisation, AU
+C3 Commonwealth Scientific and Industrial Research Organisation, AU
+RI Anton Wasson/https://openalex.org/A5064839034; Ryan Lagerstrom/https://openalex.org/A5047769683; T Collins/https://openalex.org/A5080013729; Gilbert Permalloo/https://openalex.org/A5009490131; Stuart D. Brown/https://openalex.org/A5080780533; Aswin Singaram Natarajan/https://openalex.org/A5151652293
+OI Anton Wasson/0000-0002-8044-7210; Stuart D. Brown/0000-0002-0245-5864; Aswin Singaram Natarajan/0000-0001-8981-6353
+FU Grains Research and Development Corporation [CSP2401-016RTX]
+TC 0
+NR 0
+PD SEP
+PY 2026
+DI 10.25919/8n7b-2y22
+UT https://openalex.org/W7212569879
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Alpamis Kutlimuratov
+   Amirxon Maxsudxonov
+AF Alpamis Kutlimuratov
+   Amirxon Maxsudxonov
+TI A REVIEW OF MACHINE LEARNING AND DEEP LEARNING APPLICATIONS IN HEALTHCARE, AFFECTIVE COMPUTING, SAFETY MONITORING, AGRICULTURE, CYBERSECURITY AND EDUCATION
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Alpamis Kutlimuratov] Kimyo International University in Tashkent, UZ
+   [Amirxon Maxsudxonov] Kimyo International University in Tashkent, UZ
+C3 Kimyo International University in Tashkent, UZ
+RI Alpamis Kutlimuratov/https://openalex.org/A5076361725; Amirxon Maxsudxonov/https://openalex.org/A5163126801
+OI Alpamis Kutlimuratov/0000-0001-7472-4165
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD NOV
+PY 2026
+DI 10.5281/zenodo.24393464
+UT https://openalex.org/W7237016465
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Jerry C. Mock
+   Armando Pineda
+   J. B. Johnson
+AF Jerry C. Mock
+   Armando Pineda
+   J. B. Johnson
+TI Dataset for UAV-Based Quantification of Lahar Channel Dynamics at Volcán de Fuego, Guatemala
+SO ScholarWorks (Boise State University)
+LA English
+DT Dataset
+C1 [Jerry C. Mock] Boise State University, US
+   [Armando Pineda]
+   [J. B. Johnson] Boise State University, US
+C3 Boise State University, US
+RI Jerry C. Mock/https://openalex.org/A5027533338; Armando Pineda/https://openalex.org/A5035572248; J. B. Johnson/https://openalex.org/A5020164628
+OI Jerry C. Mock/0009-0004-1674-6285; Armando Pineda/0000-0002-2482-8174; J. B. Johnson/0000-0003-4179-8592
+TC 0
+NR 0
+PU Boise State University
+PD JUN
+PY 2023
+DI 10.18122/geo_data.7.boisestate
+UT https://openalex.org/W4379380432
+OA closed
+DA 2026-11-27
+ER
+
+PT D
+AU Yogita Hambir
+   Prasad Sandhya
+AF Yogita Hambir
+   Prasad Sandhya
+TI Dataset of UAV-Based NDVI and NDRE Image Patches for Brown Rust Disease Detection in Sugarcane Crops
+SO Harvard Dataverse
+LA English
+DT Dataset
+C1 [Yogita Hambir] Vellore Institute of Technology University, IN
+   [Prasad Sandhya] Vellore Institute of Technology University, IN
+C3 Vellore Institute of Technology University, IN
+RI Yogita Hambir/https://openalex.org/A5053990086; Prasad Sandhya/https://openalex.org/A5152308042
+OI Yogita Hambir/0000-0002-1459-2815
+TC 0
+NR 0
+PU Harvard University
+PD MAY
+PY 2026
+DI 10.7910/dvn/h8sldp
+UT https://openalex.org/W7213743581
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU yan li hui
+   Shu Guoxiang
+   Lan Yan
+   Youyan Huang
+   Li Qianxia
+   Huang Denghong
+AF yan li hui
+   Shu Guoxiang
+   Lan Yan
+   Youyan Huang
+   Li Qianxia
+   Huang Denghong
+TI Low-altitude UAV Visible Light Remote Sensing Tobacco Identification Dataset for Complex Scenarios
+SO ScienceDB
+LA Chinese
+DT Dataset
+C1 [yan li hui] Guizhou Normal University, CN
+   [Shu Guoxiang] Guizhou Normal University, CN
+   [Lan Yan] Guizhou Normal University, CN
+   [Youyan Huang] Guizhou Normal University, CN
+   [Li Qianxia] Guizhou Normal University, CN
+   [Huang Denghong] Guizhou Normal University, CN
+C3 Guizhou Normal University, CN
+RI yan li hui/https://openalex.org/A5122215979; Shu Guoxiang/https://openalex.org/A5113822719; Lan Yan/https://openalex.org/A5122020711; Youyan Huang/https://openalex.org/A5070487841; Li Qianxia/https://openalex.org/A5122019960; Huang Denghong/https://openalex.org/A5122167837
+TC 0
+NR 0
+PD JAN
+PY 2026
+DI 10.57760/sciencedb.30993
+UT https://openalex.org/W7119085217
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Saklain Niam
+   Md. Mashrup Hasan
+   Md. Mahin Uddin
+AF Saklain Niam
+   Md. Mashrup Hasan
+   Md. Mahin Uddin
+TI Data for "Vision-only re-identification of individual plants across repeated UAV passes"
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Saklain Niam] Shahjalal University of Science and Technology, BD
+   [Md. Mashrup Hasan]
+   [Md. Mahin Uddin] Shahjalal University of Science and Technology, BD
+C3 Shahjalal University of Science and Technology, BD
+RI Saklain Niam/https://openalex.org/A5119075066; Md. Mashrup Hasan/https://openalex.org/A5140257526; Md. Mahin Uddin/https://openalex.org/A5027182131
+OI Saklain Niam/0009-0006-5061-5398; Md. Mahin Uddin/0000-0001-9309-1711
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD OCT
+PY 2026
+DI 10.5281/zenodo.23582579
+UT https://openalex.org/W7223473446
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Noor Sajjad
+   Andreas Kamilaris
+   Andreas Pallides
+   Chirag Padubidri
+AF Noor Sajjad
+   Andreas Kamilaris
+   Andreas Pallides
+   Chirag Padubidri
+TI UAV-LiDAR Dataset for High-Throughput Phenotyping of Triticale and Durum Wheat Genotypes in Athalassa, Cyprus (2024-2025)
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Noor Sajjad] National University of Sciences and Technology, PK
+   [Andreas Kamilaris] CYENS Centre of Excellence, CY
+   [Andreas Kamilaris] University of Twente, NL
+   [Andreas Pallides]
+   [Chirag Padubidri] CYENS Centre of Excellence, CY
+C3 National University of Sciences and Technology, PK; CYENS Centre of Excellence, CY; University of Twente, NL
+RI Noor Sajjad/https://openalex.org/A5116800587; Andreas Kamilaris/https://openalex.org/A5007428307; Andreas Pallides/https://openalex.org/A5022797515; Chirag Padubidri/https://openalex.org/A5067243647
+OI Noor Sajjad/0009-0003-0790-4416; Andreas Kamilaris/0000-0002-8484-4256; Andreas Pallides/0000-0002-0732-9250; Chirag Padubidri/0000-0002-6175-7723
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD OCT
+PY 2026
+DI 10.5281/zenodo.23529042
+UT https://openalex.org/W7224574080
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Debarun Chakraborty
+   Bhabesh Deka
+   Badichapta Deka Baro
+AF Debarun Chakraborty
+   Bhabesh Deka
+   Badichapta Deka Baro
+TI UAVLitchi: A UAV-based Benchmark Dataset for Litchi Fruit Segmentation and Detection in Natural Environment
+SO Mendeley Data
+LA English
+DT Dataset
+C1 [Debarun Chakraborty] Tezpur University, IN
+   [Bhabesh Deka] Tezpur University, IN
+   [Badichapta Deka Baro] Tezpur University, IN
+C3 Tezpur University, IN
+RI Debarun Chakraborty/https://openalex.org/A5102977866; Bhabesh Deka/https://openalex.org/A5006524000; Badichapta Deka Baro/https://openalex.org/A5052734845
+OI Debarun Chakraborty/0000-0003-0271-1730; Bhabesh Deka/0000-0002-9679-6159; Badichapta Deka Baro/0009-0001-8809-4026
+TC 0
+NR 0
+PD FEB
+PY 2026
+DI 10.17632/vb7xgdfjrv
+UT https://openalex.org/W7130340950
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Jordan Bates
+   Carsten Montzka
+   Harry Vereecken
+   François Jonard
+AF Jordan Bates
+   Carsten Montzka
+   Harry Vereecken
+   François Jonard
+TI UAV Multi-Sensor Derived Inputs for TSEB-PT Evapotranspiration Estimation in Sugar Beet, Potato, and Winter Wheat
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Jordan Bates] University of Liège, BE
+   [Jordan Bates] Forschungszentrum Jülich, DE
+   [Carsten Montzka] Forschungszentrum Jülich, DE
+   [Harry Vereecken] Forschungszentrum Jülich, DE
+   [François Jonard] University of Liège, BE
+C3 University of Liège, BE; Forschungszentrum Jülich, DE
+RI Jordan Bates/https://openalex.org/A5056035984; Carsten Montzka/https://openalex.org/A5079849669; Harry Vereecken/https://openalex.org/A5028331853; François Jonard/https://openalex.org/A5061306473
+OI Jordan Bates/0000-0002-1349-7189; Carsten Montzka/0000-0003-0812-8570; Harry Vereecken/0000-0002-8051-8517; François Jonard/0000-0002-8562-2073
+TC 1
+NR 0
+PU European Organization for Nuclear Research
+PD SEP
+PY 2026
+DI 10.5281/zenodo.23056699
+UT https://openalex.org/W7214900717
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Aswin Singaram Natarajan
+   Anton Wasson
+   Gilbert Permalloo
+   Stuart D. Brown
+   T Collins
+   Blake Omeagher
+AF Aswin Singaram Natarajan
+   Anton Wasson
+   Gilbert Permalloo
+   Stuart D. Brown
+   T Collins
+   Blake Omeagher
+TI UAV Shortwave Infrared (SWIR) Hyperspectral Imagery from Wheat Field Experiments using Specim AFX-17
+SO CSIRO
+LA English
+DT Dataset
+C1 [Aswin Singaram Natarajan] Commonwealth Scientific and Industrial Research Organisation, AU
+   [Anton Wasson] Commonwealth Scientific and Industrial Research Organisation, AU
+   [Gilbert Permalloo] Commonwealth Scientific and Industrial Research Organisation, AU
+   [Stuart D. Brown] Commonwealth Scientific and Industrial Research Organisation, AU
+   [T Collins] Commonwealth Scientific and Industrial Research Organisation, AU
+   [Blake Omeagher]
+C3 Commonwealth Scientific and Industrial Research Organisation, AU
+RI Aswin Singaram Natarajan/https://openalex.org/A5151652293; Anton Wasson/https://openalex.org/A5064839034; Gilbert Permalloo/https://openalex.org/A5009490131; Stuart D. Brown/https://openalex.org/A5080780533; T Collins/https://openalex.org/A5080013729; Blake Omeagher/https://openalex.org/A5151633083
+OI Aswin Singaram Natarajan/0000-0001-8981-6353; Anton Wasson/0000-0002-8044-7210; Stuart D. Brown/0000-0002-0245-5864
+FU Grains Research and Development Corporation [CSP2401-016RTX]
+TC 0
+NR 0
+PD SEP
+PY 2026
+DI 10.25919/tf9r-p290
+UT https://openalex.org/W7212467309
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU xiao xiang
+   Yue Huanyin
+   Li Xuelin
+AF xiao xiang
+   Yue Huanyin
+   Li Xuelin
+TI A UAV Multimodal Remote Sensing Dataset for Wind Damage and Flooding Induced by Typhoon Hagas in Coastal Guangdong, China (2025)
+SO ScienceDB
+LA Chinese
+DT Dataset
+C1 [xiao xiang] Institute of Geographic Sciences and Natural Resources Research, CN
+   [Yue Huanyin] Institute of Geographic Sciences and Natural Resources Research, CN
+   [Yue Huanyin] University of Chinese Academy of Sciences, CN
+   [Li Xuelin] Institute of Geographic Sciences and Natural Resources Research, CN
+   [Li Xuelin] University of Chinese Academy of Sciences, CN
+C3 Institute of Geographic Sciences and Natural Resources Research, CN; University of Chinese Academy of Sciences, CN
+RI xiao xiang/https://openalex.org/A5132807781; Yue Huanyin/https://openalex.org/A5132746431; Li Xuelin/https://openalex.org/A5132827270
+TC 0
+NR 0
+PD MAR
+PY 2026
+DI 10.57760/sciencedb.j00001.01642
+UT https://openalex.org/W7148373773
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Jasper Feyen
+   Verginia Wortel
+   Raisa Abendanon
+   Miro Cnops
+   Noraisah Tjong-A-Hung
+   Sarah Crabbe
+   Louis Verschuren
+   Jan Van den Bulcke
+   Ansmarie Ngu Chin Tjon
+   Consuela Paloeng
+   Valentien Moe Soe Let
+   Kim Calders
+   Frieke Vancoillie
+AF Jasper Feyen
+   Verginia Wortel
+   Raisa Abendanon
+   Miro Cnops
+   Noraisah Tjong-A-Hung
+   Sarah Crabbe
+   Louis Verschuren
+   Jan Van den Bulcke
+   Ansmarie Ngu Chin Tjon
+   Consuela Paloeng
+   Valentien Moe Soe Let
+   Kim Calders
+   Frieke Vancoillie
+TI UAV-LiDAR, field inventory and coastline data for two Avicennia germinans chronosequences, Coronie, Suriname (2024)
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Jasper Feyen] Ghent University, BE
+   [Verginia Wortel]
+   [Raisa Abendanon]
+   [Miro Cnops] Ghent University, BE
+   [Noraisah Tjong-A-Hung]
+   [Sarah Crabbe]
+   [Louis Verschuren] Ghent University, BE
+   [Louis Verschuren] Ghent University Centre for X-ray Tomography, BE
+   [Jan Van den Bulcke] Ghent University, BE
+   [Jan Van den Bulcke] Ghent University Centre for X-ray Tomography, BE
+   [Ansmarie Ngu Chin Tjon]
+   [Consuela Paloeng]
+   [Valentien Moe Soe Let]
+   [Kim Calders] Ghent University, BE
+   [Frieke Vancoillie] Ghent University, BE
+C3 Ghent University, BE; Ghent University Centre for X-ray Tomography, BE
+RI Jasper Feyen/https://openalex.org/A5045542360; Verginia Wortel/https://openalex.org/A5036861071; Raisa Abendanon/https://openalex.org/A5129228518; Miro Cnops/https://openalex.org/A5152078876; Noraisah Tjong-A-Hung/https://openalex.org/A5011991040; Sarah Crabbe/https://openalex.org/A5032394328; Louis Verschuren/https://openalex.org/A5091915586; Jan Van den Bulcke/https://openalex.org/A5075398839; Ansmarie Ngu Chin Tjon/https://openalex.org/A5158934518; Consuela Paloeng/https://openalex.org/A5025124810; Valentien Moe Soe Let/https://openalex.org/A5158872513; Kim Calders/https://openalex.org/A5004682321; Frieke Vancoillie/https://openalex.org/A5016096053
+OI Jasper Feyen/0009-0007-9302-2784; Verginia Wortel/0000-0002-1224-8025; Raisa Abendanon/0009-0005-8091-2177; Miro Cnops/0009-0009-7560-5972; Noraisah Tjong-A-Hung/0000-0002-3704-8513; Louis Verschuren/0000-0002-3102-4588; Jan Van den Bulcke/0000-0003-2939-5408; Consuela Paloeng/0009-0000-7517-4812; Kim Calders/0000-0002-4562-2538; Frieke Vancoillie/0000-0002-3161-2144
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD OCT
+PY 2026
+DI 10.5281/zenodo.23343842
+UT https://openalex.org/W7222737666
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Rafi Md. Abid Hasan
+   Md. Tayyab Ameri Turan
+   Pankaj Bhowmik
+AF Rafi Md. Abid Hasan
+   Md. Tayyab Ameri Turan
+   Pankaj Bhowmik
+TI ACHDC: Agricultural Crop Health Dataset Collection
+SO Mendeley Data
+LA English
+DT Dataset
+C1 [Rafi Md. Abid Hasan] Hajee Mohammad Danesh Science and Technology University, BD
+   [Md. Tayyab Ameri Turan] Hajee Mohammad Danesh Science and Technology University, BD
+   [Pankaj Bhowmik] Hajee Mohammad Danesh Science and Technology University, BD
+C3 Hajee Mohammad Danesh Science and Technology University, BD
+RI Rafi Md. Abid Hasan/https://openalex.org/A5134124923; Md. Tayyab Ameri Turan/https://openalex.org/A5130727522; Pankaj Bhowmik/https://openalex.org/A5102897764
+OI Rafi Md. Abid Hasan/0000-0002-3628-4207; Pankaj Bhowmik/0000-0003-2296-5308
+TC 0
+NR 0
+PD OCT
+PY 2026
+DI 10.17632/7bxd5bc6f4
+UT https://openalex.org/W7221028740
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Marcelo Rodrigues Barbosa Júnior
+   Romário Porto
+   Regimar dos Santos
+   Lenny Wells
+   Luan Oliveira
+AF Marcelo Rodrigues Barbosa Júnior
+   Romário Porto
+   Regimar dos Santos
+   Lenny Wells
+   Luan Oliveira
+TI [Supplementary Material] Detecting Hurricane-Induced Fallen Pecan Trees: A Novel UAV-Based Deep Learning Approach
+SO Mendeley Data
+LA English
+DT Dataset
+C1 [Marcelo Rodrigues Barbosa Júnior] University of Missouri, US
+   [Romário Porto] University of Georgia, US
+   [Regimar dos Santos] University of Georgia, US
+   [Lenny Wells] University of Georgia, US
+   [Luan Oliveira] University of Georgia, US
+C3 University of Missouri, US; University of Georgia, US
+RI Marcelo Rodrigues Barbosa Júnior/https://openalex.org/A5070453359; Romário Porto/https://openalex.org/A5146956727; Regimar dos Santos/https://openalex.org/A5147054051; Lenny Wells/https://openalex.org/A5103008072; Luan Oliveira/https://openalex.org/A5147060438
+OI Marcelo Rodrigues Barbosa Júnior/0000-0002-7207-2156; Lenny Wells/0000-0002-3428-6129
+TC 0
+NR 0
+PD AUG
+PY 2026
+DI 10.17632/vxz8hnrcfm
+UT https://openalex.org/W7202249763
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Ardan Wiratmoko
+   Andri Prima Nugroho
+   Gigieh Henggar Jaya
+AF Ardan Wiratmoko
+   Andri Prima Nugroho
+   Gigieh Henggar Jaya
+TI Dataset for phenology-aware UAV multispectral inversion of rice physiological traits using group-aware machine learning
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Ardan Wiratmoko]
+   [Andri Prima Nugroho] Universitas Gadjah Mada, ID
+   [Gigieh Henggar Jaya] Jenderal Soedirman University, ID
+C3 Universitas Gadjah Mada, ID; Jenderal Soedirman University, ID
+RI Ardan Wiratmoko/https://openalex.org/A5072880737; Andri Prima Nugroho/https://openalex.org/A5018651186; Gigieh Henggar Jaya/https://openalex.org/A5032788277
+OI Ardan Wiratmoko/0000-0001-9224-5555; Andri Prima Nugroho/0000-0002-5375-2439
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD JUL
+PY 2026
+DI 10.5281/zenodo.21316097
+UT https://openalex.org/W7168096182
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Л. В. Розборська
+AF Л. В. Розборська
+TI EFFICIENCY OF PLANT PROTECTION PRODUCT APPLICATION USING DIFFERENT DIGITALIZATION METHODS IN WINTER WHEAT CROPS
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Л. В. Розборська]
+RP Л. В. Розборська (corresponding author)
+RI Л. В. Розборська/https://openalex.org/A5062899847
+OI Л. В. Розборська/0000-0003-2002-6438
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD APR
+PY 2026
+DI 10.5281/zenodo.19676311
+UT https://openalex.org/W7155044476
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Ahad Hassan
+   Farzana Jabeen
+   Muhammad Mashhood
+   Nausherwan Nawab
+   Paul M. Clarke
+   Mehvish Rashid
+AF Ahad Hassan
+   Farzana Jabeen
+   Muhammad Mashhood
+   Nausherwan Nawab
+   Paul M. Clarke
+   Mehvish Rashid
+TI AgriDrone Dataset: Multispectral UAV Imagery for Crop Bed Localization and Growth Stage Estimation in Underrepresented Vegetable Crops
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Ahad Hassan]
+   [Farzana Jabeen] National University of Sciences and Technology, PK
+   [Muhammad Mashhood]
+   [Nausherwan Nawab]
+   [Paul M. Clarke] Dublin City University, IE
+   [Mehvish Rashid] National University of Sciences and Technology, PK
+C3 National University of Sciences and Technology, PK; Dublin City University, IE
+RI Ahad Hassan/https://openalex.org/A5148749352; Farzana Jabeen/https://openalex.org/A5025263468; Muhammad Mashhood/https://openalex.org/A5148748543; Nausherwan Nawab/https://openalex.org/A5156350770; Paul M. Clarke/https://openalex.org/A5012878439; Mehvish Rashid/https://openalex.org/A5051643621
+OI Farzana Jabeen/0000-0001-5171-8045; Paul M. Clarke/0000-0002-4487-627X; Mehvish Rashid/0000-0002-9824-5035
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD AUG
+PY 2026
+DI 10.5281/zenodo.21966371
+UT https://openalex.org/W7204686506
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Charles Marty
+   Siddhartha Khare
+   Sergio Rossi
+   Jean Lafond
+   Maxime Boivin
+   Maxime C. Paré
+AF Charles Marty
+   Siddhartha Khare
+   Sergio Rossi
+   Jean Lafond
+   Maxime Boivin
+   Maxime C. Paré
+TI Detection of Management Practices and Cropping Phases in Wild Lowbush Blueberry Fields Using Multispectral UAV Data
+SO Figshare
+LA English
+DT Dataset
+C1 [Charles Marty]
+   [Siddhartha Khare]
+   [Sergio Rossi]
+   [Jean Lafond]
+   [Maxime Boivin]
+   [Maxime C. Paré]
+RI Charles Marty/https://openalex.org/A5024457425; Siddhartha Khare/https://openalex.org/A5034984739; Sergio Rossi/https://openalex.org/A5039323709; Jean Lafond/https://openalex.org/A5023661151; Maxime Boivin/https://openalex.org/A5079680664; Maxime C. Paré/https://openalex.org/A5077620503
+OI Charles Marty/0000-0001-7604-7321; Siddhartha Khare/0000-0002-6996-4583; Sergio Rossi/0000-0002-9919-0494; Jean Lafond/0000-0002-6110-3228; Maxime Boivin/0000-0002-1248-8061; Maxime C. Paré/0000-0003-3482-4828
+TC 0
+NR 0
+PU Figshare (United Kingdom)
+PD JAN
+PY 2022
+DI 10.6084/m9.figshare.19772089
+UT https://openalex.org/W4394434859
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Sergio Vélez
+   Mar Ariza-Sentís
+   Joao Ricardo Pereira Valente
+AF Sergio Vélez
+   Mar Ariza-Sentís
+   Joao Ricardo Pereira Valente
+TI High resolution LiDAR dataset acquired using UAV (unmanned aerial vehicle) over two vineyards and two years located in 'Tomiño', Pontevedra, Spain.
+SO Wageningen University & Research Publications
+LA English
+DT Dataset
+C1 [Sergio Vélez] Wageningen University & Research, NL
+   [Mar Ariza-Sentís] Wageningen University & Research, NL
+   [Joao Ricardo Pereira Valente] Wageningen University & Research, NL
+C3 Wageningen University & Research, NL
+RI Sergio Vélez/https://openalex.org/A5032512018; Mar Ariza-Sentís/https://openalex.org/A5072872361; Joao Ricardo Pereira Valente/https://openalex.org/A5086176346
+OI Sergio Vélez/0000-0001-9004-2877; Mar Ariza-Sentís/0000-0002-5483-4532; Joao Ricardo Pereira Valente/0000-0002-6241-4124
+FU European Commission [101017111]; Horizon 2020 Framework Programme
+TC 3
+NR 0
+PU Wageningen University & Research
+PD JUL
+PY 2023
+DI 10.5281/zenodo.8113104
+UT https://openalex.org/W4393476220
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Shaikh Yassir Yousouf Jewan
+   Vinay Pagay
+   Lawal Billa
+   Stephen Donald Tyerman
+   Gautam, Deepak
+   Debbie L. Sparkes
+   Hui Hui Chai
+   Ajit Kumar Singh
+AF Shaikh Yassir Yousouf Jewan
+   Vinay Pagay
+   Lawal Billa
+   Stephen Donald Tyerman
+   Gautam, Deepak
+   Debbie L. Sparkes
+   Hui Hui Chai
+   Ajit Kumar Singh
+TI The feasibility of using a low-cost near-infrared, sensitive, consumer-grade digital camera mounted on a commercial UAV to assess Bambara groundnut yield
+SO Figshare
+LA English
+DT Dataset
+C1 [Shaikh Yassir Yousouf Jewan]
+   [Vinay Pagay]
+   [Lawal Billa]
+   [Stephen Donald Tyerman]
+   [Gautam, Deepak]
+   [Debbie L. Sparkes]
+   [Hui Hui Chai]
+   [Ajit Kumar Singh]
+RI Shaikh Yassir Yousouf Jewan/https://openalex.org/A5062715539; Vinay Pagay/https://openalex.org/A5073717399; Lawal Billa/https://openalex.org/A5084913027; Stephen Donald Tyerman/https://openalex.org/A5056351366; Debbie L. Sparkes/https://openalex.org/A5018700825; Hui Hui Chai/https://openalex.org/A5005440423; Ajit Kumar Singh/https://openalex.org/A5101914077
+OI Shaikh Yassir Yousouf Jewan/0000-0003-2367-6196; Vinay Pagay/0000-0003-1916-2758; Lawal Billa/0000-0002-6894-5145; Stephen Donald Tyerman/0000-0003-2455-1643; Debbie L. Sparkes/0000-0001-5946-2849; Hui Hui Chai/0000-0002-7414-4766; Ajit Kumar Singh/0000-0002-4159-4795
+TC 0
+NR 0
+PU Figshare (United Kingdom)
+PD JAN
+PY 2021
+DI 10.6084/m9.figshare.16917759
+UT https://openalex.org/W4394261474
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Alper Adak
+AF Alper Adak
+TI Data and code from: High-throughput UAV phenomics and machine learning enables accurate early single-plant biomass prediction in lettuce
+SO DRYAD
+LA English
+DT Dataset
+C1 [Alper Adak] Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğü, TR
+C3 Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğü, TR
+RP Alper Adak (corresponding author), Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğü, TR
+RI Alper Adak/https://openalex.org/A5059324567
+OI Alper Adak/0000-0002-2737-8041
+FU Tarimsal Araştirmalar ve Politikalar Genel Müdürlüğü, Türkiye Cumhuriyeti Tarim Ve Orman Bakanliği
+TC 0
+NR 0
+PD JUL
+PY 2026
+DI 10.5061/dryad.73n5tb3d4
+UT https://openalex.org/W7197045842
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Ryszard Trojnacki
+   J. Szymanski
+   Marcin Spiralski
+   Katarzyna Kubiak
+   Sylwia Marciniak
+   Jan Kotlarz
+   Aleksandra Duchnowska
+   Jakub Cisek
+   Konrad Mruk
+   Dawid Kulpa
+AF Ryszard Trojnacki
+   J. Szymanski
+   Marcin Spiralski
+   Katarzyna Kubiak
+   Sylwia Marciniak
+   Jan Kotlarz
+   Aleksandra Duchnowska
+   Jakub Cisek
+   Konrad Mruk
+   Dawid Kulpa
+TI Integrated Database of Environmental Data and Pollution in Agriculture (IDEPA)
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA Polish
+DT Dataset
+C1 [Ryszard Trojnacki] Łukasiewicz Research Network - Institute of Aviation, PL
+   [J. Szymanski] Łukasiewicz Research Network - Institute of Aviation, PL
+   [Marcin Spiralski] Łukasiewicz Research Network - Institute of Aviation, PL
+   [Katarzyna Kubiak] Łukasiewicz Research Network - Institute of Aviation, PL
+   [Sylwia Marciniak] Łukasiewicz Research Network - Institute of Aviation, PL
+   [Jan Kotlarz] Łukasiewicz Research Network - Institute of Aviation, PL
+   [Aleksandra Duchnowska] Łukasiewicz Research Network - Institute of Aviation, PL
+   [Jakub Cisek] Łukasiewicz Research Network - Institute of Aviation, PL
+   [Konrad Mruk] Łukasiewicz Research Network - Institute of Aviation, PL
+   [Dawid Kulpa] Łukasiewicz Research Network - Institute of Aviation, PL
+C3 Łukasiewicz Research Network - Institute of Aviation, PL
+RI Ryszard Trojnacki/https://openalex.org/A5119158897; J. Szymanski/https://openalex.org/A5103182577; Marcin Spiralski/https://openalex.org/A5021040446; Katarzyna Kubiak/https://openalex.org/A5101533859; Sylwia Marciniak/https://openalex.org/A5119158896; Jan Kotlarz/https://openalex.org/A5058874696; Aleksandra Duchnowska/https://openalex.org/A5149571557; Jakub Cisek/https://openalex.org/A5164510358; Konrad Mruk/https://openalex.org/A5164497632; Dawid Kulpa/https://openalex.org/A5093423883
+OI J. Szymanski/0000-0002-2899-740X; Marcin Spiralski/0000-0003-2147-2026; Katarzyna Kubiak/0000-0002-4156-3139; Jan Kotlarz/0000-0002-8212-7798
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD NOV
+PY 2026
+DI 10.5281/zenodo.24338583
+UT https://openalex.org/W7240041908
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Juan Quirós-Vargas
+AF Juan Quirós-Vargas
+TI UAV-derived time-series canopy traits, crop surface models, orthomosaics, and geospatial vector data for assessing repeatability and heritability in a cassava breeding population in Nigeria
+SO Jülich DATA
+LA English
+DT Dataset
+C1 [Juan Quirós-Vargas]
+RP Juan Quirós-Vargas (corresponding author)
+RI Juan Quirós-Vargas/https://openalex.org/A5033138073
+OI Juan Quirós-Vargas/0000-0001-6524-7504
+TC 0
+NR 0
+PU Forschungszentrum Jülich
+PD AUG
+PY 2026
+DI 10.26165/juelich-data/uubqjy
+UT https://openalex.org/W7203616189
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Jungwoo Lee
+   Ji-Hyun Park
+   Jeong-Hwan Hwang
+   Kyoungseok Noh
+   Jong-Chan Kim
+   Young-Ho Choi
+AF Jungwoo Lee
+   Ji-Hyun Park
+   Jeong-Hwan Hwang
+   Kyoungseok Noh
+   Jong-Chan Kim
+   Young-Ho Choi
+TI Split definitions and corpus statistics for "Bench Characterization of Lightweight Object-Detection Models on an Edge-AI Camera for UAV-Oriented Source-Water Monitoring
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Jungwoo Lee]
+   [Ji-Hyun Park]
+   [Jeong-Hwan Hwang]
+   [Kyoungseok Noh]
+   [Jong-Chan Kim]
+   [Young-Ho Choi]
+RI Jungwoo Lee/https://openalex.org/A5147208073; Ji-Hyun Park/https://openalex.org/A5147225428; Jeong-Hwan Hwang/https://openalex.org/A5147150144; Kyoungseok Noh/https://openalex.org/A5014344201; Jong-Chan Kim/https://openalex.org/A5147192045; Young-Ho Choi/https://openalex.org/A5147172584
+OI Kyoungseok Noh/0000-0002-0457-2992
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD AUG
+PY 2026
+DI 10.5281/zenodo.21911128
+UT https://openalex.org/W7203443508
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Sergio Vélez
+   Rubén Vacas
+   Hugo Martín
+   David Ruano-Rosa
+   Sara Álvarez
+AF Sergio Vélez
+   Rubén Vacas
+   Hugo Martín
+   David Ruano-Rosa
+   Sara Álvarez
+TI UAV RGB imagery dataset captured at nadir and oblique angles over pistachio trees in Spain, including images, GCPs, 3D point cloud and orthomosaic.
+SO Wageningen University & Research Publications
+LA English
+DT Dataset
+C1 [Sergio Vélez] Wageningen University & Research, NL
+   [Rubén Vacas] Instituto Tecnológico Agrario de Castilla y León, ES
+   [Hugo Martín] Instituto Tecnológico Agrario de Castilla y León, ES
+   [David Ruano-Rosa] Instituto Tecnológico Agrario de Castilla y León, ES
+   [Sara Álvarez] Instituto Tecnológico Agrario de Castilla y León, ES
+C3 Wageningen University & Research, NL; Instituto Tecnológico Agrario de Castilla y León, ES
+RI Sergio Vélez/https://openalex.org/A5032512018; Rubén Vacas/https://openalex.org/A5086629938; Hugo Martín/https://openalex.org/A5114149446; David Ruano-Rosa/https://openalex.org/A5041040181; Sara Álvarez/https://openalex.org/A5030554766
+OI Sergio Vélez/0000-0001-9004-2877; Rubén Vacas/0000-0002-2732-7500; David Ruano-Rosa/0000-0002-3539-0163; Sara Álvarez/0000-0003-1094-8412
+TC 1
+NR 0
+PU Wageningen University & Research
+PD OCT
+PY 2022
+DI 10.5281/zenodo.7239196
+UT https://openalex.org/W4393836232
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Prasanna H. Gowda
+   Jerry E. Moorhead
+   David Bräuer
+AF Prasanna H. Gowda
+   Jerry E. Moorhead
+   David Bräuer
+TI Bushland Evapotranspiration and Agricultural Remote Sensing System (BEARS) software
+SO Figshare
+LA English
+DT Dataset
+C1 [Prasanna H. Gowda]
+   [Jerry E. Moorhead]
+   [David Bräuer]
+RI Prasanna H. Gowda/https://openalex.org/A5075916784; Jerry E. Moorhead/https://openalex.org/A5087941752; David Bräuer/https://openalex.org/A5045236140
+OI Prasanna H. Gowda/0000-0001-8782-6953; Jerry E. Moorhead/0000-0003-1196-1942; David Bräuer/0000-0002-0523-432X
+TC 1
+NR 0
+PU Figshare (United Kingdom)
+PD DEC
+PY 2017
+VL 2017
+UT https://openalex.org/W2997047439
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Ardan Wiratmoko
+   Andri Prima Nugroho
+AF Ardan Wiratmoko
+   Andri Prima Nugroho
+TI Dataset for VOI-Rice: Value-of-information-driven ground-sensor orchestration for UAV-based rice physiological monitoring under cross-flight domain shift
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Ardan Wiratmoko]
+   [Andri Prima Nugroho] Universitas Gadjah Mada, ID
+C3 Universitas Gadjah Mada, ID
+RI Ardan Wiratmoko/https://openalex.org/A5072880737; Andri Prima Nugroho/https://openalex.org/A5018651186
+OI Ardan Wiratmoko/0000-0001-9224-5555; Andri Prima Nugroho/0000-0002-5375-2439
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD JUL
+PY 2026
+DI 10.5281/zenodo.21453244
+UT https://openalex.org/W7169802700
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Carmen Jucele Daga
+   Maísa Santos Joaquim
+AF Carmen Jucele Daga
+   Maísa Santos Joaquim
+TI Agricultural drone spraying in Brazil: Regulatory transition and interplay between aviation and agricultural frameworks
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Carmen Jucele Daga] Universidade de Brasília, BR
+   [Maísa Santos Joaquim] Universidade de Brasília, BR
+C3 Universidade de Brasília, BR
+RI Carmen Jucele Daga/https://openalex.org/A5151629094; Maísa Santos Joaquim/https://openalex.org/A5031671717
+OI Carmen Jucele Daga/0009-0002-5669-3814; Maísa Santos Joaquim/0000-0002-2867-0941
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD SEP
+PY 2026
+DI 10.5281/zenodo.22755505
+UT https://openalex.org/W7212662648
+OA green
+DA 2026-11-27
+ER
+
+PT D
+TI Drone Technology and Application in Agriculture
+SO Grow: Plant Health Exchange
+LA English
+DT Dataset
+TC 0
+NR 0
+PD NOV
+PY 2025
+DI 10.1094/grow-cot-11-25-503
+UT https://openalex.org/W4416276401
+OA closed
+DA 2026-11-27
+ER
+
+PT D
+TI Challenges and Opportunities for Spray Drones in Agriculture
+SO Grow: Plant Health Exchange
+LA English
+DT Dataset
+TC 1
+NR 0
+PD JAN
+PY 2025
+DI 10.1094/grow-cot-12-24-488
+UT https://openalex.org/W4406101654
+OA closed
+DA 2026-11-27
+ER
+
+PT D
+TI Introduction to Unmanned Aircraft Use in Agriculture
+SO Grow: Plant Health Exchange
+LA English
+DT Dataset
+TC 0
+NR 0
+PD FEB
+PY 2014
+DI 10.1094/grow-soy-02-14-093
+UT https://openalex.org/W4233727429
+OA closed
+DA 2026-11-27
+ER
+
+PT D
+AU Dewi Endah Kharismawati
+   Toni Kazic
+AF Dewi Endah Kharismawati
+   Toni Kazic
+TI Data and Results for Maize Stand Counting (MaSC): Automated and Accurate Maize Stand Counting from UAV Imagery Using Image Processing and Deep Learning
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Dewi Endah Kharismawati] University of Missouri, US
+   [Toni Kazic] University of Missouri, US
+C3 University of Missouri, US
+RI Dewi Endah Kharismawati/https://openalex.org/A5052160334; Toni Kazic/https://openalex.org/A5040095281
+OI Dewi Endah Kharismawati/0000-0002-3063-1618; Toni Kazic/0000-0001-5971-2406
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD AUG
+PY 2026
+DI 10.5281/zenodo.22219349
+UT https://openalex.org/W7204970231
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Bipul Neupane
+AF Bipul Neupane
+TI Useful AI applications in agriculture: aggregation of machine learning techniques for weather forecasting and banana plant counting
+SO NRCT Data Center
+LA English
+DT Dataset
+C1 [Bipul Neupane]
+RP Bipul Neupane (corresponding author)
+RI Bipul Neupane/https://openalex.org/A5007445923
+OI Bipul Neupane/0000-0002-5331-9897
+TC 0
+NR 0
+PU National Research Council of Thailand
+PD JAN
+PY 2018
+DI 10.14457/tu.the.2018.1680
+UT https://openalex.org/W3209940952
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Wang Maggie Haitian
+AF Wang Maggie Haitian
+TI "Multispectral Remote Sensing for Weed Detection in West Australian Agricultural Lands"
+SO IEEE DataPort
+LA English
+DT Dataset
+C1 [Wang Maggie Haitian]
+RP Wang Maggie Haitian (corresponding author)
+RI Wang Maggie Haitian/https://openalex.org/A5060440311
+TC 0
+NR 0
+PD FEB
+PY 2026
+DI 10.21227/f8e1-5934
+UT https://openalex.org/W7128638692
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU 王健
+   Caiyan Lu
+AF 王健
+   Caiyan Lu
+TI XDA28090402 Dataset for Application Evaluation of Agricultural Demonstration Zone Models in Semi- arid Areas of Western Liaoning
+SO ScienceDB
+LA Chinese
+DT Dataset
+C1 [王健] Institute of Applied Ecology, CN
+   [Caiyan Lu] Institute of Applied Ecology, CN
+C3 Institute of Applied Ecology, CN
+RI 王健/https://openalex.org/A5162492415; Caiyan Lu/https://openalex.org/A5058227107
+TC 0
+NR 0
+PD NOV
+PY 2026
+DI 10.57760/sciencedb.iga.001l5
+UT https://openalex.org/W7235022085
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Li Xiaolin
+   Lu Chunyan
+AF Li Xiaolin
+   Lu Chunyan
+TI The Impact of Unmanned Aerial Vehicle Applications on Agricultural Carbon Emission
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Li Xiaolin]
+   [Lu Chunyan]
+RI Li Xiaolin/https://openalex.org/A5130762371; Lu Chunyan/https://openalex.org/A5130754708
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD MAR
+PY 2026
+DI 10.5281/zenodo.19245491
+UT https://openalex.org/W7141200992
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU João Paulo Arantes Rodrigues da Cunha
+   Matheus A. Sirqueira Neto
+AF João Paulo Arantes Rodrigues da Cunha
+   Matheus A. Sirqueira Neto
+TI ASSEMBLY OF A REMOTELY PILOTED AIRCRAFT OF LOW COST APPLIED TO AGRICULTURE
+SO Figshare
+LA English
+DT Dataset
+C1 [João Paulo Arantes Rodrigues da Cunha]
+   [Matheus A. Sirqueira Neto]
+RI João Paulo Arantes Rodrigues da Cunha/https://openalex.org/A5005533078; Matheus A. Sirqueira Neto/https://openalex.org/A5061893282
+OI João Paulo Arantes Rodrigues da Cunha/0000-0001-8872-3366
+TC 0
+NR 0
+PU Figshare (United Kingdom)
+PD JAN
+PY 2017
+DI 10.6084/m9.figshare.5644903
+UT https://openalex.org/W4394246074
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU lu, zhang
+AF lu, zhang
+TI Research on Ecological Monitoring of Digital Agriculture Industry Driven by Remote Sensing-Smart Devices-AI Collaboration
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [lu, zhang] Jiangxi Agricultural University, CN
+C3 Jiangxi Agricultural University, CN
+RP lu, zhang (corresponding author), Jiangxi Agricultural University, CN
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD DEC
+PY 2025
+DI 10.5281/zenodo.17967021
+UT https://openalex.org/W7115914243
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Adriano Biondo
+   Antonino Galati
+AF Adriano Biondo
+   Antonino Galati
+TI Survey questionnaire on Italian winegrowers' propensity to adopt Precision Agriculture Technologies
+SO Mendeley Data
+LA English
+DT Dataset
+C1 [Adriano Biondo] University of Palermo, IT
+   [Antonino Galati] University of Palermo, IT
+C3 University of Palermo, IT
+RI Adriano Biondo/https://openalex.org/A5136323394; Antonino Galati/https://openalex.org/A5018134262
+OI Adriano Biondo/0009-0004-6757-3011; Antonino Galati/0000-0003-0753-2934
+TC 0
+NR 0
+PD JUN
+PY 2026
+DI 10.17632/77g9453j78
+UT https://openalex.org/W7164297163
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Vinícius Bitencourt Campos Calou
+   Adunias dos Santos Teixeira
+   Luís Clênio Jário Moreira
+   Odílio Coimbra da Rocha Neto
+   José A. Da Silva
+AF Vinícius Bitencourt Campos Calou
+   Adunias dos Santos Teixeira
+   Luís Clênio Jário Moreira
+   Odílio Coimbra da Rocha Neto
+   José A. Da Silva
+TI ESTIMATION OF MAIZE BIOMASS USING UNMANNED AERIAL VEHICLES
+SO Figshare
+LA English
+DT Dataset
+C1 [Vinícius Bitencourt Campos Calou]
+   [Adunias dos Santos Teixeira]
+   [Luís Clênio Jário Moreira]
+   [Odílio Coimbra da Rocha Neto]
+   [José A. Da Silva]
+RI Vinícius Bitencourt Campos Calou/https://openalex.org/A5025482968; Adunias dos Santos Teixeira/https://openalex.org/A5016700564; Luís Clênio Jário Moreira/https://openalex.org/A5046585261; Odílio Coimbra da Rocha Neto/https://openalex.org/A5085367777; José A. Da Silva/https://openalex.org/A5073554056
+OI Vinícius Bitencourt Campos Calou/0000-0002-8396-8054; Adunias dos Santos Teixeira/0000-0002-1480-0944; Luís Clênio Jário Moreira/0000-0001-9918-9744
+TC 1
+NR 0
+PU Figshare (United Kingdom)
+PD JAN
+PY 2019
+DI 10.6084/m9.figshare.11351033
+UT https://openalex.org/W4394461227
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Meng-Yang Lin
+   Mitchell R. Tuinstra
+AF Meng-Yang Lin
+   Mitchell R. Tuinstra
+TI Supporting Data for the Publication Hyperspectral Remote Sensing of Corn Nutrient Status Across Diverse Production Systems with Unmanned Aerial Vehicles
+SO Purdue University Research Repository
+LA English
+DT Dataset
+C1 [Meng-Yang Lin] Purdue University West Lafayette, US
+   [Mitchell R. Tuinstra] Purdue University West Lafayette, US
+C3 Purdue University West Lafayette, US
+RI Meng-Yang Lin/https://openalex.org/A5087023608; Mitchell R. Tuinstra/https://openalex.org/A5055833150
+OI Meng-Yang Lin/0000-0001-8583-5338; Mitchell R. Tuinstra/0000-0002-5322-6519
+FU National Institute of Food and Agriculture
+TC 0
+NR 0
+PU Purdue University West Lafayette
+PD NOV
+PY 2026
+DI 10.4231/d7wy-jr43
+UT https://openalex.org/W7233938705
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Khayitboyev Khushnudjon Uktam ugli
+   WORDLY KNOWLEDGE PUBLISHING CENTER
+AF Khayitboyev Khushnudjon Uktam ugli
+   WORDLY KNOWLEDGE PUBLISHING CENTER
+TI PROSPECTS FOR THE USE OF DIGITAL TECHNOLOGIES (GIS AND REMOTE SENSING) IN LAND RECLAMATION AND IRRIGATED AGRICULTURE
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Khayitboyev Khushnudjon Uktam ugli]
+   [WORDLY KNOWLEDGE PUBLISHING CENTER]
+RI Khayitboyev Khushnudjon Uktam ugli/https://openalex.org/A5147249749; WORDLY KNOWLEDGE PUBLISHING CENTER/https://openalex.org/A5147259982
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD AUG
+PY 2026
+DI 10.5281/zenodo.21946347
+UT https://openalex.org/W7203538991
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Wen Liang Du
+   Tongyu Xu
+   Fenghua Yu
+   Chunling, Chen
+AF Wen Liang Du
+   Tongyu Xu
+   Fenghua Yu
+   Chunling, Chen
+TI Measurement of nitrogen content in rice by inversion of hyperspectral reflectance data from an unmanned aerial vehicle
+SO Figshare
+LA English
+DT Dataset
+C1 [Wen Liang Du]
+   [Tongyu Xu]
+   [Fenghua Yu]
+   [Chunling, Chen]
+RI Wen Liang Du/https://openalex.org/A5101727925; Tongyu Xu/https://openalex.org/A5101533916; Fenghua Yu/https://openalex.org/A5063844973
+OI Wen Liang Du/0000-0003-4018-3190; Tongyu Xu/0000-0001-9284-649X; Fenghua Yu/0000-0001-6545-9873
+TC 0
+NR 0
+PU Figshare (United Kingdom)
+PD JAN
+PY 2018
+DI 10.6084/m9.figshare.6856994
+UT https://openalex.org/W4394273515
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU 张威
+   Caiyan Lu
+AF 张威
+   Caiyan Lu
+TI XDA28090401 Dataset of Integrated Maize Growth Monitoring During the Growing Season in the Rainfed Agricultural Demonstration Area of Northern Liaoning
+SO ScienceDB
+LA Chinese
+DT Dataset
+C1 [张威] Institute of Applied Ecology, CN
+   [Caiyan Lu] Institute of Applied Ecology, CN
+C3 Institute of Applied Ecology, CN
+RI 张威/https://openalex.org/A5162597193; Caiyan Lu/https://openalex.org/A5058227107
+TC 0
+NR 0
+PD NOV
+PY 2026
+DI 10.57760/sciencedb.iga.001l4
+UT https://openalex.org/W7235017430
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Seung-Hwan Go
+   Jae hun Shin
+AF Seung-Hwan Go
+   Jae hun Shin
+TI Code and data for: Ecological memory of riparian vegetation loss reorganises bank shear stress in a small agricultural stream: evidence from a temporal digital twin
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Seung-Hwan Go] Chungbuk National University, KR
+   [Jae hun Shin] Chungbuk National University, KR
+C3 Chungbuk National University, KR
+RI Seung-Hwan Go/https://openalex.org/A5020498445; Jae hun Shin/https://openalex.org/A5018629225
+OI Jae hun Shin/0000-0002-2606-0568
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD OCT
+PY 2026
+DI 10.5281/zenodo.23162069
+UT https://openalex.org/W7220466617
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Елена Попкова
+AF Елена Попкова
+TI Digital agriculture and crop nutritional quality: pilot search records for a systematic map (Europe PMC, 2000–2025)
+SO Mendeley Data
+LA English
+DT Dataset
+C1 [Елена Попкова]
+RP Елена Попкова (corresponding author)
+RI Елена Попкова/https://openalex.org/A5003986800
+TC 0
+NR 0
+PD NOV
+PY 2026
+DI 10.17632/fp4fv65zjc
+UT https://openalex.org/W7225634605
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU GUO Jiao
+AF GUO Jiao
+TI Multi-source and multi-temporal remote sensing data set of economic crop planting structure in Yangling Agricultural Demonstration Area
+SO Science Data Bank Datasets
+LA English
+DT Dataset
+C1 [GUO Jiao]
+RP GUO Jiao (corresponding author)
+TC 0
+NR 0
+PD JUL
+PY 2023
+DI 10.11922/sciencedb.j00001.00371
+UT https://openalex.org/W4383369473
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Aria Hendrawan
+   April Firman Daru
+AF Aria Hendrawan
+   April Firman Daru
+TI Screening data and code for a systematic review of technological tools in rice farming (2016–2026)
+SO Mendeley Data
+LA English
+DT Dataset
+C1 [Aria Hendrawan] State University of Semarang, ID
+   [Aria Hendrawan] Universitas Semarang, ID
+   [April Firman Daru] State University of Semarang, ID
+   [April Firman Daru] Universitas Semarang, ID
+C3 State University of Semarang, ID; Universitas Semarang, ID
+RI Aria Hendrawan/https://openalex.org/A5085345108; April Firman Daru/https://openalex.org/A5059611285
+OI Aria Hendrawan/0000-0002-0732-6447; April Firman Daru/0000-0001-9494-7032
+TC 0
+NR 0
+PD AUG
+PY 2026
+DI 10.17632/87kd7rwrj2
+UT https://openalex.org/W7172509991
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Claudia Milena Serpa-Imbett
+   Lorena Aguayo-Ulloa
+   William Orlando Burgos-Paz
+   Gomez Palencia Erika Luciana
+AF Claudia Milena Serpa-Imbett
+   Lorena Aguayo-Ulloa
+   William Orlando Burgos-Paz
+   Gomez Palencia Erika Luciana
+TI Multisensor and Multitemporal Dataset of Megathyrsus maxi-mus (Mombasa) across Scales: Tussock-Level Proximal VIS–NIR Spectroradiometry, Thermal, and RGB Imaging with Field-Level UAV Multispectral and Satellite Data under Trop-ical Silvopastoral Conditions across Wet and Dry Seasons
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Claudia Milena Serpa-Imbett] Universidad del Sinú, CO
+   [Lorena Aguayo-Ulloa] Universidad de Zaragoza, ES
+   [Lorena Aguayo-Ulloa] Corporación Colombiana de Investigación Agropecuaria – AGROSAVIA, CO
+   [William Orlando Burgos-Paz] Corporación Colombiana de Investigación Agropecuaria – AGROSAVIA, CO
+   [Gomez Palencia Erika Luciana]
+C3 Universidad del Sinú, CO; Universidad de Zaragoza, ES; Corporación Colombiana de Investigación Agropecuaria – AGROSAVIA, CO
+RI Claudia Milena Serpa-Imbett/https://openalex.org/A5085239701; Lorena Aguayo-Ulloa/https://openalex.org/A5086614121; William Orlando Burgos-Paz/https://openalex.org/A5088656855; Gomez Palencia Erika Luciana/https://openalex.org/A5158880291
+OI Claudia Milena Serpa-Imbett/0000-0002-1420-0084; Lorena Aguayo-Ulloa/0000-0002-3825-9515; William Orlando Burgos-Paz/0000-0001-6560-4233
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD OCT
+PY 2026
+DI 10.5281/zenodo.19406165
+UT https://openalex.org/W7222446735
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Тұрсынғазы Д.С. Азизов Э.А.
+AF Тұрсынғазы Д.С. Азизов Э.А.
+TI Bulletin WKU
+LA English
+DT Dataset
+C1 [Тұрсынғазы Д.С. Азизов Э.А.] Al-Farabi Kazakh National University, KZ
+C3 Al-Farabi Kazakh National University, KZ
+RP Тұрсынғазы Д.С. Азизов Э.А. (corresponding author), Al-Farabi Kazakh National University, KZ
+RI Тұрсынғазы Д.С. Азизов Э.А./https://openalex.org/A5122913579
+TC 0
+NR 9
+PD JAN
+PY 2026
+DI 10.37238/2960-1371.2960-138x.2025.100(4).184
+UT https://openalex.org/W7123359960
+OA gold
+DA 2026-11-27
+ER
+
+PT D
+AU Ana Julia Righetto
+   Thiago G. Ramires
+   Luiz Ricardo Nakamura
+   Pedro L. D. B. Castanho
+   Christel Faes
+   Taciana Villela Savian
+AF Ana Julia Righetto
+   Thiago G. Ramires
+   Luiz Ricardo Nakamura
+   Pedro L. D. B. Castanho
+   Christel Faes
+   Taciana Villela Savian
+TI Predicting weed invasion in a sugarcane cultivar using multispectral image
+SO Figshare
+LA English
+DT Dataset
+C1 [Ana Julia Righetto]
+   [Thiago G. Ramires]
+   [Luiz Ricardo Nakamura]
+   [Pedro L. D. B. Castanho]
+   [Christel Faes]
+   [Taciana Villela Savian]
+RI Ana Julia Righetto/https://openalex.org/A5010457706; Thiago G. Ramires/https://openalex.org/A5064275515; Luiz Ricardo Nakamura/https://openalex.org/A5072900297; Pedro L. D. B. Castanho/https://openalex.org/A5086318841; Christel Faes/https://openalex.org/A5023301432; Taciana Villela Savian/https://openalex.org/A5030096274
+OI Ana Julia Righetto/0000-0003-4879-0710; Thiago G. Ramires/0000-0002-1972-7045; Luiz Ricardo Nakamura/0000-0002-7312-2717; Christel Faes/0000-0002-1878-9869; Taciana Villela Savian/0000-0002-3309-6075
+TC 0
+NR 0
+PU Figshare (United Kingdom)
+PD JAN
+PY 2018
+DI 10.6084/m9.figshare.6000002
+UT https://openalex.org/W4394521139
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Juan Vicente Balbastre Tejedor
+   Cecilia Claramunt Puchol
+   Carlos Chuquitarco-Jimenéz
+   Joaquin Vico Navarro
+   Pablo Antonio Morcillo Pallanes
+   Norberto Vera Vélez
+AF Juan Vicente Balbastre Tejedor
+   Cecilia Claramunt Puchol
+   Carlos Chuquitarco-Jimenéz
+   Joaquin Vico Navarro
+   Pablo Antonio Morcillo Pallanes
+   Norberto Vera Vélez
+TI Datasets from BUBBLES validation exercises
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Juan Vicente Balbastre Tejedor] Universitat Politècnica de València, ES
+   [Cecilia Claramunt Puchol] Universitat Politècnica de València, ES
+   [Carlos Chuquitarco-Jimenéz] Universitat Politècnica de València, ES
+   [Joaquin Vico Navarro] Universitat Politècnica de València, ES
+   [Pablo Antonio Morcillo Pallanes] Universitat Politècnica de València, ES
+   [Norberto Vera Vélez] Universitat Politècnica de València, ES
+C3 Universitat Politècnica de València, ES
+RI Juan Vicente Balbastre Tejedor/https://openalex.org/A5091156569; Cecilia Claramunt Puchol/https://openalex.org/A5045003335; Carlos Chuquitarco-Jimenéz/https://openalex.org/A5081202956; Joaquin Vico Navarro/https://openalex.org/A5006551940; Pablo Antonio Morcillo Pallanes/https://openalex.org/A5094361112; Norberto Vera Vélez/https://openalex.org/A5084953938
+OI Juan Vicente Balbastre Tejedor/0000-0003-4434-8095; Cecilia Claramunt Puchol/0000-0003-3144-212X; Carlos Chuquitarco-Jimenéz/0000-0003-2331-5331; Joaquin Vico Navarro/0000-0001-8608-0280; Norberto Vera Vélez/0000-0002-1156-2434
+FU European Commission [893206]; Horizon 2020 Framework Programme
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD DEC
+PY 2022
+DI 10.5281/zenodo.7437989
+UT https://openalex.org/W4393891047
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU João Paulo Arantes Rodrigues da Cunha
+   Maria Rosa Alferes da Silva
+AF João Paulo Arantes Rodrigues da Cunha
+   Maria Rosa Alferes da Silva
+TI Spray deposition from a remotely piloted aircraft on the corn crop
+SO Figshare
+LA English
+DT Dataset
+C1 [João Paulo Arantes Rodrigues da Cunha]
+   [Maria Rosa Alferes da Silva]
+RI João Paulo Arantes Rodrigues da Cunha/https://openalex.org/A5005533078; Maria Rosa Alferes da Silva/https://openalex.org/A5034633576
+OI João Paulo Arantes Rodrigues da Cunha/0000-0001-8872-3366
+TC 3
+NR 0
+PU Figshare (United Kingdom)
+PD JAN
+PY 2023
+DI 10.6084/m9.figshare.22638380
+UT https://openalex.org/W4394144195
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Diogo Castilho Silva
+   Ignacio Antonio Ciampitti
+   Carlos Hernández
+   Danilo Tedesco
+   Beata Emöke Madari
+AF Diogo Castilho Silva
+   Ignacio Antonio Ciampitti
+   Carlos Hernández
+   Danilo Tedesco
+   Beata Emöke Madari
+TI A global dataset for assessing nitrogen-related plant traits using drone imagery in major field crop species
+SO Figshare
+LA English
+DT Dataset
+C1 [Diogo Castilho Silva]
+   [Ignacio Antonio Ciampitti]
+   [Carlos Hernández]
+   [Danilo Tedesco]
+   [Beata Emöke Madari]
+RI Diogo Castilho Silva/https://openalex.org/A5085020009; Ignacio Antonio Ciampitti/https://openalex.org/A5064124035; Carlos Hernández/https://openalex.org/A5040897391; Danilo Tedesco/https://openalex.org/A5035016168; Beata Emöke Madari/https://openalex.org/A5052601403
+OI Diogo Castilho Silva/0000-0003-4721-5351; Ignacio Antonio Ciampitti/0000-0001-9619-5129; Carlos Hernández/0000-0001-5171-2516; Danilo Tedesco/0000-0003-1875-1489; Beata Emöke Madari/0000-0002-6242-6619
+TC 1
+NR 0
+PU Figshare (United Kingdom)
+PD JAN
+PY 2023
+DI 10.6084/m9.figshare.22938797
+UT https://openalex.org/W4394457659
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Bing Xu
+   Xueping Su
+AF Bing Xu
+   Xueping Su
+TI Citrus Disease Image Dataset
+SO ScienceDB
+LA English
+DT Dataset
+C1 [Bing Xu] Guangdong University of Petrochemical Technology, CN
+   [Xueping Su] Guangdong University of Petrochemical Technology, CN
+C3 Guangdong University of Petrochemical Technology, CN
+RI Bing Xu/https://openalex.org/A5139330706; Xueping Su/https://openalex.org/A5044122736
+OI Xueping Su/0000-0003-1306-8453
+TC 0
+NR 0
+PD MAY
+PY 2026
+DI 10.57760/sciencedb.37757
+UT https://openalex.org/W7165921781
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Berton, Andrea
+   Ercolini, Leonardo
+AF Berton, Andrea
+   Ercolini, Leonardo
+TI HERSS-MAIZE 2024; High-rEsolution dRone dataset for Site-Specific weed wanagement in Maize (San Piero - Pisa, Tuscany, Italy)
+SO ReMoTe Data Repository
+LA English
+DT Dataset
+C1 [Berton, Andrea] National Research Council, IT
+   [Ercolini, Leonardo] University of Pisa, IT
+C3 National Research Council, IT; University of Pisa, IT
+TC 1
+NR 0
+PD MAY
+PY 2024
+DI 10.82522/n1cq-bw62
+UT https://openalex.org/W7105744436
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Ashfak Mahmud
+   Juuso Tuure
+   Zhaozhi Luo
+   Mwadime Mjomba
+   Petri Pellikka
+   Janne Heiskanen
+AF Ashfak Mahmud
+   Juuso Tuure
+   Zhaozhi Luo
+   Mwadime Mjomba
+   Petri Pellikka
+   Janne Heiskanen
+TI Dataset from "Multiscale Analysis of Vegetation Cover and Land Surface Temperature in Kenyan Smallholder Farms"
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Ashfak Mahmud] University of Helsinki, FI
+   [Juuso Tuure] University of Helsinki, FI
+   [Zhaozhi Luo] Finnish Geospatial Research Institute, FI
+   [Mwadime Mjomba]
+   [Petri Pellikka] University of Helsinki, FI
+   [Janne Heiskanen] University of Helsinki, FI
+C3 University of Helsinki, FI; Finnish Geospatial Research Institute, FI
+RI Ashfak Mahmud/https://openalex.org/A5018177677; Juuso Tuure/https://openalex.org/A5005401775; Zhaozhi Luo/https://openalex.org/A5065344174; Mwadime Mjomba/https://openalex.org/A5120518723; Petri Pellikka/https://openalex.org/A5036822460; Janne Heiskanen/https://openalex.org/A5002576056
+OI Ashfak Mahmud/0000-0001-7157-689X; Juuso Tuure/0000-0003-2302-3822; Zhaozhi Luo/0000-0002-2508-906X; Petri Pellikka/0000-0002-5996-9268; Janne Heiskanen/0000-0002-3899-8860
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD NOV
+PY 2026
+DI 10.5281/zenodo.24113294
+UT https://openalex.org/W7225748495
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Anindita Das
+AF Anindita Das
+TI Trained Improved-YOLOv7 Models' Weights for weed detection
+SO Mendeley Data
+LA English
+DT Dataset
+C1 [Anindita Das]
+RP Anindita Das (corresponding author)
+RI Anindita Das/https://openalex.org/A5132670899
+TC 0
+NR 0
+PD MAR
+PY 2026
+DI 10.17632/c7r4w7sttr
+UT https://openalex.org/W7147656475
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Berton, Andrea
+   Ercolini, Leonardo
+AF Berton, Andrea
+   Ercolini, Leonardo
+TI HERSS-MAIZE 2025; High-rEsolution dRone dataset for Site-Specific weed wanagement in Maize (San Piero - Pisa, Tuscany, Italy)
+SO ReMoTe Data Repository
+LA English
+DT Dataset
+C1 [Berton, Andrea] National Research Council, IT
+   [Ercolini, Leonardo] University of Pisa, IT
+C3 National Research Council, IT; University of Pisa, IT
+TC 0
+NR 0
+PD MAY
+PY 2025
+DI 10.82522/bs5d-wy47
+UT https://openalex.org/W7106820785
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU John W. Clune
+   Jessica D. DeWitt
+   Gregory B. Noe
+   Victor S Cortes
+   Mitchell R. Weaver
+   Mark A. Roland
+   Matthew J. Cashman
+   Thomas R. Doody
+   Cameron Englehardt
+AF John W. Clune
+   Jessica D. DeWitt
+   Gregory B. Noe
+   Victor S Cortes
+   Mitchell R. Weaver
+   Mark A. Roland
+   Matthew J. Cashman
+   Thomas R. Doody
+   Cameron Englehardt
+TI Datasets associated with sediment response study of Turtle Creek, Union County, Pennsylvania
+SO USGS DOI Tool Production Environment
+LA English
+DT Dataset
+C1 [John W. Clune] United States Geological Survey, US
+   [Jessica D. DeWitt] United States Geological Survey, US
+   [Gregory B. Noe] United States Geological Survey, US
+   [Victor S Cortes] United States Geological Survey, US
+   [Mitchell R. Weaver] United States Geological Survey, US
+   [Mark A. Roland] United States Geological Survey, US
+   [Matthew J. Cashman] United States Geological Survey, US
+   [Thomas R. Doody] United States Geological Survey, US
+   [Cameron Englehardt] Pennsylvania Department of Human Services, US
+C3 United States Geological Survey, US; Pennsylvania Department of Human Services, US
+RI John W. Clune/https://openalex.org/A5047215727; Jessica D. DeWitt/https://openalex.org/A5073624658; Gregory B. Noe/https://openalex.org/A5004304828; Victor S Cortes/https://openalex.org/A5137618074; Mitchell R. Weaver/https://openalex.org/A5081177399; Mark A. Roland/https://openalex.org/A5024123581; Matthew J. Cashman/https://openalex.org/A5062543694; Thomas R. Doody/https://openalex.org/A5073725640; Cameron Englehardt/https://openalex.org/A5146663050
+OI John W. Clune/0000-0002-3563-1975; Jessica D. DeWitt/0000-0002-8281-8134; Gregory B. Noe/0000-0002-6661-2646; Mitchell R. Weaver/0000-0003-3099-2285; Mark A. Roland/0000-0002-0268-6507; Matthew J. Cashman/0000-0002-6635-4309; Thomas R. Doody/0000-0002-2102-738X
+TC 1
+NR 0
+PD MAY
+PY 2026
+DI 10.5066/p13qh3xc
+UT https://openalex.org/W7161108636
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Pineda Bravo, Cristian David
+AF Pineda Bravo, Cristian David
+TI RGB and multispectral Household Smallholder Crops imagery Dataset
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Pineda Bravo, Cristian David] Universidad del Cauca, CO
+C3 Universidad del Cauca, CO
+RP Pineda Bravo, Cristian David (corresponding author), Universidad del Cauca, CO
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD DEC
+PY 2025
+DI 10.5281/zenodo.17823417
+UT https://openalex.org/W7108999209
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Dingju Zhu
+   Zhu Kemeng
+   Mao Shihua
+AF Dingju Zhu
+   Zhu Kemeng
+   Mao Shihua
+TI loofah pests and diseases images
+SO Mendeley Data
+LA English
+DT Dataset
+C1 [Dingju Zhu]
+   [Zhu Kemeng] South China Normal University, CN
+   [Mao Shihua] South China Normal University, CN
+C3 South China Normal University, CN
+RI Dingju Zhu/https://openalex.org/A5121380921; Zhu Kemeng/https://openalex.org/A5125029833; Mao Shihua/https://openalex.org/A5040618697
+TC 0
+NR 0
+PD FEB
+PY 2026
+DI 10.17632/wyhm534ptg
+UT https://openalex.org/W7127639576
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU chenjie
+AF chenjie
+TI AIRSAT1.0: Space-Air Collaborative Multimodal Remote Sensing Interpretation Dataset
+SO ScienceDB
+LA Chinese
+DT Dataset
+C1 [chenjie] Anhui University, CN
+C3 Anhui University, CN
+RP chenjie (corresponding author), Anhui University, CN
+RI chenjie/https://openalex.org/A5132711327
+TC 0
+NR 0
+PD JUL
+PY 2026
+DI 10.57760/sciencedb.radars.00081
+UT https://openalex.org/W7203614190
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Rothamsted Research
+AF Rothamsted Research
+TI AgroUAV-209K Weed Detection Dataset
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Rothamsted Research]
+RP Rothamsted Research (corresponding author)
+RI Rothamsted Research/https://openalex.org/A5120888655
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD JAN
+PY 2026
+DI 10.5281/zenodo.18723368
+UT https://openalex.org/W7130834168
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Qiang Ai
+AF Qiang Ai
+TI "Tobacco plant detection dataset "
+SO IEEE DataPort
+LA English
+DT Dataset
+C1 [Qiang Ai]
+RP Qiang Ai (corresponding author)
+RI Qiang Ai/https://openalex.org/A5139935092
+OI Qiang Ai/0000-0002-3917-2032
+TC 0
+NR 0
+PD APR
+PY 2026
+DI 10.21227/z0yx-fn68
+UT https://openalex.org/W7152712568
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Thapa, Narayan
+   Ghimire, Sushma
+   Shrestha, Reshma
+   Shrestha, Rehana
+AF Thapa, Narayan
+   Ghimire, Sushma
+   Shrestha, Reshma
+   Shrestha, Rehana
+TI Supporting data-driven decision of municipality: A case of mapping rooftop farming using geospatial technology
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Thapa, Narayan] International Centre for Integrated Mountain Development, NP
+   [Ghimire, Sushma]
+   [Shrestha, Reshma] Kathmandu University, NP
+   [Shrestha, Rehana]
+C3 International Centre for Integrated Mountain Development, NP; Kathmandu University, NP
+OI Thapa, Narayan/0000-0002-1932-0579
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD NOV
+PY 2025
+DI 10.5281/zenodo.17768397
+UT https://openalex.org/W7108081645
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+AF Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+LA English
+DT Dataset
+C1 [Xiangyu Ge] Xinjiang University, CN
+   [Jingzhe Wang] Xinjiang University, CN
+   [Jianli Ding] Xinjiang University, CN
+   [Xiaoyi Cao] Xinjiang University, CN
+   [Zipeng Zhang] Xinjiang University, CN
+   [Jie Liu] Xinjiang University, CN
+   [Xiaohang Li] Xinjiang University, CN
+C3 Xinjiang University, CN
+TC 0
+NR 0
+PD APR
+PY 2019
+DI 10.7287/peerj.preprints.27630v1/supp-2
+UT https://openalex.org/W4237967645
+OA gold
+DA 2026-11-27
+ER
+
+PT D
+AU Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+AF Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+LA English
+DT Dataset
+C1 [Xiangyu Ge] Xinjiang University, CN
+   [Jingzhe Wang] Xinjiang University, CN
+   [Jianli Ding] Xinjiang University, CN
+   [Xiaoyi Cao] Xinjiang University, CN
+   [Zipeng Zhang] Xinjiang University, CN
+   [Jie Liu] Xinjiang University, CN
+   [Xiaohang Li] Xinjiang University, CN
+C3 Xinjiang University, CN
+TC 0
+NR 0
+PD APR
+PY 2019
+DI 10.7287/peerj.preprints.27630/supp-7
+UT https://openalex.org/W4246869498
+OA gold
+DA 2026-11-27
+ER
+
+PT D
+AU Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+AF Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+LA English
+DT Dataset
+C1 [Xiangyu Ge] Xinjiang University, CN
+   [Jingzhe Wang] Xinjiang University, CN
+   [Jianli Ding] Xinjiang University, CN
+   [Xiaoyi Cao] Xinjiang University, CN
+   [Zipeng Zhang] Xinjiang University, CN
+   [Jie Liu] Xinjiang University, CN
+   [Xiaohang Li] Xinjiang University, CN
+C3 Xinjiang University, CN
+TC 0
+NR 0
+PD APR
+PY 2019
+DI 10.7287/peerj.preprints.27630v1/supp-4
+UT https://openalex.org/W4242547261
+OA gold
+DA 2026-11-27
+ER
+
+PT D
+AU Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+AF Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+LA English
+DT Dataset
+C1 [Xiangyu Ge] Xinjiang University, CN
+   [Jingzhe Wang] Xinjiang University, CN
+   [Jianli Ding] Xinjiang University, CN
+   [Xiaoyi Cao] Xinjiang University, CN
+   [Zipeng Zhang] Xinjiang University, CN
+   [Jie Liu] Xinjiang University, CN
+   [Xiaohang Li] Xinjiang University, CN
+C3 Xinjiang University, CN
+TC 0
+NR 0
+PD APR
+PY 2019
+DI 10.7287/peerj.preprints.27630v1/supp-6
+UT https://openalex.org/W4230298443
+OA gold
+DA 2026-11-27
+ER
+
+PT D
+AU Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+AF Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+LA English
+DT Dataset
+C1 [Xiangyu Ge] Xinjiang University, CN
+   [Jingzhe Wang] Xinjiang University, CN
+   [Jianli Ding] Xinjiang University, CN
+   [Xiaoyi Cao] Xinjiang University, CN
+   [Zipeng Zhang] Xinjiang University, CN
+   [Jie Liu] Xinjiang University, CN
+   [Xiaohang Li] Xinjiang University, CN
+C3 Xinjiang University, CN
+TC 0
+NR 0
+PD APR
+PY 2019
+DI 10.7287/peerj.preprints.27630v1/supp-9
+UT https://openalex.org/W4234792965
+OA gold
+DA 2026-11-27
+ER
+
+PT D
+AU Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+AF Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+LA English
+DT Dataset
+C1 [Xiangyu Ge] Xinjiang University, CN
+   [Jingzhe Wang] Xinjiang University, CN
+   [Jianli Ding] Xinjiang University, CN
+   [Xiaoyi Cao] Xinjiang University, CN
+   [Zipeng Zhang] Xinjiang University, CN
+   [Jie Liu] Xinjiang University, CN
+   [Xiaohang Li] Xinjiang University, CN
+C3 Xinjiang University, CN
+TC 0
+NR 0
+PD APR
+PY 2019
+DI 10.7287/peerj.preprints.27630/supp-9
+UT https://openalex.org/W4232764007
+OA gold
+DA 2026-11-27
+ER
+
+PT D
+AU Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+AF Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+LA English
+DT Dataset
+C1 [Xiangyu Ge] Xinjiang University, CN
+   [Jingzhe Wang] Xinjiang University, CN
+   [Jianli Ding] Xinjiang University, CN
+   [Xiaoyi Cao] Xinjiang University, CN
+   [Zipeng Zhang] Xinjiang University, CN
+   [Jie Liu] Xinjiang University, CN
+   [Xiaohang Li] Xinjiang University, CN
+C3 Xinjiang University, CN
+TC 0
+NR 0
+PD APR
+PY 2019
+DI 10.7287/peerj.preprints.27630/supp-2
+UT https://openalex.org/W4235507125
+OA gold
+DA 2026-11-27
+ER
+
+PT D
+AU Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+AF Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+LA English
+DT Dataset
+C1 [Xiangyu Ge] Xinjiang University, CN
+   [Jingzhe Wang] Xinjiang University, CN
+   [Jianli Ding] Xinjiang University, CN
+   [Xiaoyi Cao] Xinjiang University, CN
+   [Zipeng Zhang] Xinjiang University, CN
+   [Jie Liu] Xinjiang University, CN
+   [Xiaohang Li] Xinjiang University, CN
+C3 Xinjiang University, CN
+TC 0
+NR 0
+PD APR
+PY 2019
+DI 10.7287/peerj.preprints.27630v1/supp-7
+UT https://openalex.org/W4246002473
+OA gold
+DA 2026-11-27
+ER
+
+PT D
+AU Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+AF Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+LA English
+DT Dataset
+C1 [Xiangyu Ge] Xinjiang University, CN
+   [Jingzhe Wang] Xinjiang University, CN
+   [Jianli Ding] Xinjiang University, CN
+   [Xiaoyi Cao] Xinjiang University, CN
+   [Zipeng Zhang] Xinjiang University, CN
+   [Jie Liu] Xinjiang University, CN
+   [Xiaohang Li] Xinjiang University, CN
+C3 Xinjiang University, CN
+TC 0
+NR 0
+PD APR
+PY 2019
+DI 10.7287/peerj.preprints.27630v1/supp-10
+UT https://openalex.org/W4256236888
+OA gold
+DA 2026-11-27
+ER
+
+PT D
+AU Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+AF Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+LA English
+DT Dataset
+C1 [Xiangyu Ge] Xinjiang University, CN
+   [Jingzhe Wang] Xinjiang University, CN
+   [Jianli Ding] Xinjiang University, CN
+   [Xiaoyi Cao] Xinjiang University, CN
+   [Zipeng Zhang] Xinjiang University, CN
+   [Jie Liu] Xinjiang University, CN
+   [Xiaohang Li] Xinjiang University, CN
+C3 Xinjiang University, CN
+TC 0
+NR 0
+PD APR
+PY 2019
+DI 10.7287/peerj.preprints.27630/supp-4
+UT https://openalex.org/W4242855086
+OA gold
+DA 2026-11-27
+ER
+
+PT D
+AU Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+AF Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+LA English
+DT Dataset
+C1 [Xiangyu Ge] Xinjiang University, CN
+   [Jingzhe Wang] Xinjiang University, CN
+   [Jianli Ding] Xinjiang University, CN
+   [Xiaoyi Cao] Xinjiang University, CN
+   [Zipeng Zhang] Xinjiang University, CN
+   [Jie Liu] Xinjiang University, CN
+   [Xiaohang Li] Xinjiang University, CN
+C3 Xinjiang University, CN
+TC 0
+NR 0
+PD APR
+PY 2019
+DI 10.7287/peerj.preprints.27630/supp-10
+UT https://openalex.org/W4241852125
+OA gold
+DA 2026-11-27
+ER
+
+PT D
+AU Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+AF Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+LA English
+DT Dataset
+C1 [Xiangyu Ge] Xinjiang University, CN
+   [Jingzhe Wang] Xinjiang University, CN
+   [Jianli Ding] Xinjiang University, CN
+   [Xiaoyi Cao] Xinjiang University, CN
+   [Zipeng Zhang] Xinjiang University, CN
+   [Jie Liu] Xinjiang University, CN
+   [Xiaohang Li] Xinjiang University, CN
+C3 Xinjiang University, CN
+TC 0
+NR 0
+PD APR
+PY 2019
+DI 10.7287/peerj.preprints.27630/supp-3
+UT https://openalex.org/W4245073550
+OA gold
+DA 2026-11-27
+ER
+
+PT D
+AU Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+AF Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+LA English
+DT Dataset
+C1 [Xiangyu Ge] Xinjiang University, CN
+   [Jingzhe Wang] Xinjiang University, CN
+   [Jianli Ding] Xinjiang University, CN
+   [Xiaoyi Cao] Xinjiang University, CN
+   [Zipeng Zhang] Xinjiang University, CN
+   [Jie Liu] Xinjiang University, CN
+   [Xiaohang Li] Xinjiang University, CN
+C3 Xinjiang University, CN
+TC 0
+NR 0
+PD APR
+PY 2019
+DI 10.7287/peerj.preprints.27630v1/supp-8
+UT https://openalex.org/W4242235940
+OA gold
+DA 2026-11-27
+ER
+
+PT D
+AU Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+AF Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+LA English
+DT Dataset
+C1 [Xiangyu Ge] Xinjiang University, CN
+   [Jingzhe Wang] Xinjiang University, CN
+   [Jianli Ding] Xinjiang University, CN
+   [Xiaoyi Cao] Xinjiang University, CN
+   [Zipeng Zhang] Xinjiang University, CN
+   [Jie Liu] Xinjiang University, CN
+   [Xiaohang Li] Xinjiang University, CN
+C3 Xinjiang University, CN
+TC 0
+NR 0
+PD APR
+PY 2019
+DI 10.7287/peerj.preprints.27630/supp-8
+UT https://openalex.org/W4234972721
+OA gold
+DA 2026-11-27
+ER
+
+PT D
+AU Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+AF Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+LA English
+DT Dataset
+C1 [Xiangyu Ge] Xinjiang University, CN
+   [Jingzhe Wang] Xinjiang University, CN
+   [Jianli Ding] Xinjiang University, CN
+   [Xiaoyi Cao] Xinjiang University, CN
+   [Zipeng Zhang] Xinjiang University, CN
+   [Jie Liu] Xinjiang University, CN
+   [Xiaohang Li] Xinjiang University, CN
+C3 Xinjiang University, CN
+TC 0
+NR 0
+PD APR
+PY 2019
+DI 10.7287/peerj.preprints.27630v1/supp-5
+UT https://openalex.org/W4240555846
+OA gold
+DA 2026-11-27
+ER
+
+PT D
+AU Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+AF Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+LA English
+DT Dataset
+C1 [Xiangyu Ge] Xinjiang University, CN
+   [Jingzhe Wang] Xinjiang University, CN
+   [Jianli Ding] Xinjiang University, CN
+   [Xiaoyi Cao] Xinjiang University, CN
+   [Zipeng Zhang] Xinjiang University, CN
+   [Jie Liu] Xinjiang University, CN
+   [Xiaohang Li] Xinjiang University, CN
+C3 Xinjiang University, CN
+TC 0
+NR 0
+PD APR
+PY 2019
+DI 10.7287/peerj.preprints.27630v1/supp-3
+UT https://openalex.org/W4252605820
+OA gold
+DA 2026-11-27
+ER
+
+PT D
+AU Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+AF Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+LA English
+DT Dataset
+C1 [Xiangyu Ge] Xinjiang University, CN
+   [Jingzhe Wang] Xinjiang University, CN
+   [Jianli Ding] Xinjiang University, CN
+   [Xiaoyi Cao] Xinjiang University, CN
+   [Zipeng Zhang] Xinjiang University, CN
+   [Jie Liu] Xinjiang University, CN
+   [Xiaohang Li] Xinjiang University, CN
+C3 Xinjiang University, CN
+TC 0
+NR 0
+PD APR
+PY 2019
+DI 10.7287/peerj.preprints.27630/supp-5
+UT https://openalex.org/W4254452082
+OA gold
+DA 2026-11-27
+ER
+
+PT D
+AU Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+AF Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+LA English
+DT Dataset
+C1 [Xiangyu Ge] Xinjiang University, CN
+   [Jingzhe Wang] Xinjiang University, CN
+   [Jianli Ding] Xinjiang University, CN
+   [Xiaoyi Cao] Xinjiang University, CN
+   [Zipeng Zhang] Xinjiang University, CN
+   [Jie Liu] Xinjiang University, CN
+   [Xiaohang Li] Xinjiang University, CN
+C3 Xinjiang University, CN
+TC 0
+NR 0
+PD APR
+PY 2019
+DI 10.7287/peerj.preprints.27630v1/supp-1
+UT https://openalex.org/W4250768472
+OA gold
+DA 2026-11-27
+ER
+
+PT D
+AU Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+AF Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+LA English
+DT Dataset
+C1 [Xiangyu Ge] Xinjiang University, CN
+   [Jingzhe Wang] Xinjiang University, CN
+   [Jianli Ding] Xinjiang University, CN
+   [Xiaoyi Cao] Xinjiang University, CN
+   [Zipeng Zhang] Xinjiang University, CN
+   [Jie Liu] Xinjiang University, CN
+   [Xiaohang Li] Xinjiang University, CN
+C3 Xinjiang University, CN
+TC 0
+NR 0
+PD APR
+PY 2019
+DI 10.7287/peerj.preprints.27630/supp-1
+UT https://openalex.org/W4240814784
+OA gold
+DA 2026-11-27
+ER
+
+PT D
+AU Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+AF Xiangyu Ge
+   Jingzhe Wang
+   Jianli Ding
+   Xiaoyi Cao
+   Zipeng Zhang
+   Jie Liu
+   Xiaohang Li
+LA English
+DT Dataset
+C1 [Xiangyu Ge] Xinjiang University, CN
+   [Jingzhe Wang] Xinjiang University, CN
+   [Jianli Ding] Xinjiang University, CN
+   [Xiaoyi Cao] Xinjiang University, CN
+   [Zipeng Zhang] Xinjiang University, CN
+   [Jie Liu] Xinjiang University, CN
+   [Xiaohang Li] Xinjiang University, CN
+C3 Xinjiang University, CN
+TC 0
+NR 0
+PD APR
+PY 2019
+DI 10.7287/peerj.preprints.27630/supp-6
+UT https://openalex.org/W4243330518
+OA gold
+DA 2026-11-27
+ER
+
+PT D
+AU Matheus Silva Oliveira
+   Gustavo André de Araújo Santos
+AF Matheus Silva Oliveira
+   Gustavo André de Araújo Santos
+TI Data and code for: Between-system contrasts can inflate remote sensing accuracy for soil carbon: a call for within-field validation
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Matheus Silva Oliveira] Universidade Federal do Maranhão, BR
+   [Gustavo André de Araújo Santos] Universidade Federal do Maranhão, BR
+C3 Universidade Federal do Maranhão, BR
+RI Matheus Silva Oliveira/https://openalex.org/A5067386023; Gustavo André de Araújo Santos/https://openalex.org/A5049116633
+OI Matheus Silva Oliveira/0000-0001-9148-5936; Gustavo André de Araújo Santos/0000-0002-7922-9902
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD OCT
+PY 2026
+DI 10.5281/zenodo.23629286
+UT https://openalex.org/W7223450544
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Bryn E. Morgan
+AF Bryn E. Morgan
+TI Data for "Co-regulation of water use and canopy temperature in desert trees"
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Bryn E. Morgan] University of California, Santa Barbara, US
+   [Bryn E. Morgan] Massachusetts Institute of Technology, US
+C3 University of California, Santa Barbara, US; Massachusetts Institute of Technology, US
+RP Bryn E. Morgan (corresponding author), University of California, Santa Barbara, US
+RI Bryn E. Morgan/https://openalex.org/A5077729644
+OI Bryn E. Morgan/0000-0002-4672-3955
+FU Fulbright Program; American Philosophical Society; American Geophysical Union
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD JAN
+PY 2025
+DI 10.5281/zenodo.17563442
+UT https://openalex.org/W7104744735
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Εleni Mougiakou
+   Angeliki Paraskevopoulou
+   Emmanouil Psomiadis
+AF Εleni Mougiakou
+   Angeliki Paraskevopoulou
+   Emmanouil Psomiadis
+TI Classified thermal orthomosaics of urban green spaces in Athens during heatwave conditions (2023–2024)
+SO Figshare
+LA English
+DT Dataset
+C1 [Εleni Mougiakou]
+   [Angeliki Paraskevopoulou]
+   [Emmanouil Psomiadis]
+RI Εleni Mougiakou/https://openalex.org/A5062364790; Angeliki Paraskevopoulou/https://openalex.org/A5140403457; Emmanouil Psomiadis/https://openalex.org/A5017549398
+OI Εleni Mougiakou/0000-0003-0954-6651; Emmanouil Psomiadis/0000-0002-1094-9397
+TC 0
+NR 0
+PU Figshare (United Kingdom)
+PD APR
+PY 2026
+DI 10.6084/m9.figshare.31883464
+UT https://openalex.org/W7149935472
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Berdiqulov Xurshid Esaqul óg'li
+   Worldly Knowledge Publishing Centre
+AF Berdiqulov Xurshid Esaqul óg'li
+   Worldly Knowledge Publishing Centre
+TI PROSPECTS FOR THE APPLICATION OF ARTIFICIAL INTELLIGENCE AND AUTONOMOUS NAVIGATION SYSTEMS IN UNMANNED AERIAL VEHICLES
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Berdiqulov Xurshid Esaqul óg'li]
+   [Worldly Knowledge Publishing Centre]
+RI Berdiqulov Xurshid Esaqul óg'li/https://openalex.org/A5133922646; Worldly Knowledge Publishing Centre/https://openalex.org/A5143702077
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD NOV
+PY 2026
+DI 10.5281/zenodo.24568454
+UT https://openalex.org/W7240059340
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Ángela Pacheco
+   Iván Ortiz‐Monasterio
+   Francelino Rodrígues Junior
+   Miguel Quemada
+   Juan A. Burgueño
+   Srinivasa Reddy Mothukuri
+AF Ángela Pacheco
+   Iván Ortiz‐Monasterio
+   Francelino Rodrígues Junior
+   Miguel Quemada
+   Juan A. Burgueño
+   Srinivasa Reddy Mothukuri
+TI Replication Data for: A Framework for Predicting Wheat Grain Quality Using Hyperspectral and Multispectral Derived Matrices with Statistical Learning Methods
+SO Centro Internacional de Mejoramiento de Maíz y Trigo
+LA English
+DT Dataset
+C1 [Ángela Pacheco] Centro Internacional de Mejoramiento de Maíz Y Trigo, MX
+   [Ángela Pacheco] International Maize and Wheat Improvement Center, KE
+   [Ángela Pacheco] International Maize and Wheat Improvement Center, IN
+   [Iván Ortiz‐Monasterio] Centro Internacional de Mejoramiento de Maíz Y Trigo, MX
+   [Iván Ortiz‐Monasterio] International Maize and Wheat Improvement Center, KE
+   [Iván Ortiz‐Monasterio] International Maize and Wheat Improvement Center, IN
+   [Francelino Rodrígues Junior] Food and Agriculture Organization of the United Nations, IT
+   [Miguel Quemada]
+   [Juan A. Burgueño] Centro Internacional de Mejoramiento de Maíz Y Trigo, MX
+   [Juan A. Burgueño] International Maize and Wheat Improvement Center, KE
+   [Juan A. Burgueño] International Maize and Wheat Improvement Center, IN
+   [Srinivasa Reddy Mothukuri] The University of Queensland, AU
+C3 Centro Internacional de Mejoramiento de Maíz Y Trigo, MX; International Maize and Wheat Improvement Center, KE; International Maize and Wheat Improvement Center, IN; Food and Agriculture Organization of the United Nations, IT; The University of Queensland, AU
+RI Ángela Pacheco/https://openalex.org/A5066073032; Iván Ortiz‐Monasterio/https://openalex.org/A5038261279; Francelino Rodrígues Junior/https://openalex.org/A5138765066; Miguel Quemada/https://openalex.org/A5060538952; Juan A. Burgueño/https://openalex.org/A5033435311; Srinivasa Reddy Mothukuri/https://openalex.org/A5069718601
+OI Ángela Pacheco/0000-0002-7213-6391; Iván Ortiz‐Monasterio/0000-0002-2572-3219; Miguel Quemada/0000-0001-5793-2835; Juan A. Burgueño/0000-0002-1468-4867; Srinivasa Reddy Mothukuri/0000-0003-2232-6100
+TC 0
+NR 0
+PD JUN
+PY 2026
+DI 10.71682/10549430
+UT https://openalex.org/W7164998018
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Senthilkumar MKS
+   K. Sornalakshmi
+   Ramadass Sivalingam
+AF Senthilkumar MKS
+   K. Sornalakshmi
+   Ramadass Sivalingam
+TI A Multi-Varietal, Multi-stage Rice Phenotyping Dataset (RicePheno-3V4S)
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Senthilkumar MKS] SRM Institute of Science and Technology, IN
+   [K. Sornalakshmi] SRM Institute of Science and Technology, IN
+   [Ramadass Sivalingam] SRM Institute of Science and Technology, IN
+C3 SRM Institute of Science and Technology, IN
+RI Senthilkumar MKS/https://openalex.org/A5136461108; K. Sornalakshmi/https://openalex.org/A5109543672; Ramadass Sivalingam/https://openalex.org/A5064279947
+OI Senthilkumar MKS/0009-0007-8459-7228; Ramadass Sivalingam/0009-0001-6870-4253
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD MAY
+PY 2026
+DI 10.5281/zenodo.20152044
+UT https://openalex.org/W7161718353
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Viktor Zhukovskyy
+   Viktoriia Romasenko
+AF Viktor Zhukovskyy
+   Viktoriia Romasenko
+TI Ukraine Aerial Crater Dataset: aerial and satellite images with YOLO annotations of explosion craters
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Viktor Zhukovskyy] National University of Water and Environmental Engineering, UA
+   [Viktoriia Romasenko] Junior Academy of Sciences, UA
+C3 National University of Water and Environmental Engineering, UA; Junior Academy of Sciences, UA
+RI Viktor Zhukovskyy/https://openalex.org/A5083130663; Viktoriia Romasenko/https://openalex.org/A5164359084
+OI Viktor Zhukovskyy/0000-0002-7088-6930
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD NOV
+PY 2026
+DI 10.5281/zenodo.24544435
+UT https://openalex.org/W7239803763
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Lu Zhang
+   Xi Zhang
+AF Lu Zhang
+   Xi Zhang
+TI JoVE Video Dataset
+LA English
+DT Dataset
+C1 [Lu Zhang] Nanchang Business College of Jiangxi Agricultural University, CN
+   [Lu Zhang] Jiangxi Agricultural University, CN
+   [Xi Zhang]
+C3 Nanchang Business College of Jiangxi Agricultural University, CN; Jiangxi Agricultural University, CN
+RP Lu Zhang (corresponding author), Nanchang Business College of Jiangxi Agricultural University, CN
+RI Lu Zhang/https://openalex.org/A5159907041; Xi Zhang/https://openalex.org/A5129113886
+TC 0
+NR 35
+PD MAR
+PY 2026
+DI 10.3791/69777-v
+UT https://openalex.org/W7135235954
+OA closed
+DA 2026-11-27
+ER
+
+PT D
+AU Lennart Almstedt
+   Francesco Betti Sorbelli
+   Papiya Das
+   David Niederprüm
+   Lorenzo Palazzetti
+   Cristina Maria Pinotti
+   L. Wolf
+AF Lennart Almstedt
+   Francesco Betti Sorbelli
+   Papiya Das
+   David Niederprüm
+   Lorenzo Palazzetti
+   Cristina Maria Pinotti
+   L. Wolf
+TI Haly.ID: A Multi-year Multi-modal Dataset for Halyomorpha halys (BMSB) Monitoring in Pear Orchards (Italy, 2021–2023)
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Lennart Almstedt] Technische Universität Braunschweig, DE
+   [Francesco Betti Sorbelli] University of Perugia, IT
+   [Papiya Das] University of Florence, IT
+   [David Niederprüm] Technische Universität Braunschweig, DE
+   [Lorenzo Palazzetti] Pennsylvania State University, US
+   [Cristina Maria Pinotti] University of Perugia, IT
+   [L. Wolf] Technische Universität Braunschweig, DE
+C3 Technische Universität Braunschweig, DE; University of Perugia, IT; University of Florence, IT; Pennsylvania State University, US
+RI Lennart Almstedt/https://openalex.org/A5081401276; Francesco Betti Sorbelli/https://openalex.org/A5080004660; Papiya Das/https://openalex.org/A5109762414; David Niederprüm/https://openalex.org/A5092952336; Lorenzo Palazzetti/https://openalex.org/A5055344099; Cristina Maria Pinotti/https://openalex.org/A5066308534; L. Wolf/https://openalex.org/A5008763562
+OI Lennart Almstedt/0000-0002-0537-4955; Francesco Betti Sorbelli/0000-0003-0450-2721; David Niederprüm/0009-0007-8987-7317; Lorenzo Palazzetti/0000-0003-3069-3971; Cristina Maria Pinotti/0000-0002-8674-868X
+TC 1
+NR 0
+PU European Organization for Nuclear Research
+PD DEC
+PY 2025
+DI 10.5281/zenodo.18045392
+UT https://openalex.org/W7117326519
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Yaşar University
+AF Yaşar University
+TI DEEP FARM : OLIVE use case Dataset
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Yaşar University]
+RP Yaşar University (corresponding author)
+RI Yaşar University/https://openalex.org/A5120880342
+FU Erasmus+ [101128032]
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD DEC
+PY 2025
+DI 10.5281/zenodo.17990379
+UT https://openalex.org/W7116426949
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Nikos Arvanitis
+   Sarah Bossuyt
+   Eva M. Ampe
+AF Nikos Arvanitis
+   Sarah Bossuyt
+   Eva M. Ampe
+TI AgriDataValue - Weed Detection Image Dataset
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Nikos Arvanitis]
+   [Sarah Bossuyt] Inagro (Belgium), BE
+   [Eva M. Ampe] Inagro (Belgium), BE
+C3 Inagro (Belgium), BE
+RI Nikos Arvanitis/https://openalex.org/A5068277535; Sarah Bossuyt/https://openalex.org/A5128701175; Eva M. Ampe/https://openalex.org/A5022432577
+OI Nikos Arvanitis/0009-0000-1409-9388; Eva M. Ampe/0000-0001-9322-2742
+TC 1
+NR 0
+PU European Organization for Nuclear Research
+PD MAR
+PY 2026
+DI 10.5281/zenodo.18956536
+UT https://openalex.org/W7134918206
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Sabine-Karen Lammoglia
+AF Sabine-Karen Lammoglia
+TI Multispectral drone images of cocoa agroforestry in Cote d'Ivoire - Raw images
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Sabine-Karen Lammoglia] Centre de Coopération Internationale en Recherche Agronomique pour le Développement, FR
+C3 Centre de Coopération Internationale en Recherche Agronomique pour le Développement, FR
+RP Sabine-Karen Lammoglia (corresponding author), Centre de Coopération Internationale en Recherche Agronomique pour le Développement, FR
+RI Sabine-Karen Lammoglia/https://openalex.org/A5054019804
+OI Sabine-Karen Lammoglia/0000-0002-8807-2791
+FU European Commission [FOOD/2019/412-132]
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD DEC
+PY 2023
+DI 10.5281/zenodo.10317144
+UT https://openalex.org/W4394031000
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Thiago J. M. Baldivieso
+AF Thiago J. M. Baldivieso
+TI "DATASET_GAUSSIANFUSION_AI"
+SO IEEE DataPort
+LA English
+DT Dataset
+C1 [Thiago J. M. Baldivieso]
+RP Thiago J. M. Baldivieso (corresponding author)
+RI Thiago J. M. Baldivieso/https://openalex.org/A5081440437
+OI Thiago J. M. Baldivieso/0000-0002-6803-8297
+TC 0
+NR 0
+PD JAN
+PY 2026
+DI 10.21227/7fxd-y912
+UT https://openalex.org/W7126193862
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Sophie Wildeboer
+AF Sophie Wildeboer
+TI MegaWeeds dataset
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Sophie Wildeboer]
+RP Sophie Wildeboer (corresponding author)
+RI Sophie Wildeboer/https://openalex.org/A5094346214
+TC 2
+NR 0
+PU European Organization for Nuclear Research
+PD JUN
+PY 2023
+DI 10.5281/zenodo.8077194
+UT https://openalex.org/W4393709349
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Ľuboš Skurčák
+   Andrej Halabuk
+AF Ľuboš Skurčák
+   Andrej Halabuk
+TI Helicopter-Borne HySpex Maize-Weed Patch Dataset Convolved to MicaSense Altum and DJI Phantom 4 Multispectral Bands
+SO Figshare
+LA English
+DT Dataset
+C1 [Ľuboš Skurčák]
+   [Andrej Halabuk]
+RI Ľuboš Skurčák/https://openalex.org/A5139654800; Andrej Halabuk/https://openalex.org/A5030785635
+OI Andrej Halabuk/0000-0002-9055-8563
+TC 0
+NR 0
+PU Figshare (United Kingdom)
+PD JUN
+PY 2026
+DI 10.6084/m9.figshare.32841389
+UT https://openalex.org/W7166693011
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Augmenta (acquired by CNH Industrial)
+AF Augmenta (acquired by CNH Industrial)
+TI Augmenta Tractor-Drone Co-Robotics Dataset for Weed Detection
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Augmenta (acquired by CNH Industrial)]
+RP Augmenta (acquired by CNH Industrial) (corresponding author)
+RI Augmenta (acquired by CNH Industrial)/https://openalex.org/A5123256901
+FU European Commission [101092912]
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD JAN
+PY 2026
+DI 10.5281/zenodo.18293249
+UT https://openalex.org/W7124603703
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Yufan Yan
+AF Yufan Yan
+TI Farmland Shelterbelts in China
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Yufan Yan]
+RP Yufan Yan (corresponding author)
+RI Yufan Yan/https://openalex.org/A5147885102
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD AUG
+PY 2026
+DI 10.5281/zenodo.22068817
+UT https://openalex.org/W7204024772
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Joaquim Condeça
+   João Nascimento
+   Nuno Barreiras
+   Carla Cristina Roque Rebelo
+AF Joaquim Condeça
+   João Nascimento
+   Nuno Barreiras
+   Carla Cristina Roque Rebelo
+TI High-resolution assessment of soil tillage impacts on groundwater recharge using drone imagery
+SO HydroShare Resources
+LA English
+DT Dataset
+C1 [Joaquim Condeça]
+   [João Nascimento]
+   [Nuno Barreiras]
+   [Carla Cristina Roque Rebelo]
+RI Joaquim Condeça/https://openalex.org/A5038314197; Nuno Barreiras/https://openalex.org/A5059622321; Carla Cristina Roque Rebelo/https://openalex.org/A5052620323
+OI Joaquim Condeça/0000-0001-5242-556X; Nuno Barreiras/0000-0001-9025-0625; Carla Cristina Roque Rebelo/0000-0001-5448-4790
+TC 1
+NR 0
+PD AUG
+PY 2025
+DI 10.4211/hs.cad378adb8d049b9a25c3e9628ca5f8a
+UT https://openalex.org/W4413105830
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Joaquim Condeça
+   João Nascimento
+   Nuno Barreiras
+   Carla Cristina Roque Rebelo
+AF Joaquim Condeça
+   João Nascimento
+   Nuno Barreiras
+   Carla Cristina Roque Rebelo
+TI High-resolution assessment of soil tillage impacts on groundwater recharge using drone imagery
+SO HydroShare Resources
+LA English
+DT Dataset
+C1 [Joaquim Condeça]
+   [João Nascimento]
+   [Nuno Barreiras]
+   [Carla Cristina Roque Rebelo]
+RI Joaquim Condeça/https://openalex.org/A5038314197; Nuno Barreiras/https://openalex.org/A5059622321; Carla Cristina Roque Rebelo/https://openalex.org/A5052620323
+OI Joaquim Condeça/0000-0001-5242-556X; Nuno Barreiras/0000-0001-9025-0625; Carla Cristina Roque Rebelo/0000-0001-5448-4790
+TC 0
+NR 0
+PD AUG
+PY 2025
+DI 10.4211/hs.dd3e86e079cb4d2497f3465d26bc2cc7
+UT https://openalex.org/W4413131857
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU AL HELAL
+AF AL HELAL
+TI High-Resolution LiDAR-Derived DEM for Flood Inundation and Risk Assessment in a Floodplain Area of Bangladesh
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [AL HELAL]
+RP AL HELAL (corresponding author)
+RI AL HELAL/https://openalex.org/A5140231622
+OI AL HELAL/0009-0000-9130-8630
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD SEP
+PY 2026
+DI 10.5281/zenodo.23005402
+UT https://openalex.org/W7214595069
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Sikudhan Lucas Mpuhus
+   Zhao Jin
+AF Sikudhan Lucas Mpuhus
+   Zhao Jin
+TI Harmonized Tea Weed–Disease–Pest Object Detection Dataset (v1.0)
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Sikudhan Lucas Mpuhus]
+   [Zhao Jin]
+RI Sikudhan Lucas Mpuhus/https://openalex.org/A5093936946; Zhao Jin/https://openalex.org/A5127753963
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD NOV
+PY 2026
+DI 10.5281/zenodo.23911767
+UT https://openalex.org/W7225194004
+OA green
+DA 2026-11-27
+ER
+
+PT D
+AU Travis Raymond-Charlie Stone
+AF Travis Raymond-Charlie Stone
+TI Stone Style Programming paradigm prototype
+SO Zenodo (CERN European Organization for Nuclear Research)
+LA English
+DT Dataset
+C1 [Travis Raymond-Charlie Stone]
+RP Travis Raymond-Charlie Stone (corresponding author)
+RI Travis Raymond-Charlie Stone/https://openalex.org/A5121000224
+TC 0
+NR 0
+PU European Organization for Nuclear Research
+PD MAY
+PY 2026
+DI 10.5281/zenodo.20311649
+UT https://openalex.org/W7161834765
+OA green
+DA 2026-11-27
+ER
+
+EF
